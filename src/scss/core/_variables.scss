@@ -1,0 +1,22 @@
+$color-navy-blue: #003b4f;
+$color-navy-white: #fffef9;
+$color-navy-black: #08262c;
+$color-yellow: #e8b00f;
+$color-gray: #c6ccd0;
+$color-teal-blue: #088199;
+
+$color-primary: $color-navy-blue;
+$color-primary-darker: darken($color-primary, 5%);
+$color-primary-darkest: darken($color-primary, 10%);
+
+$color-primary-alt: $color-teal-blue;
+$color-primary-alt-dark: darken($color-primary-alt, 5%);
+$color-primary-alt-darkest: darken($color-primary-alt, 10%);
+$color-primary-alt-light: lighten($color-primary-alt, 5%);
+$color-primary-alt-lightest: lighten($color-primary-alt, 10%);
+
+$color-base: $color-navy-black;
+
+$font-serif: 'Roboto Slab', serif;
+$font-sans: 'Roboto', sans-serif;
+$font-mono: 'Roboto Mono', sans-serif;

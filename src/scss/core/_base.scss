@@ -1,0 +1,52 @@
+body {
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  padding-left: $spacing-large;
+  padding-right: $spacing-large;
+
+  @media screen {
+    max-width: $site-max-width;
+  }
+}
+
+section {
+  page-break-after: always;
+}
+
+nav {
+  page-break-after: always;
+}
+
+
+@media screen and (min-width: $medium-screen),
+       print and (min-width: 8in) {
+  .row {
+    display: flex;
+    flex-direction: row;
+    page-break-inside: avoid;
+
+    &--halved {
+      & > :nth-child(1) {
+        flex: 1 50%;
+        margin-right: $spacing-md-small;
+      }
+
+      & > :nth-child(2) {
+        flex: 1 50%;
+        margin-left: $spacing-md-small;
+      }
+    }
+
+    &--right-heavy {
+      & > :nth-child(1) {
+        flex: 1 25%;
+        margin-right: $spacing-md-small;
+      }
+
+      & > :nth-child(2) {
+        flex: 1 75%;
+        margin-left: $spacing-md-small;
+      }
+    }
+  }
+}

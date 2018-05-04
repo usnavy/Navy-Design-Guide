@@ -1,0 +1,18 @@
+.hint {
+  margin-bottom: $spacing-large;
+  padding: $spacing-medium;
+  background-color: $color-gray;
+  font-size: 1.5rem;
+  page-break-inside: avoid;
+
+  code {
+    font-weight: bold;
+  }
+
+  &__type {
+    margin-bottom: $spacing-small;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
