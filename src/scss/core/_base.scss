@@ -3,6 +3,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
   padding-left: $spacing-large;
   padding-right: $spacing-large;
+  line-height: $base-line-height;
 
   @media screen {
     max-width: $site-max-width;

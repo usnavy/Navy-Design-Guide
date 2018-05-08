@@ -1,6 +1,6 @@
 @mixin text-style-lead {
-  font-size: 2rem;
-  line-height: 1.7;
+  font-size: $lead-font-size;
+  line-height: $lead-line-height;
 }
 
 p, li {

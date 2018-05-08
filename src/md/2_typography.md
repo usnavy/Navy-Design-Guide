@@ -94,9 +94,11 @@ for each line, and supports the common F-shaped reading pattern.
   </p>
   <div class="hint hint--scss">
     <div class="hint__type">SCSS Variable</div>
-    The `uswds` npm package provides variables for the line length
-    of both the default body text style (`$text-max-width`) and the
-    lead paragraph text style (`$lead-max-width`).
+    <p>
+      The `uswds` npm package provides variables for the line length
+      of both the default body text style (`$text-max-width`) and the
+      lead paragraph text style (`$lead-max-width`).
+    </p>
   </div>
 </div>
 
