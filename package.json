@@ -1,7 +1,7 @@
 {
-  "name": "navy_design_guide",
+  "name": "@usnavy/hybrid-design-guide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A living style guide + pattern library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
