@@ -8,7 +8,7 @@ import insert from 'gulp-insert';
 import markdown from 'gulp-markdown';
 import sass from 'gulp-sass';
 
-const fontDirectory = './node_modules/uswds/src/fonts/**/*';
+const fontDirectory = './src/fonts/**/*';
 
 gulp.task('md', () => {
   return gulp.src('./src/md/*.md')
