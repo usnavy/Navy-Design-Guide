@@ -1,4 +1,4 @@
-# navy-design-guide
+# Hybrid-Design-Guide
 
 ## Installation
 
