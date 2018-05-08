@@ -1,26 +1,33 @@
 .specimen { 
+  margin-top: $spacing-large;
+  margin-bottom: $spacing-large;
+
   &__name {
     font-family: $font-serif;
-    font-weight: bold;
+    font-weight: $font-bold;
   }
 
   &__variation {
     font-family: $font-sans;
-    font-weight: normal;
-    font-size: 1.5rem;
+    font-size: $small-font-size;;
+    font-weight: $font-normal;
   }
 
   &__example {
-    font-size: 6rem;
+    margin-top: $spacing-small;
+    padding-top: $spacing-md-small;
+    border-top: 1px solid $color-gray;
+    font-size: $h1-font-size;
+    line-height: $heading-line-height;
   }
 
   &--roboto-regular &__example {
-    font-family: 'Roboto';
-    font-weight: 400;
+    font-family: $font-sans;
+    font-weight: $font-normal;
   }
 
   &--roboto-slab-bold &__example {
-    font-family: 'Roboto Slab';
-    font-weight: 700;
+    font-family: $font-serif;
+    font-weight: $font-bold;
   }
 }
