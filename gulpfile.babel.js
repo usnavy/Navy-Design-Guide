@@ -10,17 +10,18 @@ import sass from 'gulp-sass';
 
 const fontDirectory = './src/fonts/**/*';
 
-gulp.task('md', () => {
-  return gulp.src('./src/md/*.md')
+export const fonts = () => gulp.src(fontDirectory).pipe(gulp.dest('./dist/fonts'));
+export const webserver = () => connect.server();
+
+export function compileMarkdown() {
+  return gulp.src('./src/md/**/*.md')
     .pipe(markdown({gfm: true}))
     .pipe(insert.wrap('<section>', '</section>'))
     .pipe(concat('body.html'))
     .pipe(gulp.dest('./dist/'));
-});
+}
 
-gulp.task('md:watch', () => gulp.watch('./src/md/**/*.md', ['md']));
-
-gulp.task('html', ['md'], () => {
+export function concatHTML() {
   const sources = [
     './src/html/header.html',
     './dist/body.html',
@@ -30,26 +31,24 @@ gulp.task('html', ['md'], () => {
   return gulp.src(sources)
     .pipe(concat('index.html'))
     .pipe(gulp.dest('./'));
-});
+}
 
-gulp.task('html:watch', () => gulp.watch('./dist/*.html', ['html']));
+export const html = gulp.series(compileMarkdown, concatHTML);
 
-gulp.task('sass', () => {
+export function compileSCSS() {
   return gulp.src('./src/scss/**/*.scss')
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./dist/css'));
-});
+}
 
-gulp.task('sass:watch', () => {
-  gulp.watch('./src/scss/**/*.scss', ['sass']);
-});
+export const compile = gulp.parallel(html, compileSCSS, fonts);
 
-gulp.task('fonts', () => gulp.src(fontDirectory).pipe(gulp.dest('./dist/fonts')));
+export function watchFiles() {
+  gulp.watch('./src/md/**/*.md', compileMarkdown);
+  gulp.watch('./dist/*.html', html);
+  gulp.watch('./src/scss/**/*.scss', compileSCSS);
+}
 
-gulp.task('webserver', () => connect.server());
+export const watch = gulp.series(compile, webserver, watchFiles);
 
-gulp.task('compile', ['md', 'html', 'sass', 'fonts']);
-
-gulp.task('watch', ['compile', 'md:watch', 'html:watch', 'sass:watch', 'webserver']);
-
-gulp.task('default', ['compile']);
+export default compile;
