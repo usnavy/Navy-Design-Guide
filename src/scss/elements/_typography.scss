@@ -1,3 +1,35 @@
+@mixin text-style-lead {
+  font-size: 2rem;
+  line-height: 1.7;
+}
+
 p, li {
   max-width: $text-max-width;
+}
+
+%quote {
+  margin-left: 0;
+  padding-left: $spacing-medium;
+  border-left: 4px solid $color-gray;
+  font-style: italic;
+}
+
+%quote--primary {
+  border-left: 6px solid $color-navy-blue;
+
+  p {
+    @include text-style-lead;
+  }
+}
+
+blockquote {
+  @extend %quote;
+}
+
+.quote {
+  @extend %quote;
+
+  &--primary {
+    @extend %quote--primary;
+  }
 }
