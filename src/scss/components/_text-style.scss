@@ -1,0 +1,22 @@
+.text-style {
+  margin-top: $spacing-large;
+  margin-bottom: $spacing-large;
+
+  &__example {
+    margin-bottom: $spacing-medium;
+
+    & > * {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  } 
+
+  &__source { 
+    overflow-x: auto;
+    font-size: $small-font-size;
+
+    &__type {
+      font-weight: $font-bold;
+    }
+  }
+}

@@ -3,6 +3,10 @@
   line-height: $lead-line-height;
 }
 
+h6 {
+  font-weight: $font-bold;
+}
+
 p, li {
   max-width: $text-max-width;
 }
@@ -32,4 +36,8 @@ blockquote {
   &--primary {
     @extend %quote--primary;
   }
+}
+
+.usa-font-lead {
+  font-family: $font-sans;
 }

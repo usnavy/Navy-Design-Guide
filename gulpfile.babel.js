@@ -12,7 +12,7 @@ const fontDirectory = './src/fonts/**/*';
 
 gulp.task('md', () => {
   return gulp.src('./src/md/*.md')
-    .pipe(markdown())
+    .pipe(markdown({gfm: true}))
     .pipe(insert.wrap('<section>', '</section>'))
     .pipe(concat('body.html'))
     .pipe(gulp.dest('./dist/'));

@@ -2,7 +2,7 @@
   margin-bottom: $spacing-large;
   padding: $spacing-medium;
   background-color: $color-gray;
-  font-size: 1.5rem;
+  font-size: $md-small-font-size;
   page-break-inside: avoid;
 
   & > :last-child {
@@ -15,7 +15,7 @@
 
   &__type {
     margin-bottom: $spacing-small;
-    font-size: 1.3rem;
+    font-size: $small-font-size;
     font-weight: bold;
     text-transform: uppercase;
   }

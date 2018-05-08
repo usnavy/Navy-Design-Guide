@@ -38,6 +38,22 @@ nav {
       }
     }
 
+    &--thirds {
+      & > * {
+        flex: 1 33%;
+        margin-left: $spacing-md-small;
+        margin-right: $spacing-md-small;
+      }
+
+      & > :nth-child(1) {
+        margin-left: 0;
+      }
+
+      & > :nth-child(3) {
+        margin-right: 0;
+      }
+    }
+
     &--right-heavy {
       & > :nth-child(1) {
         flex: 1 25%;
