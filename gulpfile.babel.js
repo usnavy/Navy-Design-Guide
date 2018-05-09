@@ -72,7 +72,7 @@ export const compile = gulp.parallel(html, compileSCSS, fonts);
 
 export function watchFiles() {
   gulp.watch('src/md/**/*.md', compileMarkdown);
-  gulp.watch('dist/*.html', html);
+  gulp.watch('dist/partials/*.html', concatHTML);
   gulp.watch('src/scss/**/*.scss', compileSCSS);
 }
 
