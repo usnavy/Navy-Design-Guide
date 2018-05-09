@@ -76,6 +76,6 @@ export function watchFiles() {
   gulp.watch('src/scss/**/*.scss', compileSCSS);
 }
 
-export const watch = gulp.series(compile, webserver, watchFiles);
+export const watch = gulp.series(compile, gulp.parallel(webserver, watchFiles));
 
 export default compile;
