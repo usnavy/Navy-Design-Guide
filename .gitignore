@@ -1,5 +1,6 @@
 .DS_Store
 index.html
 dist/
+navy_design_guide.pdf
 node_modules/
 package-lock.json
