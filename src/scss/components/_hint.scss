@@ -1,13 +1,10 @@
 .hint {
-  margin-bottom: $spacing-large;
+  margin-top: $spacing-medium;
+  margin-bottom: $spacing-medium;
   padding: $spacing-medium;
   background-color: $color-gray;
   font-size: $md-small-font-size;
   page-break-inside: avoid;
-
-  & > :last-child {
-    margin-bottom: 0;
-  }
 
   code {
     font-weight: bold;

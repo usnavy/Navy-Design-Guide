@@ -45,12 +45,29 @@ sizes (i.e. vertically, unconstrained by screen width).
   <p>
     As with text, spacing between other elements and page sections
     should be based on the underlying baseline grid created by the
-    line height used for standard copy. Use the provided spacing
-    variables as often as possible. When these values don’t quite
-    work, multiply or divide them by multiples of 0.5 (e.g. 4, 4.5,
-    6, etc.) to create other spacing values.
+    line height used for standard copy.
   </p>
+  <div class="hint hint--scss">
+    <div class="hint__type">SCSS Variable</div>
+    <p>
+      The `uswds` npm package provides variables for these multiples
+      of the base font size (rem):
+    </p>
+    `$spacing-x-small: 0.5rem;`  
+    `$spacing-small: 1rem;`  
+    `$spacing-md-small: 1.5rem;`  
+    `$spacing-medium: 2rem;`  
+    `$spacing-large: 3rem;`
+  </div>
+</div>
 
+<div class="row row--halved">
+  <p>
+    Use the provided spacing variables as often as possible. When
+    these values don’t quite work, multiply or divide them by
+    multiples of 0.5 (e.g. 4, 4.5, 6, etc.) to create other
+    spacing values.
+  </p>
   <div class="hint hint--scss">
     <div class="hint__type">SCSS Hint</div>
     <p>

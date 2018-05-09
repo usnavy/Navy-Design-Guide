@@ -18,6 +18,11 @@ nav {
   page-break-after: always;
 }
 
+@media screen {
+  main > section {
+    margin-bottom: $spacing-large * 3;
+  }
+}
 
 @media screen and (min-width: $medium-screen),
        print and (min-width: 8in) {

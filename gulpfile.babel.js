@@ -13,9 +13,11 @@ import merge from 'merge-stream';
 
 const markdownDirectory = 'src/md';
 const fontDirectory = 'src/fonts/**/*';
+const imageDirectory = 'src/img/**/*';
 const partialsDirectory = 'dist/partials';
 
 export const fonts = () => gulp.src(fontDirectory).pipe(gulp.dest('./dist/fonts'));
+export const images = () => gulp.src(imageDirectory).pipe(gulp.dest('./dist/img'));
 export const webserver = () => connect.server();
 
 const getFolders = (dir) => fs.readdirSync(dir)
@@ -68,7 +70,7 @@ export function compileSCSS() {
     .pipe(gulp.dest('dist/css'));
 }
 
-export const compile = gulp.parallel(html, compileSCSS, fonts);
+export const compile = gulp.parallel(html, compileSCSS, fonts, images);
 
 export function watchFiles() {
   gulp.watch('src/md/**/*.md', compileMarkdown);

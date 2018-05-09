@@ -30,21 +30,29 @@ for each line, and supports the common F-shaped reading pattern.
     optical spaces between typographic elements that match the
     underlying baseline grid created by the base line height,
     producing a strong vertical rhythm.
-  </p>
-  <div class="hint hint-scss">
-    <div class="hint__type">SCSS Variable</div>
+  </p> 
+  <div class="hint hint--scss">
+    <div class="hint__type">Hint</div>
     <p>
-      The `uswds` npm package provides variables for these and other
-      multiples of the base font size (rem):
+      The U.S. Web Design System defines text spacing with `em`
+      units:
     </p>
-    `$spacing-x-small: 0.5rem;`  
-    `$spacing-small: 1rem;`  
-    `$spacing-md-small: 1.5rem;`  
-    `$spacing-medium: 2rem;`  
-    `$spacing-large: 3rem;`
+<pre>
+```
+h1, h2, h3, h4, h5 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+```
+</pre>
   </div>
 </div>
 
-<div class="typesetting">
-  [Typesetting figure here] 
-</div>
+#### Typesetting Example
+
+![Annotated example of typesetting](dist/img/typesetting.png)

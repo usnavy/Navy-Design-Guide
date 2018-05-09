@@ -1,6 +1,15 @@
 .text-style {
   margin-top: $spacing-large;
   margin-bottom: $spacing-large;
+  padding-top: $spacing-large;
+  padding-bottom: $spacing-large;
+  border-top: 2px solid $color-gray;
+  border-bottom: 2px solid $color-gray;
+
+  & + .text-style {
+    padding-top: 0;
+    border-top: 0;
+  }
 
   &__example {
     margin-bottom: $spacing-medium;
