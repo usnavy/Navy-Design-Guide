@@ -20,10 +20,7 @@ layout: default
 [Layout](/layout.md)<br>
 <br>
 
-
-
-
-
+<hr>
 
 ### Contributing<br>
 [Are you Contributing?](/CONTRIBUTING.md)<br>
