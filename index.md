@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-[Color](/1_color.md).
+[Color](/color.md)
