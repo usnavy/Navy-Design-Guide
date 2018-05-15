@@ -68,3 +68,9 @@ the image. These areas should be reserved for the page header
 and featured content headings, respectively.
 
 [Example images]
+
+<hr>
+
+### To Contribute<br>
+[Are you Contributing?](/CONTRIBUTING.md)<br>
+<br>
