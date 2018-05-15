@@ -37,6 +37,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto Slab', serif;
 }
 
+h1, h2, h3, h4, h5 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 a {
   color: $body-link-color;
   text-decoration: none;
@@ -172,18 +182,49 @@ a {
     max-width: 100%;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-weight: 700;
-    color: $section-headings-color;
+  h1 {
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h1-font-size;
+    line-height: $heading-line-height;
+  }
+  
+  h2 {
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h2-font-size;
+    line-height: $heading-line-height;
   }
 
+  h3 {
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h3-font-size;
+    line-height: $heading-line-height;
+  }
+  
+  h4 {
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h4-font-size;
+    line-height: $heading-line-height;
+  }
+  
+  h5 {
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h5-font-size;
+    line-height: $heading-line-height;
+  }
+  
+  h6 {
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h6-font-size;
+    line-height: $heading-line-height;
+    text-transform: uppercase;
+  }
+  
   p {
     margin-bottom: 1em;
   }
