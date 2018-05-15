@@ -105,6 +105,7 @@ other visual content.”
       <img src="img/Teal Blue - PLAIN.jpg" alt="Teal Blue" class="swatch-box"><br>
     </ul>
   </li>
+  <hr>
   <li class="swatch swatch--navy-blue">
     <div class="swatch__name">Navy Blue +</div>
     <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box-large"><br>
@@ -117,6 +118,7 @@ other visual content.”
       <img src="img/Yellow - PLAIN.jpg" alt="Yellow" class="swatch-box"><br>
     </ul>
   </li>
+  <hr>
   <li class="swatch swatch--teal-blue">
     <div class="swatch__name">Teal Blue +</div>
     <img src="img/Teal Blue - PLAIN.jpg" alt="Teal Blue" class="swatch-box-large"><br>
@@ -127,6 +129,7 @@ other visual content.”
       <img src="img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box"><br>
     </ul>
   </li>
+  <hr>
   <li class="swatch swatch--gray">
     <div class="swatch__name">Gray +</div>
     <img src="img/Gray - PLAIN.jpg" alt="Gray" class="swatch-box-large"><br>
@@ -137,6 +140,7 @@ other visual content.”
       <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box"><br>
     </ul>
   </li>
+  <hr>
   <li class="swatch swatch--yellow">
     <div class="swatch__name">Yellow +</div>
     <img src="img/Yellow - PLAIN.jpg" alt="Yellow" class="swatch-box-large"><br>
@@ -147,6 +151,7 @@ other visual content.”
       <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box"><br>
     </ul>
   </li>
+  <hr>
   <li class="swatch swatch--navy-white">
     <div class="swatch__name">White +</div>
     <img src="img/Navy White - PLAIN.jpg" alt="White" class="swatch-box-large"><br>
