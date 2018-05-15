@@ -1,3 +1,3 @@
 # Navy Design Guide
 
-[src/md/1_color.md](src/md/1_color.md)
+[http://usnavy.github.io/src/md/1_color.md](http://usnavy.github.io/src/md/1_color.md)
