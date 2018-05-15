@@ -314,9 +314,10 @@ a {
 
   hr {
     height: 2px;
-    padding: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin: 1rem 0;
-    background-color: $hr-border-color;
+    background-color: #C6CCD0;
     border: 0;
   }
 }
