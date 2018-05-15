@@ -28,13 +28,13 @@ layout: default
 <ul class="palette">
   <li class="swatch swatch--navy-black">
     <div class="swatch__name">Navy Black</div>
-    <img src="/img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box"><br>
+    <img src="img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box"><br>
     HEX:#08262C  <br>
     CMYK: 89, 66, 60, 67  <br>
     RGB:  8, 38, 44  <br>
   </li><li class="swatch swatch--navy-blue">
     <div class="swatch__name">Navy Blue</div>
-    <img src="/img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box"><br>
+    <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box"><br>
     HEX:#003B4F  <br>
     CMYK: 98, 69, 48, 40  <br>
     RGB: 0,59,79  <br>
