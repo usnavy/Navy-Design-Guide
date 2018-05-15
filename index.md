@@ -9,3 +9,9 @@ layout: default
 [Text Styles](/text-styles.md)
 [Typefaces](/typefaces.md)
 [Typesetting](/typesetting.md)
+
+##Media
+[Media](/media.md)
+
+##Layout
+[Layout](/layout.md)
