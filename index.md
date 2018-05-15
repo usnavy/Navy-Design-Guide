@@ -3,19 +3,19 @@ layout: default
 ---
 
 ## Color<br>
-[Color](/color.md)<i class="fa fa-chevron-right"></i><br>
+[Color](/color.md)<br>
 <br>
 
 ## Typography<br>
-[Text Styles](/text-styles.md)<i class="fa fa-chevron-right"></i><br>
-[Typefaces](/typefaces.md)<i class="fa fa-chevron-right"></i><br>
-[Typesetting](/typesetting.md)<i class="fa fa-chevron-right"></i><br>
+[Text Styles](/text-styles.md)<br>
+[Typefaces](/typefaces.md)<br>
+[Typesetting](/typesetting.md)<br>
 <br>
 
 ## Media<br>
-[Media](/media.md)<i class="fa fa-chevron-right"></i><br>
+[Media](/media.md)<br>
 <br>
 
 ## Layout<br>
-[Layout](/layout.md)<i class="fa fa-chevron-right"></i><br>
+[Layout](/layout.md)<br>
 <br>
