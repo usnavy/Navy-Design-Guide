@@ -19,7 +19,7 @@ layout: default
 [Layout](/layout.md)<br>
 <br>
 
-
+<hr>
 
 ## Color
 
