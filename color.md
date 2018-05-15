@@ -165,3 +165,10 @@ other visual content.”
     </ul>
   </li>
 </ul>
+
+<hr>
+
+### To Contribute<br>
+[Are you Contributing?](/CONTRIBUTING.md)<br>
+<br>
+
