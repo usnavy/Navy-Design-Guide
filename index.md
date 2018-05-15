@@ -22,6 +22,6 @@ layout: default
 
 <hr>
 
-### Contributing<br>
+### To Contribute<br>
 [Are you Contributing?](/CONTRIBUTING.md)<br>
 <br>
