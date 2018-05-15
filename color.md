@@ -26,30 +26,36 @@ layout: default
 ### Color Palette
 
 <ul class="palette">
-  <li class="swatch swatch--navy-blue">
-    <div class="swatch__name">Navy Blue</div>
-    `#003b4f`  
-    `rgb(0,59,70)`
-  </li><li class="swatch swatch--navy-white">
-    <div class="swatch__name">Navy White</div>
-    `#fffef9`  
-    `rgb(255,254,249)`
-  </li><li class="swatch swatch--navy-black">
+  <li class="swatch swatch--navy-black">
     <div class="swatch__name">Navy Black</div>
-    `#08262c`  
-    `rgb(8,38,44)`
-  </li><li class="swatch swatch--yellow">
-    <div class="swatch__name">Yellow</div>
-    `#e8b00f`  
-    `rgb(232,176,16)`
-  </li><li class="swatch swatch--gray">
-    <div class="swatch__name">Gray</div>
-    `#c6ccd0`  
-    `rgb(198,204,208)`
+    HEX:#08262C  <br>
+    CMYK: 89, 66, 60, 67  <br>
+    RGB:  8, 38, 44  <br>
+  </li><li class="swatch swatch--navy-blue">
+    <div class="swatch__name">Navy Blue</div>
+    HEX:#003B4F  <br>
+    CMYK: 98, 69, 48, 40  <br>
+    RGB: 0,59,79  <br>
   </li><li class="swatch swatch--teal-blue">
     <div class="swatch__name">Teal Blue</div>
-    `#088199`  
-    `rgb(8,129,153)`
+    HEX:#088199  <br>
+    CMYK: 85, 36, 32, 3  <br>
+    RGB: 8, 129, 153  <br>
+  </li><li class="swatch swatch--gray">
+    <div class="swatch__name">Gray</div>
+    HEX:#C6CCD0  <br>
+    CMYK: 22, 14, 13, 0  <br>
+    RGB: 198, 204, 208  <br>
+  </li><li class="swatch swatch--yellow">
+    <div class="swatch__name">Yellow</div>
+    HEX:#E8B00F  <br>
+    CMYK: 10, 31, 100, 0  <br>
+    RGB: 232, 176, 15  <br>
+  </li><li class="swatch swatch--navy-white">
+    <div class="swatch__name">White</div>
+    HEX:#FFFFFF  <br>
+    CMYK: 0, 0, 0, 0  <br>
+    RGB: 255, 255, 255  <br>
   </li>
 </ul>
 
@@ -69,36 +75,28 @@ other visual content.”
 #### Passing Text Color Combinations
 
 <ul class="text-color-combinations">
-  <li class="swatch swatch--navy-blue">
-    <div class="swatch__name">Navy Blue +</div>
-    <ul class="swatch__options">
-      <li class="swatch__option swatch__option--navy-white">Navy White (12:1)</li>
-      <li class="swatch__option swatch__option--gray">Gray (7.5:1)</li>
-      <li class="swatch__option swatch__option--yellow">Yellow (6:1)</li>
-    </ul>
-  </li>
-  <li class="swatch swatch--navy-white">
-    <div class="swatch__name">Navy White +</div>
-    <ul class="swatch__options">
-      <li class="swatch__option swatch__option--navy-black">Navy Black (16:1)</li>
-      <li class="swatch__option swatch__option--navy-blue">Navy Blue (12:1)</li>
-      <li class="swatch__option swatch__option--teal-blue">Teal Blue (4.5:1)</li>
-    </ul>
-  </li>
-  <li class="swatch swatch--navy-black">
+ <li class="swatch swatch--navy-black">
     <div class="swatch__name">Navy Black +</div>
     <ul class="swatch__options">
-      <li class="swatch__option swatch__option--navy-white">Navy White (16:1)</li>
+      <li class="swatch__option swatch__option--navy-white">White (16:1)</li>
       <li class="swatch__option swatch__option--gray">Gray (10:1)</li>
       <li class="swatch__option swatch__option--yellow">Yellow (8:1)</li>
       <li class="swatch__option swatch__option--teal-blue swatch__option--large">Teal Blue - Large (3.5:1)</li>
     </ul>
   </li>
-  <li class="swatch swatch--yellow">
-    <div class="swatch__name">Yellow +</div>
+  <li class="swatch swatch--navy-blue">
+    <div class="swatch__name">Navy Blue +</div>
     <ul class="swatch__options">
-      <li class="swatch__option swatch__option--navy-black">Navy Black (8:1)</li>
-      <li class="swatch__option swatch__option--navy-blue">Navy Blue (6:1)</li>
+      <li class="swatch__option swatch__option--navy-white">White (12:1)</li>
+      <li class="swatch__option swatch__option--gray">Gray (7.5:1)</li>
+      <li class="swatch__option swatch__option--yellow">Yellow (6:1)</li>
+    </ul>
+  </li>
+  <li class="swatch swatch--teal-blue">
+    <div class="swatch__name">Teal Blue +</div>
+    <ul class="swatch__options">
+      <li class="swatch__option swatch__option--navy-white">White (4.5:1)</li>
+      <li class="swatch__option swatch__option--navy-black swatch__option--large">Navy Black - Large (3.5:1)</li>
     </ul>
   </li>
   <li class="swatch swatch--gray">
@@ -108,11 +106,19 @@ other visual content.”
       <li class="swatch__option swatch__option--navy-blue">Navy Blue (7.5:1)</li>
     </ul>
   </li>
-  <li class="swatch swatch--teal-blue">
-    <div class="swatch__name">Teal Blue +</div>
+  <li class="swatch swatch--yellow">
+    <div class="swatch__name">Yellow +</div>
     <ul class="swatch__options">
-      <li class="swatch__option swatch__option--navy-white">Navy White (4.5:1)</li>
-      <li class="swatch__option swatch__option--navy-black swatch__option--large">Navy Black - Large (3.5:1)</li>
+      <li class="swatch__option swatch__option--navy-black">Navy Black (8:1)</li>
+      <li class="swatch__option swatch__option--navy-blue">Navy Blue (6:1)</li>
+    </ul>
+  </li>
+  <li class="swatch swatch--navy-white">
+    <div class="swatch__name">White +</div>
+    <ul class="swatch__options">
+      <li class="swatch__option swatch__option--navy-black">Navy Black (16:1)</li>
+      <li class="swatch__option swatch__option--navy-blue">Navy Blue (12:1)</li>
+      <li class="swatch__option swatch__option--teal-blue">Teal Blue (4.5:1)</li>
     </ul>
   </li>
 </ul>
