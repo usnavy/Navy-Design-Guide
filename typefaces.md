@@ -63,3 +63,9 @@ caching system.
 
 [Roboto on Google Fonts](https://fonts.google.com/specimen/Roboto)  
 [Roboto Slab on Google Fonts](https://fonts.google.com/specimen/Roboto+Slab)
+
+<hr>
+
+### To Contribute<br>
+[Are you Contributing?](/CONTRIBUTING.md)<br>
+<br>
