@@ -34,16 +34,14 @@ small sizes, it works well in the browser
 * Roboto and Roboto Slab are different enough to create strong
 contrast when used together.
 
-<div class="specimen specimen--roboto-regular">
-  <div class="specimen__name">Roboto <span class="specimen__variation">Regular</span></div>
-  <div class="specimen__example">
+<div class="roboto-regular">
+  <div class="robot-regular">Roboto Regular</div>
     The quick brown fox jumped over the lazy dog.
   </div>
 </div>
 
-<div class="specimen specimen--roboto-slab-bold">
-  <div class="specimen__name">Roboto Slab <span class="specimen__variation">Bold</span></div>
-  <div class="specimen__example">
+<div class="roboto-slab-bold">
+  <div class="roboto-slab-bold">Roboto Slab Bold</div>
     The quick brown fox jumped over the lazy dog.
   </div>
 </div>
