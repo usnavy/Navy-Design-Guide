@@ -2,16 +2,20 @@
 layout: default
 ---
 
-##Color
-[Color](/color.md)
+##Color<br>
+[Color](/color.md)<br>
+<br>
 
-##Typography
-[Text Styles](/text-styles.md)
-[Typefaces](/typefaces.md)
-[Typesetting](/typesetting.md)
+##Typography<br>
+[Text Styles](/text-styles.md)<br>
+[Typefaces](/typefaces.md)<br>
+[Typesetting](/typesetting.md)<br>
+<br>
 
-##Media
-[Media](/media.md)
+##Media<br>
+[Media](/media.md)<br>
+<br>
 
-##Layout
-[Layout](/layout.md)
+##Layout<br>
+[Layout](/layout.md)<br>
+<br>
