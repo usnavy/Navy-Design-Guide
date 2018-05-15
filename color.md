@@ -83,48 +83,70 @@ other visual content.”
 <ul class="text-color-combinations">
  <li class="swatch swatch--navy-black">
     <div class="swatch__name">Navy Black +</div>
+    <img src="img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box-large"><br>
     <ul class="swatch__options">
       <li class="swatch__option swatch__option--navy-white">White (16:1)</li>
+      <img src="img/Navy White - PLAIN.jpg" alt="White" class="swatch-box"><br>
       <li class="swatch__option swatch__option--gray">Gray (10:1)</li>
+      <img src="img/Gray - PLAIN.jpg" alt="Gray" class="swatch-box"><br>
       <li class="swatch__option swatch__option--yellow">Yellow (8:1)</li>
+      <img src="img/Yellow - PLAIN.jpg" alt="Yellow" class="swatch-box"><br>
       <li class="swatch__option swatch__option--teal-blue swatch__option--large">Teal Blue - Large (3.5:1)</li>
+      <img src="img/Teal Blue - PLAIN.jpg" alt="Teal Blue" class="swatch-box"><br>
     </ul>
   </li>
   <li class="swatch swatch--navy-blue">
     <div class="swatch__name">Navy Blue +</div>
+    <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box-large"><br>
     <ul class="swatch__options">
       <li class="swatch__option swatch__option--navy-white">White (12:1)</li>
+      <img src="img/Navy White - PLAIN.jpg" alt="White" class="swatch-box"><br>
       <li class="swatch__option swatch__option--gray">Gray (7.5:1)</li>
+      <img src="img/Gray - PLAIN.jpg" alt="Gray" class="swatch-box"><br>
       <li class="swatch__option swatch__option--yellow">Yellow (6:1)</li>
+      <img src="img/Yellow - PLAIN.jpg" alt="Yellow" class="swatch-box"><br>
     </ul>
   </li>
   <li class="swatch swatch--teal-blue">
     <div class="swatch__name">Teal Blue +</div>
+    <img src="img/Teal Blue - PLAIN.jpg" alt="Teal Blue" class="swatch-box-large"><br>
     <ul class="swatch__options">
       <li class="swatch__option swatch__option--navy-white">White (4.5:1)</li>
+      <img src="img/Navy White - PLAIN.jpg" alt="White" class="swatch-box"><br>
       <li class="swatch__option swatch__option--navy-black swatch__option--large">Navy Black - Large (3.5:1)</li>
+      <img src="img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box"><br>
     </ul>
   </li>
   <li class="swatch swatch--gray">
     <div class="swatch__name">Gray +</div>
+    <img src="img/Gray - PLAIN.jpg" alt="Gray" class="swatch-box-large"><br>
     <ul class="swatch__options">
       <li class="swatch__option swatch__option--navy-black">Navy Black (10:1)</li>
+      <img src="img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box"><br>
       <li class="swatch__option swatch__option--navy-blue">Navy Blue (7.5:1)</li>
+      <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box"><br>
     </ul>
   </li>
   <li class="swatch swatch--yellow">
     <div class="swatch__name">Yellow +</div>
+    <img src="img/Yellow - PLAIN.jpg" alt="Yellow" class="swatch-box-large"><br>
     <ul class="swatch__options">
       <li class="swatch__option swatch__option--navy-black">Navy Black (8:1)</li>
+      <img src="img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box"><br>
       <li class="swatch__option swatch__option--navy-blue">Navy Blue (6:1)</li>
+      <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box"><br>
     </ul>
   </li>
   <li class="swatch swatch--navy-white">
     <div class="swatch__name">White +</div>
+    <img src="img/Navy White - PLAIN.jpg" alt="White" class="swatch-box-large"><br>
     <ul class="swatch__options">
       <li class="swatch__option swatch__option--navy-black">Navy Black (16:1)</li>
+      <img src="img/Navy Black - PLAIN.jpg" alt="Navy Black" class="swatch-box"><br>
       <li class="swatch__option swatch__option--navy-blue">Navy Blue (12:1)</li>
+      <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box"><br>
       <li class="swatch__option swatch__option--teal-blue">Teal Blue (4.5:1)</li>
+      <img src="img/Teal Blue - PLAIN.jpg" alt="Teal Blue" class="swatch-box"><br>
     </ul>
   </li>
 </ul>
