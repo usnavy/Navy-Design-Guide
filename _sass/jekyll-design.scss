@@ -2,8 +2,6 @@
 @import "rouge-github";
 @import "variables";
 
-<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet">
-
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
