@@ -104,3 +104,9 @@ sizes (i.e. vertically, unconstrained by screen width).
     </p>
   </div>
 </div>
+
+<hr>
+
+### To Contribute<br>
+[Are you Contributing?](/CONTRIBUTING.md)<br>
+<br>
