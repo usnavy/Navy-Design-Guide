@@ -1,5 +1,5 @@
 # Welcome!
-We're so glad you're thinking about contributing to an DON open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
+We're so glad you're thinking about contributing to U.S. Navy open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
 # Guidance on how to contribute
 There are two primary ways to help: 
@@ -35,3 +35,6 @@ Software code created by U.S. Government employees is not subject to copyright i
 
 ## Disclaimer
 The DON's GitHub project code is provided on an "as-is" basis and the user assumes responsibility for its use. DON has relinquished control of the information and no longer has responsibility to protect the integrity, confidentiality, or availability of the information. Any claims against the DON stemming from the use of its GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the DON. The Department of the Navy seal and logo, or the seal and logo of a DON command or unit, shall not be used in any manner to imply endorsement of any commercial product or activity by DON or the United States government.
+
+## Privacy
+Please read 
