@@ -19,3 +19,12 @@ layout: default
 ## Layout<br>
 [Layout](/layout.md)<br>
 <br>
+
+
+
+
+
+
+### Contributing<br>
+[Are you Contributing?](/CONTRIBUTING.md)<br>
+<br>
