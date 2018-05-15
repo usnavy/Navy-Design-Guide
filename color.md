@@ -1,4 +1,6 @@
-<a id="color"></a>
+---
+layout: default
+---
 
 ## Color
 
