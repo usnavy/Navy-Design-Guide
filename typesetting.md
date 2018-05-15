@@ -78,3 +78,9 @@ p {
 #### Typesetting Example
 
 ![Annotated example of typesetting](dist/img/typesetting.png)
+
+<hr>
+
+### To Contribute<br>
+[Are you Contributing?](/CONTRIBUTING.md)<br>
+<br>
