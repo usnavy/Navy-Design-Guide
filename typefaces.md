@@ -38,13 +38,11 @@ contrast when used together.
   <div class="robot-regular">Roboto Regular</div>
     The quick brown fox jumped over the lazy dog.
   </div>
-</div>
 
 <div class="roboto-slab-bold">
   <div class="roboto-slab-bold">Roboto Slab Bold</div>
     The quick brown fox jumped over the lazy dog.
   </div>
-</div>
 
 #### Files
 
