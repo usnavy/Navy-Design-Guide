@@ -16,6 +16,8 @@
 [Layout](/layout.md)<br>
 <br>
 
+## Typography
+
 ### Text Styles
 
 The text styles we use are derived from the
