@@ -16,6 +16,8 @@
 [Layout](/layout.md)<br>
 <br>
 
+<hr>
+
 ## Media
 
 ### Minimum Display Dimensions
