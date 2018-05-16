@@ -38,6 +38,7 @@ widths up to **12 columns**.
       <div class="col-3 teal-blue">Span 3</div>
     </div>   
   <br>
+  <br>
     <div class="row">
       <div class="col-4 navy-blue">Span 4</div>
       <div class="col-2 teal-blue">Span 2</div>
@@ -45,11 +46,13 @@ widths up to **12 columns**.
       <div class="col-2 teal-blue">Span 2</div>
     </div>  
   <br>
+  <br>
     <div class="row">
       <div class="col-1 navy-blue">Span 1</div>
       <div class="col-9 teal-blue">Span 9</div>
       <div class="col-2 navy-blue">Span 2</div>
     </div>  
+  <br>
   <br>
     <div class="row">
       <div class="col-5 navy-blue">Span 5</div>
