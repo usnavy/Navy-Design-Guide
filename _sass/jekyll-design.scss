@@ -209,6 +209,13 @@ a {
     max-width: 100%;
   }
 
+  display {
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 1.3em/68px;
+  }
+  
   h1 {
     font-family: $font-serif;
     font-weight: $font-bold;
