@@ -52,7 +52,6 @@ widths up to **12 columns**.
 </pre>
   <br>
   <br>
-  ```
     <div class="row">
       <div class="col-4 navy-blue">Span 4</div>
       <div class="col-2 teal-blue">Span 2</div>
@@ -80,6 +79,7 @@ widths up to **12 columns**.
     </div>  
   <br>
   <br>
+<pre>
   ```
     <div class="row">
       <div class="col-1 navy-blue">Span 1</div>
@@ -87,8 +87,17 @@ widths up to **12 columns**.
       <div class="col-2 navy-blue">Span 2</div>
     </div>  
   ```
+</pre>
   <br>
   <br>
+    <div class="row">
+      <div class="col-5 navy-blue">Span 5</div>
+      <div class="col-5 teal-blue">Span 5</div>
+      <div class="col-2 navy-blue">Span 2</div>
+    </div>
+  <br>
+  <br>
+<pre>
   ```
     <div class="row">
       <div class="col-5 navy-blue">Span 5</div>
@@ -96,12 +105,7 @@ widths up to **12 columns**.
       <div class="col-2 navy-blue">Span 2</div>
     </div>
   ```
-    <div class="row">
-      <div class="col-5 navy-blue">Span 5</div>
-      <div class="col-5 teal-blue">Span 5</div>
-      <div class="col-2 navy-blue">Span 2</div>
-    </div>
-  ```
+</pre>
   </div>
   <br>
 ### Rows first, then columns
