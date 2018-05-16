@@ -32,50 +32,50 @@ widths up to **12 columns**.
 
   <div class="container-fluid">     
     <div class="row">
-      <div class="col-3 navy-blue">Span 3</div>
-      <div class="col-3 teal-blue">Span 3</div>
-      <div class="col-3 navy-blue">Span 3</div>
-      <div class="col-3 teal-blue">Span 3</div>
+      <div class="nxt-col-3 navy-blue">Span 3</div>
+      <div class="nxt-col-3 teal-blue">Span 3</div>
+      <div class="nxt-col-3 navy-blue">Span 3</div>
+      <div class="nxt-col-3 teal-blue">Span 3</div>
     </div>   
   <br>
   <br>
     <div class="row">
-      <div class="col-4 navy-blue">Span 4</div>
-      <div class="col-2 teal-blue">Span 2</div>
-      <div class="col-4 navy-blue">Span 4</div>
-      <div class="col-2 teal-blue">Span 2</div>
+      <div class="nxt-col-4 navy-blue">Span 4</div>
+      <div class="nxt-col-2 teal-blue">Span 2</div>
+      <div class="nxt-col-4 navy-blue">Span 4</div>
+      <div class="nxt-col-2 teal-blue">Span 2</div>
     </div>  
   <br>
   <br>
     <div class="row">
-      <div class="col-1 navy-blue">Span 1</div>
-      <div class="col-9 teal-blue">Span 9</div>
-      <div class="col-2 navy-blue">Span 2</div>
+      <div class="nxt-col-1 navy-blue">Span 1</div>
+      <div class="nxt-col-9 teal-blue">Span 9</div>
+      <div class="nxt-col-2 navy-blue">Span 2</div>
     </div>  
   <br>
   <br>
     <div class="row">
-      <div class="col-5 navy-blue">Span 5</div>
-      <div class="col-5 teal-blue">Span 5</div>
-      <div class="col-2 navy-blue">Span 2</div>
+      <div class="nxt-col-5 navy-blue">Span 5</div>
+      <div class="nxt-col-5 teal-blue">Span 5</div>
+      <div class="nxt-col-2 navy-blue">Span 2</div>
     </div>
   </div>
   <br>
   
   <pre>
   ```
-.col-1 {width: 8.33%; float:left;}
-.col-2 {width: 16.66%; float:left;}
-.col-3 {width: 25%; float:left;}
-.col-4 {width: 33.33%; float:left;}
-.col-5 {width: 41.66%; float:left;}
-.col-6 {width: 50%; float:left;}
-.col-7 {width: 58.33%; float:left;}
-.col-8 {width: 66.66%; float:left;}
-.col-9 {width: 75%; float:left;}
-.col-10 {width: 83.33%; float:left;}
-.col-11 {width: 91.66%; float:left;}
-.col-12 {width: 100%; float:left;}
+.nxt-col-1 {width: 8.33%; float:left;}
+.nxt-col-2 {width: 16.66%; float:left;}
+.nxt-col-3 {width: 25%; float:left;}
+.nxt-col-4 {width: 33.33%; float:left;}
+.nxt-col-5 {width: 41.66%; float:left;}
+.nxt-col-6 {width: 50%; float:left;}
+.nxt-col-7 {width: 58.33%; float:left;}
+.nxt-col-8 {width: 66.66%; float:left;}
+.nxt-col-9 {width: 75%; float:left;}
+.nxt-col-10 {width: 83.33%; float:left;}
+.nxt-col-11 {width: 91.66%; float:left;}
+.nxt-col-12 {width: 100%; float:left;}
   ```
   </pre>
 ### Rows first, then columns
