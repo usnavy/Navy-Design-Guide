@@ -37,21 +37,40 @@ widths up to **12 columns**.
       <div class="col-3 navy-blue">Span 3</div>
       <div class="col-3 teal-blue">Span 3</div>
     </div>   
-  ---
-    <div class="container-fluid">     
+  <br>
+  <br>
+<pre>
+  ```
+   <div class="container-fluid">     
     <div class="row">
       <div class="col-3 navy-blue">Span 3</div>
       <div class="col-3 teal-blue">Span 3</div>
       <div class="col-3 navy-blue">Span 3</div>
       <div class="col-3 teal-blue">Span 3</div>
     </div>   
-  ---
+  ```
+</pre>
+  <br>
+  <br>
+  ```
     <div class="row">
       <div class="col-4 navy-blue">Span 4</div>
       <div class="col-2 teal-blue">Span 2</div>
       <div class="col-4 navy-blue">Span 4</div>
       <div class="col-2 teal-blue">Span 2</div>
     </div>  
+  <br>
+  <br>
+<pre>
+    ```
+    <div class="row">
+      <div class="col-4 navy-blue">Span 4</div>
+      <div class="col-2 teal-blue">Span 2</div>
+      <div class="col-4 navy-blue">Span 4</div>
+      <div class="col-2 teal-blue">Span 2</div>
+    </div>  
+    ```
+</pre>
   <br>
   <br>
     <div class="row">
@@ -61,11 +80,28 @@ widths up to **12 columns**.
     </div>  
   <br>
   <br>
+  ```
+    <div class="row">
+      <div class="col-1 navy-blue">Span 1</div>
+      <div class="col-9 teal-blue">Span 9</div>
+      <div class="col-2 navy-blue">Span 2</div>
+    </div>  
+  ```
+  <br>
+  <br>
+  ```
     <div class="row">
       <div class="col-5 navy-blue">Span 5</div>
       <div class="col-5 teal-blue">Span 5</div>
       <div class="col-2 navy-blue">Span 2</div>
     </div>
+  ```
+    <div class="row">
+      <div class="col-5 navy-blue">Span 5</div>
+      <div class="col-5 teal-blue">Span 5</div>
+      <div class="col-2 navy-blue">Span 2</div>
+    </div>
+  ```
   </div>
   <br>
 ### Rows first, then columns
