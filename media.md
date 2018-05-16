@@ -29,8 +29,6 @@ those used in lists of news stories, and at least **300px by
 200px** when used in a page’s main content, as those same news
 story photos would be in each story’s full page view.
 
-<img src="img/minimum-display.jpg" alt="Composition" class="image-center">
-<br>
 ### Choosing a hero image
 
 Hero images should make an impact, engaging the user and setting
@@ -58,16 +56,12 @@ primary subject.
 Some colors don't pair well with our brand colors. Avoid images
 with large areas of clashing color.
 
-<img src="img/Color-Clash.jpg" alt="Color Clash" class="medium-image-frame">
-
 #### Composition
 
 When considering the composition of a prospective hero image,
 avoid images with focal areas in the top third or left third of
 the image. These areas should be reserved for the page header
 and featured content headings, respectively.
-
-<img src="img/Composition.jpg" alt="Composition" class="medium-image-frame">
 
 <hr>
 
