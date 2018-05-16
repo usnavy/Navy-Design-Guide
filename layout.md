@@ -30,7 +30,13 @@ a [responsive](http://alistapart.com/article/responsive-web-design/)
 grid system that expands from one column at narrow screen
 widths up to **12 columns**.
 
-[Example grid]
+  <div class="container-fluid">     
+    <div class="row">
+      <div class="col-sm bg-success">col-sm</div>
+      <div class="col-sm bg-warning">col-sm</div>
+      <div class="col-sm bg-success">col-sm</div>
+    </div>
+  </div>
 
 ### Rows first, then columns
 
