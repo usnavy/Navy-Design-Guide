@@ -205,6 +205,10 @@ a {
     font-size: 1rem;
   }
 
+  a {
+    float: left;
+  }
+  
   img {
     max-width: 100%;
   }
@@ -460,4 +464,5 @@ a {
   padding-left: 10px;
   float: left;
   display: inline-block;
+  margin-top: 5px;
 }
