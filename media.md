@@ -30,7 +30,7 @@ those used in lists of news stories, and at least **300px by
 story photos would be in each story’s full page view.
 
 <img src="img/minimum-display.jpg" alt="Composition" class="image-center">
-
+<br>
 ### Choosing a hero image
 
 Hero images should make an impact, engaging the user and setting
