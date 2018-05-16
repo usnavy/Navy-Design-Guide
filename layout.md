@@ -61,7 +61,6 @@ widths up to **12 columns**.
     </div>
   </div>
   <br>
-  <br>
 ### Rows first, then columns
 
 Above the most narrow screen widths, the grid expands to
