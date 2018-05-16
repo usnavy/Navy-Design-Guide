@@ -60,7 +60,8 @@ widths up to **12 columns**.
       <div class="col-2 navy-blue">Span 2</div>
     </div>
   </div>
-
+  <br>
+  <br>
 ### Rows first, then columns
 
 Above the most narrow screen widths, the grid expands to
