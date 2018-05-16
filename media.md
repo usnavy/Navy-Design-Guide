@@ -67,7 +67,7 @@ avoid images with focal areas in the top third or left third of
 the image. These areas should be reserved for the page header
 and featured content headings, respectively.
 
-[Example images]
+<img src="img/Composition.jpg" alt="Composition" class="medium-image-frame">
 
 <hr>
 
