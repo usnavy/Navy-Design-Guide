@@ -47,7 +47,7 @@ space to produce a similar optical effect.
 
 <div class="text-style row row--thirds">
   <div class="text-style__example">
-    <h3 class="usa-display">Display</h3>
+    <display>Display</display>
   </div>
   <div class="text-style__source text-style__source--scss">
     <div class="text-style__source__type">SCSS</div> 
