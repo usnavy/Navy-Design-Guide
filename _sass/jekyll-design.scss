@@ -438,3 +438,12 @@ a {
 .medium-image-frame {
   width: 100%;
 }
+
+.image-center {
+  width: 100%;
+  justify-content:center;
+  align-items: center;
+  display: flex;
+  float: left;
+  align-self: center;
+}
