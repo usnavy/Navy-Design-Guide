@@ -58,7 +58,7 @@ primary subject.
 Some colors don't pair well with our brand colors. Avoid images
 with large areas of clashing color.
 
-[Example images]
+<img src="img/Color-Clash.jpg" alt="Color Clash" class="medium-image-frame">
 
 #### Composition
 
