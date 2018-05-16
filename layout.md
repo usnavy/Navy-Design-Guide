@@ -32,7 +32,6 @@ widths up to **12 columns**.
 
   <div class="container-fluid">     
     <div class="row">
-      <div class="nxt-col-1 navy-blue">Span 1</div>
       <div class="nxt-col-6 teal-blue">Span 6</div>
       <div class="nxt-col-5 navy-blue">Span 5</div>
       <div class="nxt-col-1 teal-blue">Span 1</div>
