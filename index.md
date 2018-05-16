@@ -2,11 +2,11 @@
 layout: default
 ---
 ## Color<br>
-[Color](/color.md)<br>
+[Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
 
 ## Typography<br>
-[Text Styles](/text-styles.md)<br>
+[Text Styles](/text-styles.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 [Typefaces](/typefaces.md)<br>
 [Typesetting](/typesetting.md)<br>
 <br>
