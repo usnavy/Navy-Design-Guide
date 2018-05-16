@@ -29,7 +29,7 @@ those used in lists of news stories, and at least **300px by
 200px** when used in a page’s main content, as those same news
 story photos would be in each story’s full page view.
 
-<img src="img/minumum-display.jpg" alt="Composition" class="image-center">
+<img src="img/minimum-display.jpg" alt="Composition" class="image-center">
 
 ### Choosing a hero image
 
