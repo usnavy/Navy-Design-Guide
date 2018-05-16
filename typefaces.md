@@ -54,7 +54,6 @@ Google Fonts [FAQ](https://developers.google.com/fonts/faq).
 [Roboto Slab on Google Fonts](https://fonts.google.com/specimen/Roboto+Slab)
 
 <br>
-<br>
 
 #### Web Font Usage
 
@@ -67,7 +66,6 @@ caching system.
 [Roboto on Google Fonts](https://fonts.google.com/specimen/Roboto)  
 [Roboto Slab on Google Fonts](https://fonts.google.com/specimen/Roboto+Slab)
 
-<br>
 <br>
 
 <hr>
