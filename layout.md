@@ -32,9 +32,10 @@ widths up to **12 columns**.
 
   <div class="container-fluid">     
     <div class="row">
-      <div class="col-sm bg-success">col-sm</div>
-      <div class="col-sm bg-warning">col-sm</div>
-      <div class="col-sm bg-success">col-sm</div>
+      <div class="col-sm-3">col-sm</div>
+      <div class="col-sm-3">col-sm</div>
+      <div class="col-sm-3">col-sm</div>
+      <div class="col-sm-3">col-sm</div>
     </div>
   </div>
 
