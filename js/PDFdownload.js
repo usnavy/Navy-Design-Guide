@@ -11,13 +11,6 @@ function makePDF() {
         for (var i = 0; i <= quotes.clientHeight/980; i++) {
             //! This is all just html2canvas stuff
             var srcImg  = canvas;
-            var sY      = 980*i; // start 980 pixels down for every new page
-            var sWidth  = 900;
-            var sHeight = 980;
-            var dX      = 0;
-            var dY      = 0;
-            var dWidth  = 900;
-            var dHeight = 980;
 
             window.onePageCanvas = document.createElement("canvas");
             onePageCanvas.setAttribute('width', 900);
@@ -25,7 +18,7 @@ function makePDF() {
             var ctx = onePageCanvas.getContext('2d');
             // details on this usage of this function: 
             // https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images#Slicing
-            ctx.drawImage(srcImg,sY,sWidth,sHeight,dX,dY,dWidth,dHeight);
+            ctx.drawImage(srcImg);
 
             // document.body.appendChild(canvas);
             var canvasDataURL = onePageCanvas.toDataURL("image/png", 1.0);
