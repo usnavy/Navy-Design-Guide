@@ -473,15 +473,14 @@ a {
 
 #contribute-guidance {
   background: #003b4f;
-  color: #ffffff;
-  font-family: 'Roboto Slab';
-  font-weight: 700;
-  font-size: 17px;  
   padding: 10px;
 }
 
 #contribute-guidance:hover {
   background: #088199;
+}
+
+#contribute-guidance a {
   color: #ffffff;
   font-family: 'Roboto Slab';
   font-weight: 700;
