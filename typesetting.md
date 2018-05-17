@@ -82,5 +82,9 @@ p {
 <hr>
 
 ### To Contribute<br>
-[Are you Contributing?](/CONTRIBUTING.md)<br>
+<button id="contribute-guidance">
+[Are you Contributing?](/CONTRIBUTING.md)
+</button>  
 <br>
+<br>
+
