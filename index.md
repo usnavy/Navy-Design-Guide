@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="main-navigation">
   <h2>Color</h2><br>
-  <a href="Navy-Design-Guide/color.md">Color</a><img src="img/Right-Chevron.png" alt="Color" class="chevron">
+  <a href="color.md">Color</a><img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
 
 <h2>Typography</h2><br>
