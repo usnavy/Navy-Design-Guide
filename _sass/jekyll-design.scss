@@ -27,605 +27,599 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Roboto', sans-serif !important;
-  font-size: 16px !important;
-  line-height: 1.5 !important;
-  color: $body-text-color !important;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: $body-text-color;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Slab', serif !important;
+  font-family: 'Roboto Slab', serif;
 }
 
 h1, h2, h3, h4, h5 {
-  line-height: 1.3em !important;
+  line-height: 1.3em;
 }
 
 p {
-  margin-top: 1.5em !important;
-  margin-bottom: 1em !important;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
 }
 
 a {
-  color: $body-link-color !important;
-  text-decoration: none !important;
-  font-weight: normal !important;
+  color: $body-link-color;
+  text-decoration: none;
+  font-weight: normal;
 
   &:hover {
-    text-decoration: underline !important;
+    text-decoration: underline;
   }
 }
 
 .btn {
-  display: inline-block !important;
-  margin-bottom: 1rem !important;
-  color: rgba(255, 255, 255, 0.7) !important;
-  background-color: rgba(255, 255, 255, 0.08) !important;
-  border-color: rgba(255, 255, 255, 0.2) !important;
-  border-style: solid !important;
-  border-width: 1px !important;
-  border-radius: 0.3rem !important;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s !important;
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.2);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(255, 255, 255, 0.8) !important;
-    text-decoration: none !important;
-    background-color: rgba(255, 255, 255, 0.2) !important;
-    border-color: rgba(255, 255, 255, 0.3) !important;
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
   }
 
   + .btn {
-    margin-left: 1rem !important;
+    margin-left: 1rem;
   }
 
   @include large {
-    padding: 0.75rem 1rem !important;
+    padding: 0.75rem 1rem;
   }
 
   @include medium {
-    padding: 0.6rem 0.9rem !important;
-    font-size: 0.9rem !important;
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
   }
 
   @include small {
-    display: block !important;
-    width: 100% !important;
-    padding: 0.75rem !important;
-    font-size: 0.9rem !important;
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
 
     + .btn {
-      margin-top: 1rem !important;
-      margin-left: 0!important;
+      margin-top: 1rem;
+      margin-left: 0;
     }
   }
 }
 
-.nxt-col-1 {width: 8.33% !important; float:left !important;}
-.nxt-col-2 {width: 16.66% !important; float:left !important;}
-.nxt-col-3 {width: 25% !important; float:left !important;}
-.nxt-col-4 {width: 33.33% !important; float:left !important;}
-.nxt-col-5 {width: 41.66% !important; float:left !important;}
-.nxt-col-6 {width: 50% !important; float:left !important;}
-.nxt-col-7 {width: 58.33% !important; float:left !important;}
-.nxt-col-8 {width: 66.66% !important; float:left !important;}
-.nxt-col-9 {width: 75% !important; float:left !important;}
-.nxt-col-10 {width: 83.33% !important; float:left !important;}
-.nxt-col-11 {width: 91.66% !important; float:left !important;}
-.nxt-col-12 {width: 100% !important; float:left !important;}
+.nxt-col-1 {width: 8.33%; float:left;}
+.nxt-col-2 {width: 16.66%; float:left;}
+.nxt-col-3 {width: 25%; float:left;}
+.nxt-col-4 {width: 33.33%; float:left;}
+.nxt-col-5 {width: 41.66%; float:left;}
+.nxt-col-6 {width: 50%; float:left;}
+.nxt-col-7 {width: 58.33%; float:left;}
+.nxt-col-8 {width: 66.66%; float:left;}
+.nxt-col-9 {width: 75%; float:left;}
+.nxt-col-10 {width: 83.33%; float:left;}
+.nxt-col-11 {width: 91.66%; float:left;}
+.nxt-col-12 {width: 100%; float:left;}
 
 .navy-blue {
-  background: #003B4F !important;
-  color: #ffffff !important;
+  background: #003B4F;
+  color: #ffffff;
 }
 
 .navy-yellow {
-  background: #E8B00F !important;
-  color: #08262C !important;  
+  background: #E8B00F;
+  color: #08262C;
 }
 
 .teal-blue {
-  background: #088199 !important;
-  color: #ffffff !important;  
+  background: #088199;
+  color: #ffffff;
 }
 
 .page-header {
-  color: $header-heading-color !important;
-  text-align: center !important;
-  background-color: #003b4f !important;
+  color: $header-heading-color;
+  text-align: center;
+  background-color: #003b4f;
 
   @include large {
-    padding: 5rem 6rem !important;
+    padding: 5rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem !important;
+    padding: 3rem 4rem;
   }
 
   @include small {
-    padding: 2rem 1rem !important;
+    padding: 2rem 1rem;
   }
 }
 
 .project-name {
-  margin-top: 0 !important;
-  margin-bottom: 0.1rem !important;
+  margin-top: 0;
+  margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 3.25rem !important;
+    font-size: 3.25rem;
   }
 
   @include medium {
-    font-size: 2.25rem !important;
+    font-size: 2.25rem;
   }
 
   @include small {
-    font-size: 1.75rem !important;
+    font-size: 1.75rem;
   }
 }
 
 .project-tagline {
-  margin-bottom: 2rem !important;
-  font-weight: normal !important;
-  opacity: 0.7 !important;
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7;
 
   @include large {
-    font-size: 1.25rem !important;
+    font-size: 1.25rem;
   }
 
   @include medium {
-    font-size: 1.15rem !important;
+    font-size: 1.15rem;
   }
 
   @include small {
-    font-size: 1rem !important;
+    font-size: 1rem;
   }
 }
 
 .main-content {
-  word-wrap: break-word !important;
+  word-wrap: break-word;
 
   :first-child {
-    margin-top: 0 !important;
+    margin-top: 0;
   }
 
   @include large {
-    max-width: 64rem !important;
-    padding: 2rem 6rem !important;
-    margin: 0 auto !important;
-    font-size: 1.1rem !important;
+    max-width: 64rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
   }
 
   @include medium {
-    padding: 2rem 4rem !important;
-    font-size: 1.1rem !important;
+    padding: 2rem 4rem;
+    font-size: 1.1rem;
   }
 
   @include small {
-    padding: 2rem 1rem !important;
-    font-size: 1rem !important;
+    padding: 2rem 1rem;
+    font-size: 1rem;
   }
 
   a {
-    float: left !important;
+    float: left;
   }
   
   img {
-    max-width: 100% !important;
+    max-width: 100%;
   }
 
   display {
-    font-family: 'Roboto Slab' !important;
-    font-weight: 700 !important;
-    font-size: 52px !important;
-    line-height: 1.3em !important;
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 1.3em;
   }
   
   h1, .h1 {
-    font-family: $font-serif !important;
-    font-weight: $font-bold !important;
-    font-size: $h1-font-size !important;
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h1-font-size;
   }
   
   h2, .h2 {
-    font-family: $font-serif !important;
-    font-weight: $font-bold !important;
-    font-size: $h2-font-size !important;
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h2-font-size;
   }
 
   h3, .h3 {
-    font-family: $font-serif !important;
-    font-weight: $font-bold !important;
-    font-size: $h3-font-size !important;
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h3-font-size;
   }
   
   h4, .h4 {
-    font-family: $font-serif !important;
-    font-weight: $font-bold !important;
-    font-size: $h4-font-size !important;
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h4-font-size;
   }
   
   h5, .h5 {
-    font-family: $font-serif !important;
-    font-weight: $font-bold !important;
-    font-size: $h5-font-size !important;
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h5-font-size;
   }
   
   h6, .h6 {
-    font-family: $font-serif !important;
-    font-weight: $font-bold !important;
-    font-size: $h6-font-size !important;
-    text-transform: uppercase !important;
+    font-family: $font-serif;
+    font-weight: $font-bold;
+    font-size: $h6-font-size;
+    text-transform: uppercase;
   }
   
   p {
-    margin-bottom: 1em !important;
+    margin-bottom: 1em;
   }
 
   code {
-    padding: 2px 4px !important;
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace !important;
-    font-size: 0.9rem !important;
-    color: $code-text-color !important;
-    background-color: $code-bg-color !important;
-    border-radius: 0.3rem !important;
+    padding: 2px 4px;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 0.9rem;
+    color: $code-text-color;
+    background-color: $code-bg-color;
+    border-radius: 0.3rem;
   }
 
   pre {
-    padding: 0.8rem !important;
-    margin-top: 0 !important;
-    margin-bottom: 1rem !important;
-    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace !important;
-    color: $code-text-color !important;
-    word-wrap: normal !important;
-    background-color: $code-bg-color !important;
-    border: solid 1px $border-color !important;
-    border-radius: 0.3rem !important;
+    padding: 0.8rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: $code-text-color;
+    word-wrap: normal;
+    background-color: $code-bg-color;
+    border: solid 1px $border-color;
+    border-radius: 0.3rem;
 
     > code {
-      padding: 0 !important;
-      margin: 0 !important;
-      font-size: 0.9rem !important;
-      color: $code-text-color !important;
-      word-break: normal !important;
-      white-space: pre !important;
-      background: transparent !important;
-      border: 0 !important;
+      padding: 0;
+      margin: 0;
+      font-size: 0.9rem;
+      color: $code-text-color;
+      word-break: normal;
+      white-space: pre;
+      background: transparent;
+      border: 0;
     }
   }
 
   .highlight {
-    margin-bottom: 1rem !important;
+    margin-bottom: 1rem;
 
     pre {
-      margin-bottom: 0 !important;
-      word-break: normal !important;
+      margin-bottom: 0;
+      word-break: normal;
     }
   }
 
   .highlight pre,
   pre {
-    padding: 0.8rem !important;
-    overflow: auto !important;
-    font-size: 0.9rem !important;
-    line-height: 1.45 !important;
-    border-radius: 0.3rem !important;
-    -webkit-overflow-scrolling: touch !important;
+    padding: 0.8rem;
+    overflow: auto;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    border-radius: 0.3rem;
+    -webkit-overflow-scrolling: touch;
   }
 
   pre code,
   pre tt {
-    display: inline !important;
-    max-width: initial !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    overflow: initial !important;
-    line-height: inherit !important;
-    word-wrap: normal !important;
-    background-color: transparent !important;
-    border: 0 !important;
+    display: inline;
+    max-width: initial;
+    padding: 0;
+    margin: 0;
+    overflow: initial;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: transparent;
+    border: 0;
 
     &:before,
     &:after {
-      content: normal !important;
+      content: normal;
     }
   }
 
   ul,
   ol {
-    margin-top: 0 !important;
+    margin-top: 0;
   }
 
   blockquote {
-    padding: 0 1rem !important;
-    margin-left: 0 !important;
-    color: $blockquote-text-color !important;
-    border-left: 0.3rem solid $border-color !important;
+    padding: 0 1rem;
+    margin-left: 0;
+    color: $blockquote-text-color;
+    border-left: 0.3rem solid $border-color;
 
     > :first-child {
-      margin-top: 0 !important;
+      margin-top: 0;
     }
 
     > :last-child {
-      margin-bottom: 0 !important;
+      margin-bottom: 0;
     }
   }
 
   table {
-    display: block !important;
-    width: 100% !important;
-    overflow: auto !important;
-    word-break: normal !important;
-    word-break: keep-all !important; // For Firefox to horizontally scroll wider tables.
-    -webkit-overflow-scrolling: touch !important;
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all; // For Firefox to horizontally scroll wider tables.
+    -webkit-overflow-scrolling: touch;
 
     th {
-      font-weight: bold !important;
+      font-weight: bold;
     }
 
     th,
     td {
-      padding: 0.5rem 1rem !important;
-      border: 1px solid $table-border-color !important;
+      padding: 0.5rem 1rem;
+      border: 1px solid $table-border-color;
     }
   }
 
   dl {
-    padding: 0 !important;
+    padding: 0;
 
     dt {
-      padding: 0 !important;
-      margin-top: 1rem !important;
-      font-size: 1rem !important;
-      font-weight: bold !important;
+      padding: 0;
+      margin-top: 1rem;
+      font-size: 1rem;
+      font-weight: bold;
     }
 
     dd {
-      padding: 0 !important;
-      margin-bottom: 1rem !important;
+      padding: 0;
+      margin-bottom: 1rem;
     }
   }
 
   hr {
-    height: 2px !important;
-    margin-top: 10px !important;
-    margin-bottom: 10px !important;
-    margin: 1rem 0 !important;
-    background-color: #C6CCD0 !important;
-    border: 0 !important;
+    height: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 1rem 0;
+    background-color: #C6CCD0;
+    border: 0;
   }
 }
 
 .site-footer {
-  padding-top: 2rem !important;
-  margin-top: 2rem !important;
-  border-top: solid 1px $hr-border-color !important;
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: solid 1px $hr-border-color;
 
   @include large {
-    font-size: 1rem !important;
+    font-size: 1rem;
   }
 
   @include medium {
-    font-size: 1rem !important;
+    font-size: 1rem;
   }
 
   @include small {
-    font-size: 0.9rem !important;
+    font-size: 0.9rem;
   }
 }
 
 .site-footer-owner {
-  display: block !important;
-  font-weight: bold !important;
+  display: block;
+  font-weight: bold;
 }
 
 .site-footer-credits {
-  color: $blockquote-text-color !important;
+  color: $blockquote-text-color;
 }
 
 .swatch-box-large {
-  width: 300px !important;
-  height: 300px !important;
+  width: 300px;
+  height: 300px;
 }
 
 .swatch-box {
-  width: 200px !important;
-  height: 200px !important;
+  width: 200px;
+  height: 200px;
 }
 
 .navy-logo {
-  width: 300px !important;
+  width: 300px;
 }
   
 .roboto-regular {
-  font-family: 'Roboto' !important;
-  font-weight: 400 !important;
+  font-family: 'Roboto';
+  font-weight: 400;
 }
 
 .roboto-slab-bold {
-  font-family: 'Roboto Slab' !important;
-  font-weight: 700 !important;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
 }
 
 .medium-image-frame {
-  width: 100% !important;
+  width: 100%;
 }
 
 .image-center {
-  width: 100% !important;
-  justify-content:center !important;
-  align-items: center !important;
-  display: flex !important;
-  float: left !important;
-  align-self: center !important;
+  width: 100%;
+  justify-content:center;
+  align-items: center;
+  display: flex;
+  float: left;
+  align-self: center;
 }
 
 .chevron {
-  height: 15px !important;
-  padding-left: 10px !important;
-  float: left !important;
-  display: inline-block !important;
-  margin-top: 10px !important;
+  height: 15px;
+  padding-left: 10px;
+  float: left;
+  display: inline-block;
+  margin-top: 10px;
 }
 
 .site-footer a {
-  float: none !important;
+  float: none;
 }
 
 #contribute-guidance {
-  background: #003b4f !important;
-  padding: 10px !important;
-  border-radius: 5px !important;
-  border: 1px solid #088199 !important;
+  background: #003b4f;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #088199;
 }
 
 #contribute-guidance:hover {
-  background: #088199 !important;
-  border: 1px solid #003b4f !important; 
+  background: #088199;
+  border: 1px solid #003b4f;
 }
 
 #contribute-guidance a {
-  color: #ffffff !important;
-  font-family: 'Roboto Slab' !important;
-  font-weight: 700 !important;
-  font-size: 17px !important;  
+  color: #ffffff;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 17px;
 }
 
 .button-style {
-  background: #003b4f !important;
-  padding: 10px !important;
-  color: #ffffff !important;
-  border-radius: 5px !important;
-  border: 1px solid #088199 !important;
-  font-family: 'Roboto Slab' !important;
-  font-weight: 700 !important;
-  font-size: 17px !important;
+  background: #003b4f;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #088199;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 17px;
 }
 
 .button-style:hover {
-  background: #088199 !important;
-  border: 1px solid #003b4f !important; 
-}
+  background: #088199;
+  border: 1px solid #003b4f;
 
 .contribute-comment {
-  display: none !important;
-  width: 0px !important;
-  height: 0px !important;
+  display: none;
+  width: 0px;
+  height: 0px;
 }
 
 .menu {
-  float: left !important;
-  border: 1px solid #C6CCD0 !important;
-  max-width:400px !important;
-  min-width: 350px !important;
-  display: inline-block !important;
-  padding: 5rem !important;
+  float: left;
+  border: 1px solid #C6CCD0;
+  max-width:400px;
+  min-width: 350px;
+  display: inline-block;
+  padding: 5rem;
 }
 
 .menu-item {
-  background: #ffffff !important;
-  border: 0px solid #ffffff !important;
-  display: block !important;
+  background: #ffffff;
+  border: 0px solid #ffffff;
+  display: block;
 }
 
 .menu-item a {
-  color: #003b4f !important;
-  font-family: 'Roboto Slab' !important;
-  font-weight: 400 !important;
-  font-size: 20px !important;  
-  float: left !important;
+  color: #003b4f;
+  font-family: 'Roboto Slab';
+  font-weight: 400;
+  font-size: 20px; 
+  float: left;
 }
 
 .menu-item a:hover {
-  color: #088199 !important;
+  color: #088199;
 }
   .main-content {
-    max-width: 64rem !important;
-    min-width: 40rem !important;
-    padding: 2rem 6rem !important;
-    margin: 0 auto !important;
-    font-size: 1.1rem !important;
-    border: 1px solid #C6CCD0 !important;
-}
-
-.page-header > h1, h2 {
-    color: #ffffff !important;
-    font-family: 'Roboto Slab' !important;
+    max-width: 64rem;
+    min-width: 40rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    border: 1px solid #C6CCD0;
 }
 
 .nav {
-  padding-left: 20px !important;
+  padding-left: 20px;
 }
 
 @media print {
     .page-header {
-    color: #fff !important;
-    text-align: center !important;
-    background-color: #003b4f !important;
-    height: 0px !important;
+    color: #ffffff;
+    text-align: center;
+    background-color: #003b4f;
+    height: 0px;
 }
    .page-header > h1, h2 {
-    color: #003b4f !important;
+    color: #003b4f;
 }
    .page-header > a {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important;
+    width: 0px;
+    height: 0px;
+    display: none;
 }
    .page-header > button {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important;
+    width: 0px;
+    height: 0px;
+    display: none;
 }
   
   .contribute-comment {
-  display: block !important;
-  width: 100% !important;
-  height: 100% !important;
-  color: #003b4f !important;
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: #003b4f;
 }
  #main-navigation {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important; 
+    width: 0px;
+    height: 0px;
+    display: none;
 } 
   
  #contribute-guidance {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important; 
+    width: 0px;
+    height: 0px;
+    display: none;
 }   
   #color {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important; 
+    width: 0px;
+    height: 0px;
+    display: none;
   }
   #typography {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important; 
+    width: 0px;
+    height: 0px;
+    display: none;
   }
   
   #media {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important; 
+    width: 0px;
+    height: 0px;
+    display: none;
   }
   
   #layout {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important; 
+    width: 0px;
+    height: 0px;
+    display: none;
   }
   
   .menu-item {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important; 
+    width: 0px;
+    height: 0px;
+    display: none;
 }
   
   .container-hide {
-    width: 0px !important;
-    height: 0px !important;
-    display: none !important;  
+    width: 0px;
+    height: 0px;
+    display: none;
   }
 }
