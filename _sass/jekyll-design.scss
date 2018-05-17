@@ -507,13 +507,21 @@ a {
 }
 
 
-	  @media print {
-	.page-header {
+@media print {
+    .page-header {
     color: #fff;
     text-align: center;
     background-color: #003b4f;
 }
+   .page-header > h1, h2 {
+    color: #003b4f;
+}
    .page-header > a {
+    width: 0px;
+    height: 0px;
+    display: none;
+}
+   .page-header > button {
     width: 0px;
     height: 0px;
     display: none;
