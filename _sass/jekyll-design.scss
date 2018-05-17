@@ -220,37 +220,37 @@ a {
     line-height: 1.3em;
   }
   
-  h1 {
+  h1, .h1 {
     font-family: $font-serif !important;
     font-weight: $font-bold !important;
     font-size: $h1-font-size !important;
   }
   
-  h2 {
+  h2, .h2 {
     font-family: $font-serif !important;
     font-weight: $font-bold !important;
     font-size: $h2-font-size !important;
   }
 
-  h3 {
+  h3, .h3 {
     font-family: $font-serif !important;
     font-weight: $font-bold !important;
     font-size: $h3-font-size !important;
   }
   
-  h4 {
+  h4, .h4 {
     font-family: $font-serif !important;
     font-weight: $font-bold !important;
     font-size: $h4-font-size !important;
   }
   
-  h5 {
+  h5, .h5 {
     font-family: $font-serif !important;
     font-weight: $font-bold !important;
     font-size: $h5-font-size !important;
   }
   
-  h6 {
+  h6, .h6 {
     font-family: $font-serif !important;
     font-weight: $font-bold !important;
     font-size: $h6-font-size !important;
@@ -550,6 +550,10 @@ a {
 .page-header > h1, h2 {
     color: #ffffff;
     font-family: 'Roboto Slab';
+}
+
+.nav {
+  padding-left: 20px !important;
 }
 
 @media print {
