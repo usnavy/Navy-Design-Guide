@@ -25,7 +25,6 @@ layout: default
 <button class="menu-item">
  [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Layout" class="chevron">
 </button>
-<br>
 	  
 <hr>
 
