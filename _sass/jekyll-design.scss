@@ -489,3 +489,20 @@ a {
   font-weight: 700;
   font-size: 17px;  
 }
+
+.button-style {
+  background: #003b4f;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #088199; 
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.button-style:hover {
+  background: #088199;
+  border: 1px solid #003b4f; 
+}
+  
