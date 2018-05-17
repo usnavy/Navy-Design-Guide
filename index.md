@@ -3,7 +3,9 @@ layout: default
 ---
 
 ## Color<br>
+<button class="menu-item">
  [Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
+</button>
 <br>
 ## Typography<br>
  [Text Styles](/text-styles.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
