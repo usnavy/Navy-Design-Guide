@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/print.js"></script>
-    <script type="application/javascript"  src="https://raw.githubusercontent.com/betosolano/jTeam/master/pdf.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.0.272/jspdf.debug.js"></script>
     <script src="js/PDFdownload.js"></script>
   </head>
   <body>
@@ -27,11 +28,11 @@
       <button class="button-style" onclick="printGuide()">
       Print
       </button>
-      <button class="button-style" onclick="javascript:demoFromHTML();">
+      <button class="button-style" onclick="makePDF()">
       Download PDF
       </button>
     </section>	  
-<div id="customers">	  
+<div id="downloadPDF">	  
     <section class="main-content">
       {{ content }}
 
