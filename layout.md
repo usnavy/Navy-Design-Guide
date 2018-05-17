@@ -24,7 +24,7 @@
 </button>
 	  
 <hr>
-
+<div id="downloadPDF">
 ## Layout
 
 ### Grid system
@@ -189,3 +189,4 @@ sizes (i.e. vertically, unconstrained by screen width).
 <br>
 <br>
 
+</div>
