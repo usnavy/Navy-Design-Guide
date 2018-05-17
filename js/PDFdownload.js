@@ -11,7 +11,7 @@ function makePDF() {
         for (var i = 0; i <= quotes.clientHeight/980; i++) {
             //! This is all just html2canvas stuff
             var srcImg  = canvas;
-            var sX      = 0*i;
+            var sX      = 900;
             var sY      = 980*i; // start 980 pixels down for every new page
             var sWidth  = 900;
             var sHeight = 980;
