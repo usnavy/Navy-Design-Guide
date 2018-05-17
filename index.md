@@ -26,7 +26,7 @@ layout: default
  [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Layout" class="chevron">
 </button>
 	  
-<hr>
+====================
 
 ### To Contribute<br>
 <button id="contribute-guidance">
