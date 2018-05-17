@@ -221,40 +221,40 @@ a {
   }
   
   h1 {
-    font-family: $font-serif;
-    font-weight: $font-bold;
-    font-size: $h1-font-size;
+    font-family: $font-serif !important;
+    font-weight: $font-bold !important;
+    font-size: $h1-font-size !important;
   }
   
   h2 {
-    font-family: $font-serif;
-    font-weight: $font-bold;
-    font-size: $h2-font-size;
+    font-family: $font-serif !important;
+    font-weight: $font-bold !important;
+    font-size: $h2-font-size !important;
   }
 
   h3 {
-    font-family: $font-serif;
-    font-weight: $font-bold;
-    font-size: $h3-font-size;
+    font-family: $font-serif !important;
+    font-weight: $font-bold !important;
+    font-size: $h3-font-size !important;
   }
   
   h4 {
-    font-family: $font-serif;
-    font-weight: $font-bold;
-    font-size: $h4-font-size;
+    font-family: $font-serif !important;
+    font-weight: $font-bold !important;
+    font-size: $h4-font-size !important;
   }
   
   h5 {
-    font-family: $font-serif;
-    font-weight: $font-bold;
-    font-size: $h5-font-size;
+    font-family: $font-serif !important;
+    font-weight: $font-bold !important;
+    font-size: $h5-font-size !important;
   }
   
   h6 {
-    font-family: $font-serif;
-    font-weight: $font-bold;
-    font-size: $h6-font-size;
-    text-transform: uppercase;
+    font-family: $font-serif !important;
+    font-weight: $font-bold !important;
+    font-size: $h6-font-size !important;
+    text-transform: uppercase !important;
   }
   
   p {
@@ -545,6 +545,11 @@ a {
     margin: 0 auto;
     font-size: 1.1rem;
     border: 1px solid #C6CCD0;
+}
+
+.page-header > h1, h2 {
+    color: #003b4f;
+    font-family: 'Roboto Slab';
 }
 
 @media print {
