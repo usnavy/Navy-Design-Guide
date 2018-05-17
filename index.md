@@ -22,7 +22,7 @@ layout: default
 <hr>
 
 ### To Contribute<br>
-<button>
+<button id="contribute-guidance">
 [Are you Contributing?](/CONTRIBUTING.md)
 </button>  
 <br>
