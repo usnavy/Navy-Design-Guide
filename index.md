@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div id="main-navigation">
+<span id="main-navigation">
 ## Color<br>
 [Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
@@ -19,7 +19,7 @@ layout: default
 ## Layout<br>
 [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 <br>
-</div>
+</span>
 
 <hr>
 
