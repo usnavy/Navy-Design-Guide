@@ -515,7 +515,8 @@ a {
 .menu {
   float: left;
   border: 1px solid #C6CCD0;
-  width:30%;
+  max-width:400px;
+  min-width: 350px;
   display: inline-block;
   padding: 5rem;
 }
