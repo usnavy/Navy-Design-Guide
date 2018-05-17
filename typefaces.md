@@ -1,3 +1,5 @@
+<div id="main-navigation">
+
 ## Color<br>
  [Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
@@ -14,6 +16,8 @@
 <br>
 	  
 <hr>
+
+</div>
 
 ## Typography
 
