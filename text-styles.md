@@ -388,5 +388,9 @@ line-height: 1.5em/26px;
 <hr>
 
 ### To Contribute<br>
-[Are you Contributing?](/CONTRIBUTING.md)<br>
+<button id="contribute-guidance">
+[Are you Contributing?](/CONTRIBUTING.md)
+</button>  
 <br>
+<br>
+
