@@ -512,6 +512,13 @@ a {
   height: 0px;
 }
 
+.menu {
+  float: left;
+  border: 1px solid #C6CCD0;
+  max-width: 400px;
+  display: inline-block;
+}
+
 .menu-item {
   background: #ffffff;
   border: 0px solid #ffffff;
@@ -527,6 +534,14 @@ a {
 
 .menu-item a:hover {
   color: #088199;
+}
+  .main-content {
+    max-width: 64rem;
+    min-width: 40rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    border: 1px solid #C6CCD0;
 }
 
 @media print {
