@@ -505,4 +505,17 @@ a {
   background: #088199;
   border: 1px solid #003b4f; 
 }
-  
+
+
+	  @media print {
+	.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #003b4f;
+}
+   .page-header > a {
+    width: 0px;
+    height: 0px;
+    display: none;
+}
+}
