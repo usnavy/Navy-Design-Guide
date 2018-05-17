@@ -22,5 +22,8 @@ layout: default
 <hr>
 
 ### To Contribute<br>
-[Are you Contributing?](/CONTRIBUTING.md)<br>
+<button>
+[Are you Contributing?](/CONTRIBUTING.md)
+</button>  
+<br>
 <br>
