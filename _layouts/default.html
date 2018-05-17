@@ -7,10 +7,9 @@
     <meta name="theme-color" content="#157878">
     <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/print.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.0.272/jspdf.debug.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="js/PDFdownload.js"></script>
   </head>
   <body>
@@ -32,30 +31,42 @@
     </section>	
 	  
 <section class="menu">    
-<H2>Color</H2>
+<nav class="nxt-col-3">
+<ul class="nav nav-pills nav-stacked" data-spy="affix" data-offset-top="305">
+<H2>Color</H2>	
+<li class="active">	
 <button class="menu-item">
   <a href="color.html">Color</a><img src="img/Right-Chevron.png" alt="Color" class="chevron">
 </button>
+</li>
+<br>
 <H2>Typography</H2>
-<button class="menu-item">
+<li><button class="menu-item">
  <a href="text-styles.html">Text Styles</a><img src="img/Right-Chevron.png" alt="Text Styles" class="chevron">
 </button>
-<button class="menu-item">
+</li>
+<li><button class="menu-item">
  <a href="typefaces.html">Typefaces</a><img src="img/Right-Chevron.png" alt="Typefaces" class="chevron">
 </button>
-<button class="menu-item">
+</li>
+<li><button class="menu-item">
  <a href="typesetting.html">Typesetting</a><img src="img/Right-Chevron.png" alt="Typesetting" class="chevron">
 </button>
+</li>
 <br>
 <H2>Media</H2>
-<button class="menu-item">
+<li><button class="menu-item">
  <a href="media.md.html">Media</a><img src="img/Right-Chevron.png" alt="Media" class="chevron">
 </button>
+</li>
 <br>
 <H2>Layout</H2>
-<button class="menu-item">
+<li><button class="menu-item">
  <a href="layout.html">Layout</a><img src="img/Right-Chevron.png" alt="Layout" class="chevron">
 </button>
+</li>
+</ul>
+</nav>
 </section> 
 	  
     <section class="main-content">
