@@ -512,6 +512,22 @@ a {
   height: 0px;
 }
 
+.menu-item {
+  background: #ffffff;
+  border: 0px solid #ffffff;
+}
+
+.menu-item a {
+  color: #003b4f;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 17px;  
+}
+
+.menu-item a:hover {
+  color: #088199;
+}
+
 @media print {
     .page-header {
     color: #fff;
@@ -549,4 +565,14 @@ a {
     height: 0px;
     display: none; 
 }   
+  #color {
+    width: 0px;
+    height: 0px;
+    display: none; 
+  }
+  #color {
+    width: 0px;
+    height: 0px;
+    display: none; 
+  }
 }
