@@ -14,6 +14,7 @@
     <script src="js/PDFdownload.js"></script>
   </head>
   <body>
+<div id="downloadPDF">	
     <section class="page-header">
       <a href="https://usnavy.github.io/Navy-Design-Guide/"><img src="img/NAVY-Logo.png" alt="Navy Trademark" class="navy-logo"></a>
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
@@ -31,8 +32,7 @@
       <button class="button-style" onclick="makePDF()">
       Download PDF
       </button>
-    </section>	  
-<div id="downloadPDF">	  
+    </section>	    
     <section class="main-content">
       {{ content }}
 
