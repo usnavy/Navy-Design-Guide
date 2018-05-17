@@ -1,0 +1,3 @@
+function printGuide() {
+    window.print();
+}
