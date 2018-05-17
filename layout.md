@@ -38,7 +38,7 @@ a responsive
 grid system that expands from one column at narrow screen
 widths up to **12 columns**.
 
-  <div class="container-fluid">     
+  <div class="container-fluid container-hide">     
     <div class="row">
       <div class="nxt-col-6 teal-blue">Span 6</div>
       <div class="nxt-col-5 navy-blue">Span 5</div>
@@ -107,7 +107,7 @@ easier to include strong differentiating whitespace between
 page sections in a way that is consistent across all screen
 sizes (i.e. vertically, unconstrained by screen width).
 
-  <div class="container-fluid">    
+  <div class="container-fluid container-hide">    
     <div class="row">
       <div class="nxt-col-3 navy-blue">Span 3</div>
       <div class="nxt-col-3 teal-blue">Span 3</div>
