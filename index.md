@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div id="main-navigation">
 ## Color<br>
 [Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
@@ -18,6 +19,7 @@ layout: default
 ## Layout<br>
 [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 <br>
+</div>
 
 <hr>
 
@@ -25,5 +27,6 @@ layout: default
 <button id="contribute-guidance">
 [Are you Contributing?](/CONTRIBUTING.md)
 </button>  
+<span class="contribute-comment">If you are interested in contributing, please visit: https://usnavy.github.io/Navy-Design-Guide/ <br>We need you!</span>
 <br>
 <br>
