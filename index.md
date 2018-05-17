@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<div class="main-navigation">
 ## Color<br>
  [Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
@@ -18,8 +17,6 @@ layout: default
 <br>
 	  
 <hr>
-
-</div>
 
 ### To Contribute<br>
 <button id="contribute-guidance">
