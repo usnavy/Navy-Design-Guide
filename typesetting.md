@@ -1,22 +1,17 @@
-<div id="main-navigation">
-  <h2>Color</h2>><br>
-  <a href="/color.md">Color</a><img src="img/Right-Chevron.png" alt="Color" class="chevron">
+## Color<br>
+ [Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
-
-<h2>Typography</h2><br>
-<a href="/text-styles.md">Text Styles</a><img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
-<a href="/typefaces.md">Typefaces</a><img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
-<a href="/typesetting.md">Typesetting</a><img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
+## Typography<br>
+ [Text Styles](/text-styles.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
+ [Typefaces](/typefaces.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
+ [Typesetting](/typesetting.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 <br>
-
-<h2>Media</h2><br>
-<a href="/media.md">Media</a><img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
+## Media<br>
+ [Media](/media.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 <br>
-
-<h2>Layout</h2><br>
-<a href="/layout.md">Layout</a><img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
+## Layout<br>
+ [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 <br>
-</div>
 	  
 <hr>
 
