@@ -24,7 +24,7 @@
 </button>
 	  
 <hr>
-<div id="downloadPDF">
+
 ## Layout
 
 ### Grid system
@@ -188,5 +188,3 @@ sizes (i.e. vertically, unconstrained by screen width).
 <span class="contribute-comment">If you are interested in contributing, please visit: https://usnavy.github.io/Navy-Design-Guide/ <br>We need you!</span>
 <br>
 <br>
-
-</div>
