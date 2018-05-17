@@ -1,33 +1,6 @@
 ---
 layout: default
 ---
-## Color<br>
-<button class="menu-item">
- [Color](/color.md)<img src="img/Right-Chevron.png" alt="Color" class="chevron">
-</button>
-## Typography<br>
-<button class="menu-item">
- [Text Styles](/text-styles.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron">
-</button>
-<button class="menu-item">
- [Typefaces](/typefaces.md)<img src="img/Right-Chevron.png" alt="Typefaces" class="chevron">
-</button>
-<button class="menu-item">
- [Typesetting](/typesetting.md)<img src="img/Right-Chevron.png" alt="Typesetting" class="chevron">
-</button>
-<br>
-## Media<br>
-<button class="menu-item">
- [Media](/media.md)<img src="img/Right-Chevron.png" alt="Media" class="chevron">
-</button>
-<br>
-## Layout<br>
-<button class="menu-item">
- [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Layout" class="chevron">
-</button>
-	  
-<hr>
-
 # Welcome!
 We're so glad you're thinking about contributing to U.S. Navy open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
