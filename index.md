@@ -9,24 +9,29 @@ layout: default
 <br>
 ## Typography<br>
 <button class="menu-item">
- [Text Styles](/text-styles.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
+ [Text Styles](/text-styles.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron">
 </button>
+<br>
 <button class="menu-item">
- [Typefaces](/typefaces.md)<img src="img/Right-Chevron.png" alt="Typefaces" class="chevron"><br>
+ [Typefaces](/typefaces.md)<img src="img/Right-Chevron.png" alt="Typefaces" class="chevron">
 </button>
+<br>
 <button class="menu-item">
- [Typesetting](/typesetting.md)<img src="img/Right-Chevron.png" alt="Typesetting" class="chevron"><br>
+ [Typesetting](/typesetting.md)<img src="img/Right-Chevron.png" alt="Typesetting" class="chevron">
 </button>
+<br>
 <br>
 ## Media<br>
 <button class="menu-item">
- [Media](/media.md)<img src="img/Right-Chevron.png" alt="Media" class="chevron"><br>
+ [Media](/media.md)<img src="img/Right-Chevron.png" alt="Media" class="chevron">
 </button>
+<br>
 <br>
 ## Layout<br>
 <button class="menu-item">
- [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Layout" class="chevron"><br>
+ [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Layout" class="chevron">
 </button>
+<br>
 <br>
 	  
 <hr>
