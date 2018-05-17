@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="main-navigation">
-  <h2>Color</h2>><br>
+  <h2>Color</h2><br>
   <a href="/color.md">Color</a><img src="img/Right-Chevron.png" alt="Color" class="chevron">
 <br>
 
