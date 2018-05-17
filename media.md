@@ -9,9 +9,11 @@
 ## Media<br>
  [Media](/media.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 <br>
- ## Layout<br>
+## Layout<br>
  [Layout](/layout.md)<img src="img/Right-Chevron.png" alt="Text Styles" class="chevron"><br>
 <br>
+
+<hr>
 
 ## Media
 
