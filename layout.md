@@ -205,6 +205,8 @@ widths up to **12 columns**.
     </div>  
 </div>  
 
+  <hr>
+
   <pre>
   ```
 .nxt-col-1 {width: 8.33%; float:left;}
