@@ -11,7 +11,7 @@ grid system that expands from one column at narrow screen
 widths up to **12 columns**.
 
   <div class="container-fluid container-hide">    
-  <H2>Balanced Grid System</H2>
+  <H3>Balanced Grid System</H3>
   <br>
   <br>
     <div class="row">
@@ -71,7 +71,7 @@ widths up to **12 columns**.
   <hr>
 
 <div class="container-fluid container-hide">    
-  <H2>Varied Grid System</H2>
+  <H3>Varied Grid System</H3>
   <br>
   <br>
     <div class="row">
@@ -102,7 +102,7 @@ widths up to **12 columns**.
   <hr>
 
 <div class="container-fluid container-hide">   
-  <H2>Symmetric Grid System</H2>
+  <H3>Symmetric Grid System</H3>
   <br>
   <br>
     <div class="row">
@@ -143,7 +143,7 @@ widths up to **12 columns**.
   <hr>
   
 <div class="container-fluid container-hide">     
-    <H2>Asymmetric Grid System</H2>
+    <H3>Asymmetric Grid System</H3>
   <br>
   <br>
     <div class="row">
@@ -167,7 +167,7 @@ widths up to **12 columns**.
   <hr>
   
 <div class="container-fluid container-hide">     
-    <H2>Tiled Grid System</H2>
+    <H3>Tiled Grid System</H3>
   <br>
   <br>
     <div class="row">
