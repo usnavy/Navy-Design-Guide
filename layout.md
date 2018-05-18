@@ -188,11 +188,11 @@ widths up to **12 columns**.
   <br>
     <div class="row">
       <div class="nxt-col-1 navy-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 2</div>
-      <div class="nxt-col-5 navy-blue"> Span 3</div>
+      <div class="nxt-col-2 teal-blue"> Span 2</div>
+      <div class="nxt-col-3 navy-blue"> Span 3</div>
       <div class="nxt-col-1 navy-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 2</div>
-      <div class="nxt-col-5 navy-blue"> Span 3</div>
+      <div class="nxt-col-2 teal-blue"> Span 2</div>
+      <div class="nxt-col-3 navy-blue"> Span 3</div>
     </div>  
   <br>
   <br>
