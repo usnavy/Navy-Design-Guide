@@ -18,47 +18,47 @@ widths up to **12 columns**.
   <br>
   <br>
   <div class="row">
+      <div class="nxt-col-6 navy-blue"> Span 6</div>
       <div class="nxt-col-6 teal-blue"> Span 6</div>
-      <div class="nxt-col-6 teal-blue"> Span 6</div>
     </div>   
   <br>
   <br>
   <div class="row">
+      <div class="nxt-col-4 navy-blue"> Span 4</div>
       <div class="nxt-col-4 teal-blue"> Span 4</div>
-      <div class="nxt-col-4 teal-blue"> Span 4</div>
-      <div class="nxt-col-4 teal-blue"> Span 4</div>
+      <div class="nxt-col-4 navy-blue"> Span 4</div>
     </div>   
   <br>
   <br>
   <div class="row">
+      <div class="nxt-col-3 navy-blue"> Span 3</div>
       <div class="nxt-col-3 teal-blue"> Span 3</div>
-      <div class="nxt-col-3 teal-blue"> Span 3</div>
-      <div class="nxt-col-3 teal-blue"> Span 3</div>
+      <div class="nxt-col-3 navy-blue"> Span 3</div>
       <div class="nxt-col-3 teal-blue"> Span 3</div>
     </div>   
   <br>
   <br>
   <div class="row">
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
       <div class="nxt-col-2 teal-blue"> Span 2</div>
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
       <div class="nxt-col-2 teal-blue"> Span 2</div>
-      <div class="nxt-col-2 teal-blue"> Span 2</div>
-      <div class="nxt-col-2 teal-blue"> Span 2</div>
-      <div class="nxt-col-2 teal-blue"> Span 2</div>
-      <div class="nxt-col-2 teal-blue"> Span 2</div>
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
     </div>   
   <br>
   <br>
+      <div class="nxt-col-1 navy-blue"> Span 1</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
+      <div class="nxt-col-1 navy-blue"> Span 1</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
+      <div class="nxt-col-1 navy-blue"> Span 1</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
+      <div class="nxt-col-1 navy-blue"> Span 1</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
+      <div class="nxt-col-1 navy-blue"> Span 1</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 1</div>
-      <div class="nxt-col-1 teal-blue"> Span 1</div>
+      <div class="nxt-col-1 navy-blue"> Span 1</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
     </div>   
   <br>
@@ -123,8 +123,8 @@ widths up to **12 columns**.
       <div class="nxt-col-2 navy-blue"> Span 2</div>
       <div class="nxt-col-2 teal-blue"> Span 2</div>
       <div class="nxt-col-4 navy-blue"> Span 4</div>
-      <div class="nxt-col-2 navy-blue"> Span 2</div>
       <div class="nxt-col-2 teal-blue"> Span 2</div>
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
     </div>  
   <br>
   <br>
@@ -160,7 +160,7 @@ widths up to **12 columns**.
       <div class="nxt-col-1 navy-blue"> Span 2</div>
       <div class="nxt-col-1 teal-blue"> Span 2</div>
       <div class="nxt-col-5 navy-blue"> Span 4</div>
-      <div class="nxt-col-5 navy-blue"> Span 2</div>
+      <div class="nxt-col-5 teal-blue"> Span 2</div>
     </div>  
   <br>
   <br>
@@ -206,7 +206,7 @@ widths up to **12 columns**.
     </div>  
   <br>
   <br>
-  
+</div>  
   <pre>
   ```
 .nxt-col-1 {width: 8.33%; float:left;}
