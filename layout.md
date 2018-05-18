@@ -63,6 +63,9 @@ widths up to **12 columns**.
     </div>   
   <br>
   <br>
+  
+  <hr>
+  
   <H2>Varied Grid System</H2>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
@@ -88,6 +91,9 @@ widths up to **12 columns**.
   </div>
   <br>
   <br>
+  
+  <hr>
+  
   <H2>Symmetric Grid System</H2>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
@@ -122,6 +128,9 @@ widths up to **12 columns**.
     </div>  
   <br>
   <br>
+  
+  <hr>
+  
     <H2>Asymmetric Grid System</H2>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
@@ -155,6 +164,9 @@ widths up to **12 columns**.
     </div>  
   <br>
   <br>
+  
+  <hr>
+  
       <H2>Tiled Grid System</H2>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
