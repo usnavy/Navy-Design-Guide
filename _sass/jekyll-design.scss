@@ -7,7 +7,7 @@
     @content;
   }
 }
-
+  
 @mixin medium {
   @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
     @content;
