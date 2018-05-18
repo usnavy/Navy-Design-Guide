@@ -155,8 +155,8 @@ widths up to **12 columns**.
   <br>
   <br>
     <div class="row">
-      <div class="nxt-col-2 navy-blue"> Span 3</div>
-      <div class="nxt-col-2 teal-blue"> Span 3</div>
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
+      <div class="nxt-col-2 teal-blue"> Span 2</div>
       <div class="nxt-col-4 navy-blue"> Span 4</div>
       <div class="nxt-col-4 teal-blue"> Span 4</div>
     </div> 
@@ -242,25 +242,25 @@ sizes (i.e. vertically, unconstrained by screen width).
 
   <div class="container-fluid container-hide">    
     <div class="row">
-      <div class="nxt-col-3 navy-blue">Span 3</div>
-      <div class="nxt-col-3 teal-blue">Span 3</div>
-      <div class="nxt-col-3 navy-blue">Span 3</div>
-      <div class="nxt-col-3 teal-blue">Span 3</div>
+      <div class="nxt-col-3 navy-blue"> Span 3</div>
+      <div class="nxt-col-3 teal-blue"> Span 3</div>
+      <div class="nxt-col-3 navy-blue"> Span 3</div>
+      <div class="nxt-col-3 teal-blue"> Span 3</div>
     </div>   
   <br>
   <br>
     <div class="row">
-      <div class="nxt-col-4 navy-blue">Span 4</div>
-      <div class="nxt-col-2 teal-blue">Span 2</div>
-      <div class="nxt-col-4 navy-blue">Span 4</div>
-      <div class="nxt-col-2 teal-blue">Span 2</div>
+      <div class="nxt-col-4 navy-blue"> Span 4</div>
+      <div class="nxt-col-2 teal-blue"> Span 2</div>
+      <div class="nxt-col-4 navy-blue"> Span 4</div>
+      <div class="nxt-col-2 teal-blue"> Span 2</div>
     </div>  
   <br>
   <br>
     <div class="row">
-      <div class="nxt-col-1 navy-blue">Span 1</div>
-      <div class="nxt-col-9 teal-blue">Span 2</div>
-      <div class="nxt-col-2 navy-blue">Span 2</div>
+      <div class="nxt-col-1 navy-blue"> Span 1</div>
+      <div class="nxt-col-9 teal-blue"> Span 9</div>
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
     </div>  
   </div>
   <br>
