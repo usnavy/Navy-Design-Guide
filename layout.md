@@ -12,6 +12,8 @@ widths up to **12 columns**.
 
   <div class="container-fluid container-hide">    
   <H2>Balanced Grid System</H2>
+  <br>
+  <br>
     <div class="row">
       <div class="nxt-col-12 teal-blue"> Span 12</div>
     </div>   
@@ -62,12 +64,16 @@ widths up to **12 columns**.
       <div class="nxt-col-1 navy-blue"> Span 1</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
   </div>
+  <br>
+  <br>
 </div>
 
   <hr>
 
 <div class="container-fluid container-hide">    
   <H2>Varied Grid System</H2>
+  <br>
+  <br>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
       <div class="nxt-col-1 teal-blue"> Span 1</div>
@@ -89,12 +95,16 @@ widths up to **12 columns**.
       <div class="nxt-col-2 teal-blue"> Span 2</div>
       <div class="nxt-col-2 navy-blue"> Span 2</div>
     </div>
+  <br>
+  <br>
 </div>
 
   <hr>
 
 <div class="container-fluid container-hide">   
   <H2>Symmetric Grid System</H2>
+  <br>
+  <br>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
       <div class="nxt-col-2 teal-blue"> Span 2</div>
@@ -126,12 +136,16 @@ widths up to **12 columns**.
       <div class="nxt-col-2 teal-blue"> Span 2</div>
       <div class="nxt-col-2 navy-blue"> Span 2</div>
     </div>  
+  <br>
+  <br>
  </div>   
   
   <hr>
   
 <div class="container-fluid container-hide">     
     <H2>Asymmetric Grid System</H2>
+  <br>
+  <br>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
       <div class="nxt-col-2 teal-blue"> Span 2</div>
@@ -145,13 +159,17 @@ widths up to **12 columns**.
       <div class="nxt-col-2 teal-blue"> Span 3</div>
       <div class="nxt-col-4 navy-blue"> Span 4</div>
       <div class="nxt-col-4 teal-blue"> Span 4</div>
-    </div>  
+    </div> 
+  <br>
+  <br>
 </div>   
   
   <hr>
   
 <div class="container-fluid container-hide">     
     <H2>Tiled Grid System</H2>
+  <br>
+  <br>
     <div class="row">
       <div class="nxt-col-4 navy-blue"> Span 4</div>
       <div class="nxt-col-2 teal-blue"> Span 2</div>
@@ -176,8 +194,11 @@ widths up to **12 columns**.
       <div class="nxt-col-1 teal-blue"> Span 2</div>
       <div class="nxt-col-5 navy-blue"> Span 3</div>
     </div>  
+  <br>
+  <br>
 </div> 
-
+  <br>
+  <br>
   <hr>
 
   <pre>
