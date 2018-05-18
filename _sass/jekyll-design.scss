@@ -631,3 +631,14 @@ a {
     display: none;
   }
 }
+
+@media only screen and (max-width: 1721px) {
+    .menu {
+        min-width: 100%;
+    }
+  
+  .main-content {
+        min-width: 100%;
+        margin-top: 35rem;
+  }
+}
