@@ -8,7 +8,7 @@
     <img src="img/Navy Blue - PLAIN.jpg" alt="Navy Blue" class="swatch-box-large"><br>
     HEX:#003B4F  <br>
     CMYK: 98, 69, 48, 40  <br>
-    RGB: 0,59,79  <br>
+    RGB: 0, 59, 79  <br>
   </li>
   <hr>
   <li class="swatch swatch--teal-blue">
