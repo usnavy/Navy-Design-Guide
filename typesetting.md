@@ -55,7 +55,9 @@ p {
   </div>
 </div>
 
-#### Typesetting Example
+<hr>
+
+### Typesetting Example
 
 #### Roboto Slab Bold
 <p class="roboto-slab">
