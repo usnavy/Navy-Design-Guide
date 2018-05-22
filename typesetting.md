@@ -57,7 +57,15 @@ p {
 
 #### Typesetting Example
 
-![Annotated example of typesetting](dist/img/typesetting.png)
+#### Roboto Slab Bold
+<p class="roboto-slab">
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+</p>
+
+#### Roboto
+<p class="roboto">
+Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+</p>
 
 <hr>
 
