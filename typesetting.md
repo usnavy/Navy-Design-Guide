@@ -33,8 +33,6 @@ for each line, and supports the common F-shaped reading pattern.
     underlying baseline grid created by the base line height,
     producing a strong vertical rhythm.
   </p> 
-  <div class="hint hint--scss">
-    <div class="hint__type">Hint</div>
     <p>
       The U.S. Web Design System defines text spacing with `em`
       units:
