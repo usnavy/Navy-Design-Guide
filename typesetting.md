@@ -57,16 +57,26 @@ p {
 
 <hr>
 
-### Typesetting Example
+### Typeset Example
 
 #### Roboto Slab Bold
-<p class="roboto-slab">
+##### Displays and Headings
+
+<display>Display</display>
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+
+#### Roboto
+##### Body
+<p class="roboto">
 Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 </p>
 
-#### Roboto
 <p class="roboto">
-Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+! @ # $ % ^ & * ( ) - _ + = { } | \ / " , . ; : [ ]
 </p>
 
 <hr>
