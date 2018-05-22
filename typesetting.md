@@ -59,8 +59,7 @@ p {
 
 ### Typeset Example
 
-#### Roboto Slab Bold
-##### Displays and Headings
+#### Roboto Slab Bold - Displays and Headings
 
 <display>Display</display>
 # Heading 1
@@ -68,9 +67,11 @@ p {
 ### Heading 3
 #### Heading 4
 ##### Heading 5
+###### HEADING 6
 
-#### Roboto
-##### Body
+<hr>
+
+#### Roboto - Body
 <p class="roboto">
 Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
 </p>
