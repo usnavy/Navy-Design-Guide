@@ -286,7 +286,6 @@ sizes (i.e. vertically, unconstrained by screen width).
   ```
 </pre>
   </div>
-</div>
 
 <div class="row row--halved">
   <p>
@@ -318,7 +317,6 @@ sizes (i.e. vertically, unconstrained by screen width).
 </pre>
     </p>
   </div>
-</div>
 
 <hr>
 
