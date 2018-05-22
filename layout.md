@@ -273,17 +273,18 @@ sizes (i.e. vertically, unconstrained by screen width).
     should be based on the underlying baseline grid created by the
     line height used for standard copy.
   </p>
-  <div class="hint hint--scss">
-    <div class="hint__type">SCSS Variable</div>
     <p>
-      The `uswds` npm package provides variables for these multiples
-      of the base font size (rem):
+      The variables for these multiples of the base font size are (rem):
     </p>
+<pre>
+  ```
     `$spacing-x-small: 0.5rem;`  
     `$spacing-small: 1rem;`  
     `$spacing-md-small: 1.5rem;`  
     `$spacing-medium: 2rem;`  
     `$spacing-large: 3rem;`
+  ```
+</pre>
   </div>
 </div>
 
@@ -294,21 +295,27 @@ sizes (i.e. vertically, unconstrained by screen width).
     multiples of 0.5 (e.g. 4, 4.5, 6, etc.) to create other
     spacing values.
   </p>
-  <div class="hint hint--scss">
-    <div class="hint__type">SCSS Hint</div>
     <p>
       If existing spacing variables won't work, multiply or divide
       them by multiples of 0.5 to match the baseline grid.
     </p>
     <p>
+<pre>
+  ```
       `/* GOOD */`  
       `margin-top: $spacing-x-small / 2;`  
-      `margin-bottom: $spacing-large * 4.5;`  
+      `margin-bottom: $spacing-large * 4.5;` 
+   ```
+</pre>
     </p>
     <p>
+<pre>
+  ```
       `/* BAD */`  
       `margin-top: $spacing-x-small / 1.15;`  
       `margin-bottom: 450px;`
+   ```
+</pre>
     </p>
   </div>
 </div>
