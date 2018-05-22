@@ -70,6 +70,7 @@ p {
 ###### HEADING 6
 
 <hr>
+### Typeset Example
 
 #### Roboto - Body
 <p class="roboto">
