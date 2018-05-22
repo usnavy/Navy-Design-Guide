@@ -278,11 +278,11 @@ sizes (i.e. vertically, unconstrained by screen width).
     </p>
 <pre>
   ```
-    `$spacing-x-small: 0.5rem;`  
-    `$spacing-small: 1rem;`  
-    `$spacing-md-small: 1.5rem;`  
-    `$spacing-medium: 2rem;`  
-    `$spacing-large: 3rem;`
+    $spacing-x-small: 0.5rem;  
+    $spacing-small: 1rem; 
+    $spacing-md-small: 1.5rem; 
+    $spacing-medium: 2rem;  
+    $spacing-large: 3rem;
   ```
 </pre>
   </div>
@@ -301,19 +301,19 @@ sizes (i.e. vertically, unconstrained by screen width).
     </p>
     <p>
 <pre>
-  ```
-      `/* GOOD */`  
-      `margin-top: $spacing-x-small / 2;`  
-      `margin-bottom: $spacing-large * 4.5;` 
+   ```
+      /* GOOD */ 
+      margin-top: $spacing-x-small / 2;  
+      margin-bottom: $spacing-large * 4.5;
    ```
 </pre>
     </p>
     <p>
 <pre>
-  ```
-      `/* BAD */`  
-      `margin-top: $spacing-x-small / 1.15;`  
-      `margin-bottom: 450px;`
+   ```
+      /* BAD */  
+      margin-top: $spacing-x-small / 1.15; 
+      margin-bottom: 450px;
    ```
 </pre>
     </p>
