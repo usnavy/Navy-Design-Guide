@@ -42,7 +42,7 @@ Particular image details, sections, and unusual perspectives can give images a d
 
 ### People
 
-People like you and me!  They are shown in authentic, uncontrived situations, and the way they are presented is always easy to comprehend.
+People are shown in authentic, uncontrived situations, and the way they are presented is always easy to comprehend.
 
 ![People Example 1](http://www.navy.mil/management/photodb/photos/180330-N-LY160-0182.JPG "People Example 1")
 ![People Example 2](http://www.navy.mil/management/photodb/photos/180322-N-XF155-012.JPG "People Example 2")
