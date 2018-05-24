@@ -574,6 +574,12 @@ a {
     opacity: 1;
 }
 
+.navy-logo-print {
+    width: 0px;
+    height: 0px;
+    display: none;  
+}
+
 .main-content a {
     float: none !important;
 }
@@ -597,7 +603,24 @@ a {
     height: 0px;
     display: none;
 }
-  
+ 
+   .button-style {
+    width: 0px;
+    height: 0px;
+    display: none;   
+}
+	
+.navy-logo {
+    width: 0px;
+    height: 0px;
+    display: none;  
+}
+
+.navy-logo-print {
+    width: 300px;
+    display: block;
+}
+	
   .contribute-comment {
   display: block;
   width: 100%;
