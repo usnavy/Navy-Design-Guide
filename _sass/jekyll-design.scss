@@ -131,7 +131,10 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: #003b4f;
+  background-position: center;
+    background-size: cover;
+    background-image: url("img/Background/BG-Hero-Graphic.jpg");
+    min-height: 400px;
 
   @include large {
     padding: 5rem 6rem;
@@ -674,6 +677,6 @@ a {
 
 @media screen and (min-width: 64em) {
 .page-header {
-    padding: 0rem 6rem 5rem;
+    padding: 2rem 2rem 2rem;
 }
 }
