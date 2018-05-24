@@ -8,6 +8,8 @@ Natural light sources ensure images have an authentic, unembellished look. The c
 ![Light Example 2](http://www.navy.mil/management/photodb/photos/180425-N-NK192-2077.JPG "Light Example 2")
 ![Light Example 3](http://www.navy.mil/management/photodb/photos/180424-N-TV230-1571.JPG "Light Example 3")
 
+  <hr>
+
 ### Color Space and Contrast
 
 Color saturation is not excessive or too bright.  We make use of contrast that is clear. Color and contrast can also be used as stylistic devices.
@@ -15,6 +17,8 @@ Color saturation is not excessive or too bright.  We make use of contrast that i
 ![Color Space and Contrast Example 1](http://www.navy.mil/management/photodb/photos/180410-N-ZB537-017.JPG "Color Space and Contrast Example 1")
 ![Color Space and Contrast Example 2](http://www.navy.mil/management/photodb/photos/180410-N-KP946-002.JPG "Color Space and Contrast Example 2")
 ![Color Space and Contrast Example 3](http://www.navy.mil/management/photodb/photos/180330-N-FM530-0003.JPG "Color Space and Contrast Example 3")
+
+  <hr>
 
 ### Definition and Blur
 
@@ -24,6 +28,8 @@ The interplay of definition and blur is put to selective use to create a focus a
 ![Definition and Blur Example 2](http://www.navy.mil/management/photodb/photos/180331-N-SJ730-0155.JPG "Definition and Blur Example 2")
 ![Definition and Blur Example 3](http://www.navy.mil/management/photodb/photos/180421-N-YF227-112.JPG "Definition and Blur Example 3")
 
+  <hr>
+
 ### Perspective and Details
 
 Particular image details, sections, and unusual perspectives can give images a distinct character that sets it apart.  Natural perspectives give the motifs a modern look. 
@@ -31,6 +37,8 @@ Particular image details, sections, and unusual perspectives can give images a d
 ![Perspective and Details Example 1](http://www.navy.mil/management/photodb/photos/180423-N-AV754-0155.JPG "Perspective and Details Example 1")
 ![Perspective and Details Example 2](http://www.navy.mil/management/photodb/photos/180403-M-MI724-081.JPG "Perspective and Details Example 2")
 ![Perspective and Details Example 3](http://www.navy.mil/management/photodb/photos/180401-N-XC372-1151.JPG "Perspective and Details Example 3")
+
+  <hr>
 
 ### People
 
