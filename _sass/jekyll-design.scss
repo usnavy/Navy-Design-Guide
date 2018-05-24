@@ -588,7 +588,9 @@ a {
     .page-header {
     text-align: center;
     background-color: #003b4f;
-    height: 500px;
+    height: 500px; 
+    float: left;
+    margin-top: 10rem;
 }
    .page-header > h1, h2 {
     color: #003b4f;
@@ -611,7 +613,7 @@ a {
 }
 
 .main-content {
-    margin-top: -30rem;	
+    margin-top: -10rem;	
     float: left;
 }
 	
