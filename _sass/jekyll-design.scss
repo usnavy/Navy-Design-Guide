@@ -574,6 +574,10 @@ a {
     opacity: 1;
 }
 
+.main-content a {
+    float: none !important;
+}
+
 @media print {
     .page-header {
     text-align: center;
