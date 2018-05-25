@@ -2,7 +2,7 @@
 
 ### Light
 
-Natural light sources ensure images have an authentic, unembellished look. The composition and narrative is integrated in the lighting situation and is not artificially highlighted.  Light and Shade creates accents in the atmospheric perspective while it can still be used as stylistic devices to tell stories or support ideas.
+Natural light sources ensure images have an authentic, unembellished look. The composition and narrative is integrated in the lighting situation and is not artificially highlighted.  Light and shade creates accents in the atmospheric perspective while it can still be used as stylistic devices to tell stories or support ideas.
 
 ![Light Example 1](http://www.navy.mil/management/photodb/photos/180423-N-FN963-0145.JPG "Light Example 1")
 ![Light Example 2](http://www.navy.mil/management/photodb/photos/180425-N-NK192-2077.JPG "Light Example 2")
