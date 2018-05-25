@@ -1,5 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.1/angular.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.min.js"></script>
+
 <script>
   var app = angular.module("chartApp", []);
 
@@ -182,6 +181,9 @@ app.directive("pieChart", function($window) {
 
 </script>
 
+<div id="color-wheel" ng-app="chartApp" ng-controller="SimulationController">
+  <div pie-chart chart-data="simulationData"></div>
+</div>
 
 ## Color Concepts
 
