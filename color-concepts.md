@@ -8,24 +8,100 @@ app.controller("SimulationController", [
   function($scope) {
     $scope.simulationData = [
       {
-        label: "Monday",
-        value: 650
+        label: "001",
+        value: 4.16
       },
       {
-        label: "Tuesday",
-        value: 75
+        label: "002",
+        value: 4.16
       },
       {
-        label: "Wednesday",
-        value: 40
+        label: "003",
+        value: 4.16
       },
       {
-        label: "Thursday",
-        value: 42
+        label: "004",
+        value: 4.16
       },
       {
-        label: "Friday",
-        value: 67
+        label: "005",
+        value: 4.16
+      },
+      {
+        label: "006",
+        value: 4.16
+      },
+      {
+        label: "007",
+        value: 4.16
+      },
+      {
+        label: "008",
+        value: 4.16
+      },
+      {
+        label: "009",
+        value: 4.16
+      },
+      {
+        label: "010",
+        value: 4.16
+      },
+      {
+        label: "011",
+        value: 4.16
+      },
+      {
+        label: "012",
+        value: 4.16
+      },
+      {
+        label: "013",
+        value: 4.16
+      },
+      {
+        label: "014",
+        value: 4.16
+      },
+      {
+        label: "015",
+        value: 4.16
+      },
+      {
+        label: "016",
+        value: 4.16
+      },
+      {
+        label: "017",
+        value: 4.16
+      },
+      {
+        label: "018",
+        value: 4.16
+      },
+      {
+        label: "019",
+        value: 4.16
+      },
+      {
+        label: "020",
+        value: 4.16
+      },
+      {
+        label: "021",
+        value: 4.16
+      },
+      {
+        label: "022",
+        value: 4.16
+      },
+      {
+        label: "023",
+        value: 4.16
+      },
+      {
+        label: "024",
+        value: 4.16
       }
     ];
   }
@@ -50,7 +126,7 @@ app.directive("pieChart", function($window) {
       });
       var color = d3
         .scaleOrdinal()
-        .range(["#28648a", "#d14700", "#b30a43", "#575689", "#1e7006"]);
+        .range(["#ffff00", "#ffe800", "#ffd300", "ffbf00", "#ffaa00", "#ff9200", "#ff7400", "#ff4900", "#ff0000", "#e40045", "#cd0074", "#a600a6", "#7109aa", "#530fad", "#3914af", "#1b1bb3", "#1240ab", "#0b61a4", "#009999", "#00af64", "#00cc00", "#67e300", "#9fee00", "#ccf600"]);
 
       var arc = d3.arc().outerRadius(radius * 0.8).innerRadius(radius * 0.4);
 
