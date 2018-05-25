@@ -22,10 +22,6 @@ appearance of the image and its composition.
 When considering the appearance of a hero image, follow our
 exisiting brand guidelines:
 
-> The image treatment is high contrast and slightly desaturated
-> with a subtle steel gray overlay to give all the images a
-> cinematic tone.
-
 > All photography should feel cinematic, allowing each photo
 > to tell its own story. Each image should have a single focus,
 > using people as the primary subject as much as possible.
