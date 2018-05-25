@@ -29,3 +29,13 @@ We use a clear visual language to users on all channels and offer recurring solu
 ### Detail
 
 Details are not an option: they are a fundamental component of our visual appearance. We apply details such as iconography and imagery selectively to create a quality user experience.
+
+<hr>
+
+### To Contribute<br>
+<button id="contribute-guidance">
+[Are you Contributing?](/CONTRIBUTING.md)
+</button>  
+<span class="contribute-comment">If you are interested in contributing, please visit: https://usnavy.github.io/Navy-Design-Guide/ <br>We need you!</span>
+<br>
+<br>
