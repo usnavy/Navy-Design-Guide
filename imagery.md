@@ -35,8 +35,8 @@ The interplay of definition and blur is put to selective use to create a focus a
 Particular image details, sections, and unusual perspectives can give images a distinct character that sets it apart.  Natural perspectives give the motifs a modern look. 
 
 ![Perspective and Details Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/perspective-and-details-1.JPG "Perspective and Details Example 1")
-![Perspective and Details Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/perspective-and-details-1.JPG  "Perspective and Details Example 2")
-![Perspective and Details Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/perspective-and-details-1.JPG   "Perspective and Details Example 3")
+![Perspective and Details Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/perspective-and-details-2.JPG  "Perspective and Details Example 2")
+![Perspective and Details Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/perspective-and-details-3.JPG   "Perspective and Details Example 3")
 
   <hr>
 
