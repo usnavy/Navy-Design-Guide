@@ -150,7 +150,7 @@ a {
 		float: left;
 		z-index: 2;
 	        height: 500px;
-                margin-top: -500px;
+                margin-top: 420px;
 		background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
 		width: 100vw;
 
@@ -159,10 +159,15 @@ a {
 	    #hero-chevron {
 		float: left;
 		margin-left: 50vw;
-		margin-top: 450px;
+		margin-top: 420px;
 		z-index: 1;
 	        color: #FFFFFF;
 		font-size: 25px;
+
+	}
+
+             #hero-chevron > img {
+		width: 50px;
 
 	}
 		#hero {
