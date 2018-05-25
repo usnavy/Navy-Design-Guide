@@ -57,3 +57,13 @@ People are shown in authentic, uncontrived situations, and the way they are pres
 ![People Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/people-2.JPG  "People Example 2")
 
 ![People Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/people-3.JPG  "People Example 3")
+
+<hr>
+
+### To Contribute<br>
+<button id="contribute-guidance">
+[Are you Contributing?](/CONTRIBUTING.md)
+</button>  
+<span class="contribute-comment">If you are interested in contributing, please visit: https://usnavy.github.io/Navy-Design-Guide/ <br>We need you!</span>
+<br>
+<br>
