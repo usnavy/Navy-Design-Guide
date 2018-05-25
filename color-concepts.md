@@ -13,8 +13,8 @@ Color harmony is the combining of colors in a fashion that is harmonious to the 
 
 #### Warm and Cool Contrast
 
-![Warm and Cool Contrast Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-image-2.jpg "Warm and Cool Contrast Example 1")
+![Warm and Cool Contrast Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/hero-image-2.jpg "Warm and Cool Contrast Example 1")
 
 #### Monochromatic
 
-![Monochromatic Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-image-3.jpg "Monochromatic Example 1")
+![Monochromatic Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/hero-image-3.jpg "Monochromatic Example 1")
