@@ -35,3 +35,13 @@ Design solves an important human problem.
 ### Good Design builds Long-Term Relationships
 
 We value the familiarity and trust placed in us. We acknowledge the Navy heritage of iconic design and history with subtle references.  We believe in active caring, and we recognize the need to speak to everyone and the individual. 
+
+<hr>
+
+### To Contribute<br>
+<button id="contribute-guidance">
+[Are you Contributing?](/CONTRIBUTING.md)
+</button>  
+<span class="contribute-comment">If you are interested in contributing, please visit: https://usnavy.github.io/Navy-Design-Guide/ <br>We need you!</span>
+<br>
+<br>
