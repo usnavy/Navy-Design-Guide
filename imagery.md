@@ -4,9 +4,9 @@
 
 Natural light sources ensure images have an authentic, unembellished look. The composition and narrative is integrated in the lighting situation and is not artificially highlighted.  Light and shade creates accents in the atmospheric perspective while it can still be used as stylistic devices to tell stories or support ideas.
 
-![Light Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-1 "Light Example 1")
-![Light Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-2 "Light Example 2")
-![Light Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-3 "Light Example 3")
+![Light Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-1.jpg "Light Example 1")
+![Light Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-2.jpg "Light Example 2")
+![Light Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-3.jpg "Light Example 3")
 
   <hr>
 
