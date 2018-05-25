@@ -4,13 +4,19 @@
 
 Understand our users and end users better than they understand themselves.
 
+<hr>
+
 ### Content is King
 
 A person’s focus should be on the content, not on the UI. Help people work without interference.
 
+<hr>
+
 ### Accessible Design is Good Design
 
 Design should be usable on all devices by all of the people in all situations. Design is simple, touch friendly and clear and aims for AA accessibility.
+
+<hr>
 
 ### Data informs Design
 
@@ -18,9 +24,13 @@ Design should be usable on all devices by all of the people in all situations. D
 – Rear Admiral and Computer Scientist, Grace Hopper 
   (Computer Science Pioneer)
 
+<hr>
+
 ### Good Design works for Everyone, Daily
 
 Design solves an important human problem.
+
+<hr>
 
 ### Good Design builds Long-Term Relationships
 
