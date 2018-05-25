@@ -11,10 +11,20 @@
 
 Color harmony is the combining of colors in a fashion that is harmonious to the eye. In other words, what colors work well together.
 
-#### Warm and Cool Contrast
+### Warm and Cool Contrast
 
 ![Warm and Cool Contrast Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/hero-image-2.jpg "Warm and Cool Contrast Example 1")
 
-#### Monochromatic
+### Monochromatic
 
 ![Monochromatic Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/hero-image-3.jpg "Monochromatic Example 1")
+
+<hr>
+
+### To Contribute<br>
+<button id="contribute-guidance">
+[Are you Contributing?](/CONTRIBUTING.md)
+</button>  
+<span class="contribute-comment">If you are interested in contributing, please visit: https://usnavy.github.io/Navy-Design-Guide/ <br>We need you!</span>
+<br>
+<br>
