@@ -8,7 +8,7 @@ Understand our users and end users better than they understand themselves.
 
 ### Content is King
 
-A person’s focus should be on the content, not on the UI. Help people work without interference.
+Place an emphasis on quality of content. This can be done by creating a value on quality content, stripping back unnecessary and  focusing on the key experience, and minimising distractions. Far too often the quantity available is far more than the average user can consume. In these situations, consider whether such an overwhelming array of choices is actually useful.
 
 <hr>
 
