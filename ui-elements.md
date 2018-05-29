@@ -2,7 +2,8 @@
 
 ### Buttons
 
-Buttons are clear, and considers readability for comprehension, as well as ease-of-use.
+Buttons are clear, and considers readability for comprehension, as well as ease-of-use.  Use the selected brand colors and accessibility parameters when creating the desired color scheme or user interface patterns.
+
 For example:
 
 <button class="button-example">Imagery on Demand</button>
@@ -13,7 +14,9 @@ For example:
 
 ### Links
 
-All hover states are underlined to provide clear indication that it links to specific content.  As well, all links must be descript.  Instead of "Click Here" it needs to provide linguistic clarity for users, such as "Learn more about our Navy". For Example:  
+All hover states are underlined to provide clear indication that it links to specific content.  As well, all links must be descript.  Instead of "Click Here" it needs to provide linguistic clarity for users, such as "Learn more about our Navy". 
+
+For Example:  
 
 [Learn more about our Navy](https://usnavy.github.io/Navy-Design-Guide/ui-elements.html)
 
