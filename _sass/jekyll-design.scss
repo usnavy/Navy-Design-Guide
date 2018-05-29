@@ -57,8 +57,12 @@ a {
   }
 }
 
-strong {
+a strong {
     float: left;
+}
+
+a strong:hover {
+    text-decoration: underline;
 }
 
 .btn {
