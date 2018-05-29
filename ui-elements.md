@@ -2,8 +2,14 @@
 
 ### Buttons
 
-<button 
+Buttons are clear, and considers readability for comprehension, as well as ease-of-use.
+For example:
 
+<button class="button-example">Imagery on Demand</button>
+	    
+<button class="button-example-2">Navy 2050</button>
+
+<button class="button-example-3">Navy Underway</button>
 
 ### Links
 
