@@ -17,7 +17,7 @@ For example:
 
 
 
-
+<hr>
 
 ### To Contribute<br>
 <button id="contribute-guidance">
