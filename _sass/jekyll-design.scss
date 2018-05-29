@@ -911,14 +911,43 @@ input:-moz-placeholder { /* Firefox 18- */
 }
 
 @media only screen and (max-width: 411px) {
+a strong {
+    width: 340px;
+}
+	
 #color-wheel {
     margin-left: -3.8rem;
 }
+	
+.input-example {
+    display: inline-block;
+    width: 340px;
+    margin-right: 40px;
+}
+
+.input-box {
+    width: 340px;
+}
+
+.dropdown-box-example {
+    display: inline-block;
+    max-width: 340px;
+    margin-right: 40px;
+}
+
+.dropdown-box-filter {
+    width: 340px;
+}
+	
 }
 
 @media only screen and (max-width: 375px) {
+a strong {
+    width: 340px;
+}
+	
 #color-wheel {
-	margin-left: -5rem;
+    margin-left: -5rem;
 }
 	
 .input-example {
@@ -943,6 +972,10 @@ input:-moz-placeholder { /* Firefox 18- */
 }
 
 @media only screen and (max-width: 360px) {
+a strong {
+    width: 330px;
+}
+	
 #color-wheel {
     margin-left: -5.4rem;
 }
@@ -969,8 +1002,13 @@ input:-moz-placeholder { /* Firefox 18- */
 }
 
 @media only screen and (max-width: 320px) {
+
+a strong {
+    width: 290px;
+}
+	
 #color-wheel {
-	margin-left: -6.5rem;
+    margin-left: -6.5rem;
 }
 	
 .menu {
