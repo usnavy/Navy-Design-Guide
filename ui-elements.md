@@ -12,8 +12,6 @@ For example:
 
 <button class="button-example-3">Navy Underway</button>
 
-<br>
-
 ### Links
 
 All hover states are underlined to provide clear indication that it links to specific content.  As well, all links must be descript.  Instead of "Click Here" it needs to provide linguistic clarity for users, such as "Learn more about our Navy". 
