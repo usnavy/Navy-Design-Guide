@@ -33,6 +33,9 @@ The silhouette or shape of the iconography needs to be clear, readable, and reco
 
 Use white to provide appropriate negative space, and to enhance visual articulation when appropriate, also necessary.
 
+### Labeling
+To prevent possible ambiguity that almost all icons face, a text label must be present alongside an icon to clarify its meaning in that particular context. 
+
 <hr>
 
 ### To Contribute<br>
