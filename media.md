@@ -26,11 +26,11 @@ exisiting brand guidelines:
 > to tell its own story. Each image should have a single focus,
 > using people as the primary subject as much as possible.
 
-Equipment such as ships and other craft may also be used as the
-primary subject.
+> Equipment such as ships and other craft may also be used as the
+> primary subject.
 
-Some colors don't pair well with our brand colors. Avoid images
-with large areas of clashing color.
+> Some colors don't pair well with our brand colors. Avoid images
+> with large areas of clashing color.
 
 #### Composition
 
