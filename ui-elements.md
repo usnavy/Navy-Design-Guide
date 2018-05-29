@@ -19,7 +19,7 @@ All hover states are underlined to provide clear indication that it links to spe
 
 In addition, it is useful and beneficial to provide supporting context or subtext when applicable or necessary. For Example:
 <a href="#" class="link-example">
-	<strong>Subscriptions</strong>
+	<strong>Subscriptions</strong><br>
 	Subscribe to all things Navy
 	</a>
 
