@@ -1,4 +1,4 @@
-## Design Philosophy
+## User Interface
 
 ### Buttons
 
@@ -19,7 +19,7 @@ For example:
 <a href="" class="link-example">
 			<h4>Subscriptions</h4>
 			<p>Subscribe to all things Navy</p>
-		</a>
+</a>
 
 
 
