@@ -12,6 +12,8 @@ For example:
 
 <button class="button-example-3">Navy Underway</button>
 
+<hr>
+
 ### Links
 
 All hover states are underlined to provide clear indication that it links to specific content.  As well, all links must be descript.  Instead of "Click Here" it needs to provide linguistic clarity for users, such as "Learn more about our Navy". 
@@ -26,6 +28,21 @@ In addition, it is useful and beneficial to provide supporting context or subtex
 	<strong>Subscriptions</strong><br>
 	Subscribe to all things Navy
 	</a>
+
+<hr>
+
+### Input Boxes
+
+Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user.  
+
+For Example:
+
+<div class="input-example">			
+<span>First Name</span>	
+<input type="text" name="keyword" placeholder="-Name-" class="input-box">
+</div>
+
+<hr>
 
 ### Call-to-Actions (CTA)s
 
