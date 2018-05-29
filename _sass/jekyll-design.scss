@@ -621,6 +621,12 @@ a {
 
 .link-example {
     color: #08262C;	
+    float: left;
+}
+
+.link-example > img {
+    height: 15px;	
+    float: left;
 }
 
 .button-example {
