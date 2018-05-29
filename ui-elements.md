@@ -35,6 +35,10 @@ All hover states are underlined to provide consistency and to prevent uncertaint
 	<strong>A Design for Maintaining Maritime Superiority</strong><img src="img/Right-Chevron.png" alt="Call to Action" class="chevron">
 	</a>
 
+
+
+<br>
+
 <hr>
 
 ### To Contribute<br>
