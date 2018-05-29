@@ -623,6 +623,64 @@ a {
     color: #08262C;	
 }
 
+.button-example {
+  background: #003b4f;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #088199;
+}
+
+.button-example:hover {
+  background: #088199;
+  border: 1px solid #003b4f;
+}
+
+.button-example a {
+  color: #ffffff;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.button-example-2 {
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #003b4f;
+  color: #003b4f;
+}
+
+.button-example-2:hover {
+  background: #E8B00F;
+}
+
+.button-example-2 a {
+  color: #003b4f;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.button-example-3 {
+  background: #08262C;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #E8B00F;
+  color: #E8B00F;
+}
+
+.button-example-3:hover {
+  background: #E8B00F;
+}
+
+.button-example-3 a {
+  color: #E8B00F;
+  font-family: 'Roboto Slab';
+  font-weight: 700;
+  font-size: 17px;
+}
+
+
 @media print {
     .page-header {
     text-align: center;
