@@ -622,11 +622,12 @@ a {
 .link-example {
     color: #08262C;	
     float: left;
+    max
 }
 
 .link-example > img {
-    height: 15px;
-    width: 13px;
+    height: 15px !important;
+    width: 20px !important;
     float: right;
 }
 
