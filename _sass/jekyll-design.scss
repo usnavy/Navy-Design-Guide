@@ -746,10 +746,28 @@ a {
   
   .main-content {
         min-width: 100%;
-        margin-top: 45rem;
+        margin-top: 53rem;
+	padding: 0rem 0rem;
   }
   
   .page-header > a {
     margin-top: 10px;
 }
+}
+
+@media only screen and (max-width: 375px) {
+#color-wheel {
+	margin-left: -5rem;
+}
+}
+
+@media only screen and (max-width: 320px) {
+#color-wheel {
+	margin-left: -6.5rem;
+}
+	
+.menu {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}	
 }
