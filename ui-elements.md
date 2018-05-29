@@ -22,7 +22,9 @@ For Example:
 
 [Learn more about our Navy](https://usnavy.github.io/Navy-Design-Guide/ui-elements.html)
 
-In addition, it is useful and beneficial to provide supporting context or subtext when applicable or necessary. For Example:
+In addition, it is useful and beneficial to provide supporting context or subtext when applicable or necessary. 
+
+For Example:
 
 <a href="#" class="link-example">
 	<strong>Subscriptions</strong><br>
