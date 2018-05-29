@@ -762,9 +762,28 @@ a {
 }
 }
 
+@media only screen and (max-width: 414px) {
+#color-wheel {
+    margin-left: -3.7rem;
+}
+}
+
+@media only screen and (max-width: 411px) {
+#color-wheel {
+    margin-left: -3.8rem;
+}
+}
+
 @media only screen and (max-width: 375px) {
 #color-wheel {
 	margin-left: -5rem;
+}
+}
+
+@media only screen and (max-width: 360px) {
+#color-wheel {
+    margin-left: -5.4rem;
+}
 }
 }
 
