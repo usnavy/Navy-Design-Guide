@@ -709,6 +709,15 @@ a strong:hover {
   font-size: 17px;
 }
 
+.input-example {
+    display: inline-block;
+    width: 400px;
+    margin-right: 40px;
+}
+
+.input-box {
+    width: 400px;
+}
 
 @media print {
     .page-header {
