@@ -13,15 +13,15 @@ For example:
 
 ### Links
 
-All hover states are underlined to provide clear indication that it links to specific content.  As well, all links must be descript.  Instead of "Click Here" it needs to provide linguistic clarity for users, such as "Learn more about our Navy".  In addition, it is useful and beneficial to provide supporting context or subtext when applicable or necessary.  
-For example:
+All hover states are underlined to provide clear indication that it links to specific content.  As well, all links must be descript.  Instead of "Click Here" it needs to provide linguistic clarity for users, such as "Learn more about our Navy". For Example:  
 
-<a href="" class="link-example">
-			<h4>Subscriptions</h4>
-			<p>Subscribe to all things Navy</p>
-</a>
+[Learn more about our Navy](https://usnavy.github.io/Navy-Design-Guide/ui-elements.html)
 
-
+In addition, it is useful and beneficial to provide supporting context or subtext when applicable or necessary. For Example:
+<a href="#" class="link-example">
+	<strong>Subscriptions</strong>
+	Subscribe to all things Navy
+	</a>
 
 <hr>
 
