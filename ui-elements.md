@@ -48,6 +48,8 @@ For Example:
 
 Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user. 
 
+For Example:
+
 <div class="dropdown-box-example">	
 <span>Options</span>			
 <select class="dropdown-box-filter">
