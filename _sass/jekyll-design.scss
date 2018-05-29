@@ -882,7 +882,12 @@ input:-moz-placeholder { /* Firefox 18- */
 }
 
 @media only screen and (max-width: 1721px) {
-    .menu {
+   body {
+       overflow-x: hidden;
+}
+	 
+	
+  .menu {
         min-width: 100%;
     }
   
@@ -890,6 +895,7 @@ input:-moz-placeholder { /* Firefox 18- */
         min-width: 100%;
         margin-top: 53rem;
 	padding: 1rem 1rem;
+	overflow-x: hidden;
   }
   
   .page-header > a {
