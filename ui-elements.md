@@ -39,7 +39,7 @@ For Example:
 
 <div class="input-example">			
 <span>First Name</span>	
-<input type="text" name="keyword" placeholder="-Name-" class="input-box">
+<input type="text" name="keyword" placeholder="-First Name-" class="input-box">
 </div>
 
 <hr>
