@@ -920,11 +920,51 @@ input:-moz-placeholder { /* Firefox 18- */
 #color-wheel {
 	margin-left: -5rem;
 }
+	
+.input-example {
+    display: inline-block;
+    width: 350px;
+    margin-right: 40px;
+}
+
+.input-box {
+    width: 350px;
+}
+
+.dropdown-box-example {
+    display: inline-block;
+    max-width: 350px;
+    margin-right: 40px;
+}
+
+.dropdown-box-filter {
+    width: 350px;
+}
 }
 
 @media only screen and (max-width: 360px) {
 #color-wheel {
     margin-left: -5.4rem;
+}
+	
+.input-example {
+    display: inline-block;
+    width: 340px;
+    margin-right: 40px;
+}
+
+.input-box {
+    width: 340px;
+}
+
+.dropdown-box-example {
+    display: inline-block;
+    max-width: 340px;
+    margin-right: 40px;
+}
+
+.dropdown-box-filter {
+    width: 340px;
 }
 }
 
@@ -936,5 +976,25 @@ input:-moz-placeholder { /* Firefox 18- */
 .menu {
     padding-left: .5rem;
     padding-right: .5rem;
-}	
+}
+	
+.input-example {
+    display: inline-block;
+    width: 300px;
+    margin-right: 40px;
+}
+
+.input-box {
+    width: 300px;
+}
+
+.dropdown-box-example {
+    display: inline-block;
+    max-width: 300px;
+    margin-right: 40px;
+}
+
+.dropdown-box-filter {
+    width: 300px;
+}
 }
