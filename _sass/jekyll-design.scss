@@ -720,9 +720,13 @@ a strong:hover {
 }
 
 .dropdown-box-example {
-	    display: inline-block;
+    display: inline-block;
     max-width: 400px;
-	margin-right: 40px;
+    margin-right: 40px;
+}
+
+.dropdown-box-filter {
+    width: 400px;
 }
 
 input {
