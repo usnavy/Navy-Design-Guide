@@ -41,7 +41,7 @@ If a shape isn’t interactive, avoid using shapes with sizes large enough to ap
 
 <hr>
 
-### Shape overuse
+### Shape Overuse
 Overuse of a shape for branding purposes can make it less meaningful because that shape becomes common and less noticeable.
 
 <hr>
