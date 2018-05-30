@@ -34,12 +34,17 @@ body {
   overflow-x: hidden;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5 {
   font-family: 'Roboto Slab', serif;
 }
 
 h1, h2, h3, h4, h5 {
   line-height: 1.3em;
+}
+
+h6 {
+  font-family: 'Roboto';
+  text-transform: uppercase;
 }
 
 p {
