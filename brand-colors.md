@@ -155,6 +155,7 @@ other visual content.”
     CMYK: 20, 100, 100, 13  <br>
     RGB:  179, 0, 3  <br>
   </li>
+</ul>
 
 ### Usage
 Red should be used to provide specialized indication to alert, or any specialized attention that needs to be known.
