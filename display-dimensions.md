@@ -2,6 +2,49 @@
 
 ### Display Sizes
 
+#### Desktop
+
+| Width      | Height  |
+| -----------| -------:|
+| 1920 px    | 1080 px |
+| 1680 px    | 1050 px |
+| 1600 px    | 900 px  |
+| 1440 px    | 900 px  |
+| 1366 px    | 768 px  |
+| 1360 px    | 768 px  |
+| 1280 px    | 800 px  |
+| 1024 px    | 768 px  |
+
+
+#### Mobile
+
+
+| Devices                                 | Width      | Height     |
+| --------------------------------------- |:----------:| ----------:|
+| Apple iPhone 6, 6s, and 7               | 750 px     | 1334 px    |
+| Apple iPhone 6+ and 7+                  | 1080 px    | 1920 px    |
+| Apple iPhone 5 (5c, 5s)                 | 640 px     | 1136 px    |
+| Apple iPhone 6, 6s, and 7               | 750 px     | 1334 px    |
+| Apple iPhone 4 (4, 4S)                  | 640 px     | 960 px     |
+| Samsung Galaxy S6 and S6 Edge+          | 1440 px    | 2560 px    |
+| Samsung Galaxy S8+                      | 2960 px    | 1440 px    |
+| Samsung Galaxy S5                       | 1080 px    | 1920 px    |
+| Samsung Galaxy J7                       | 720 px     | 1280 px    |
+| Samsung A5                              | 720 px     | 1280 px    |
+| Google Pixel                            | 1080 px    | 1920 px    |
+| LG V10, G3 and G4                       | 1440 px    | 2560 px    |
+| HTC One and One M9                      | 1080 px    | 1920 px    |
+
+#### Tablet
+
+| Devices                     | Width       | Height     |
+| --------------------------- |:-----------:| ----------:|
+| Apple iPad Pro              | 2732 px     | 2048 px    |
+| Apple iPad Mini             | 768 px      | 1024 px    |
+| Apple iPad Air 2            | 2048 px     | 1536 px    |
+| Apple iPad Mini             | 768 px      | 1024 px    |
+| Microsoft Surface Pro 4     | 2736 px     | 1824 px    |
+
 ### Minimum Display Dimensions
 
 A 150px by 100px photo has little impact and conveys minimal
