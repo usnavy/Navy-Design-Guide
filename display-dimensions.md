@@ -1,16 +1,6 @@
-<script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="https://usnavy.github.io/Navy-Design-Guide/js/makeTable.js"></script>
-<script src="https://usnavy.github.io/Navy-Design-Guide/js/viewport_data.js"></script>
-
 ## Display Dimensions
 
 ### Display Sizes
-
-<div id="highlighted">Nothing Highlighted</div>
-  <div id="selected">Nothing Selected</div>
-  <div id="viewport-container"></div>
-  
-<script src="https://usnavy.github.io/Navy-Design-Guide/js/plot-table.js"></script>
 
 ### Minimum Display Dimensions
 
