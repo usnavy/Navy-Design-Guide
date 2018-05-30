@@ -24,7 +24,7 @@ For example:
 
 In addition, it is useful and beneficial to provide supporting context or subtext when applicable or necessary. 
 
-For Example:
+For example:
 
 <a href="#" class="link-example">
 	<strong>Subscriptions</strong><br>
