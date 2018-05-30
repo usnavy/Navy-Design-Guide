@@ -204,7 +204,7 @@ line-height: 1.3em/20px;
 font-family: $font-sans;
 font-weight: $font-bold;
 font-size: $h6-font-size;
-line-height: $heading6-line-height;
+line-height: $heading-line-height;
 text-transform: uppercase;
 ```
 </pre>
@@ -234,7 +234,7 @@ text-transform: uppercase;
 font-family: $font-sans;
 font-weight: $font-normal;
 font-size: $lead-font-size;
-line-height: $lead-line-height;
+line-height: $base-line-height;
 ```
 </pre>
   </div>
@@ -245,7 +245,7 @@ line-height: $lead-line-height;
 font-family: 'Roboto';
 font-weight: 400;
 font-size: 20px;
-line-height: 1.7em/34px;
+line-height: 1.3em/34px;
 ```
 </pre>
   </div>
