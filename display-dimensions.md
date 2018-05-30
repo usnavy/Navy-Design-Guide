@@ -1,4 +1,4 @@
-## Media Display Dimensions
+## Display Dimensions
 
 ### Minimum Display Dimensions
 
