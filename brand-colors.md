@@ -159,6 +159,7 @@ other visual content.”
 ### Usage
 Red should be used to provide specialized indication to alert, or any specialized attention that needs to be known.
 
+<hr>
 
 ### To Contribute<br>
 <button id="contribute-guidance">
