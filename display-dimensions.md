@@ -15,6 +15,15 @@
 | 1280 px    | 800 px  |
 | 1024 px    | 768 px  |
 
+#### Tablet
+
+| Devices                     | Width       | Height     |
+| --------------------------- |:-----------:| ----------:|
+| Apple iPad Pro              | 2732 px     | 2048 px    |
+| Apple iPad Mini             | 768 px      | 1024 px    |
+| Apple iPad Air 2            | 2048 px     | 1536 px    |
+| Apple iPad Mini             | 768 px      | 1024 px    |
+| Microsoft Surface Pro 4     | 2736 px     | 1824 px    |
 
 #### Mobile
 
@@ -34,16 +43,6 @@
 | Google Pixel                            | 1080 px    | 1920 px    |
 | LG V10, G3 and G4                       | 1440 px    | 2560 px    |
 | HTC One and One M9                      | 1080 px    | 1920 px    |
-
-#### Tablet
-
-| Devices                     | Width       | Height     |
-| --------------------------- |:-----------:| ----------:|
-| Apple iPad Pro              | 2732 px     | 2048 px    |
-| Apple iPad Mini             | 768 px      | 1024 px    |
-| Apple iPad Air 2            | 2048 px     | 1536 px    |
-| Apple iPad Mini             | 768 px      | 1024 px    |
-| Microsoft Surface Pro 4     | 2736 px     | 1824 px    |
 
 ### Minimum Display Dimensions
 
