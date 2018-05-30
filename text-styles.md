@@ -272,7 +272,7 @@ line-height: $base-line-height;
 ```
 font-family: 'Roboto';
 font-weight: 400;
-font-size: 20px;
+font-size: 17px;
 line-height: 1.5em/26px;
 ```
 </pre>
@@ -302,7 +302,7 @@ line-height: $base-line-height;
 font-family: 'Roboto';
 font-style: italic;
 font-weight: 400;
-font-size: 20px;
+font-size: 17px;
 line-height: 1.5em/26px;
 ```
 </pre>
@@ -330,7 +330,7 @@ line-height: $base-line-height;
 ```
 font-family: 'Roboto';
 font-weight: 700;
-font-size: 20px;
+font-size: 17px;
 line-height: 1.5em/26px;
 ```
 </pre>
@@ -358,7 +358,7 @@ line-height: $base-line-height;
 ```
 font-family: 'Roboto';
 font-weight: 700;
-font-size: 20px;
+font-size: 17px;
 line-height: 1.5em/26px;
 ```
 </pre>
