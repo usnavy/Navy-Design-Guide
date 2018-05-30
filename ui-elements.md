@@ -69,6 +69,8 @@ For Example:
 
 All hover states are underlined to provide consistency and to prevent uncertainty.  Call-to-actions emphasize and encourage the user to engage in ready and relevant information that has significance as well as additional value.  All call-to-actions are indicated with a chevron to gesture or promote cultural importance.
 
+For Example:
+
 <a href="#" class="link-example">
 	<strong>A Design for Maintaining Maritime Superiority</strong><img src="img/Right-Chevron.png" alt="Call to Action" class="chevron">
 	</a>
