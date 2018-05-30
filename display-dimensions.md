@@ -17,13 +17,13 @@
 
 #### Tablet
 
-| Devices                     | Width       | Height     |
-| --------------------------- |-------------| -----------|
-| Apple iPad Pro              | 2732 px     | 2048 px    |
-| Apple iPad Mini             | 768 px      | 1024 px    |
-| Apple iPad Air 2            | 2048 px     | 1536 px    |
-| Apple iPad Mini             | 768 px      | 1024 px    |
-| Microsoft Surface Pro 4     | 2736 px     | 1824 px    |
+| Devices                         | Width       | Height     |
+| ------------------------------- |-------------| -----------|
+| Apple iPad Pro                  | 2732 px     | 2048 px    |
+| Apple iPad Mini                 | 768 px      | 1024 px    |
+| Apple iPad Air 2                | 2048 px     | 1536 px    |
+| Apple iPad Mini                 | 768 px      | 1024 px    |
+| Microsoft Surface Pro 4         | 2736 px     | 1824 px    |
 
 #### Mobile
 
