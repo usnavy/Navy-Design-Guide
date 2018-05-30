@@ -407,6 +407,11 @@ a strong:hover {
       font-weight: bold;
     }
 
+    tr:hover {
+      background: #088199;
+      color: #ffffff;
+    }
+	  
     th,
     td {
       padding: 0.5rem 1rem;
