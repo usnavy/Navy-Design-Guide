@@ -8,6 +8,36 @@ Hero images help draw attention, provide context about content, or reinforce the
 #### Placement
 They are anchored in the most prominent position, such as the top of the screen.
 
+##### Choosing a hero image
+
+Hero images should make an impact, engaging the user and setting
+the emotional tone for the page, but they shouldn’t overpower
+the content elements they support (navbar, headings, etc.)  When
+selecting a hero image for a page, pay attention to both the
+appearance of the image and its composition.
+
+##### Appearance
+
+When considering the appearance of a hero image, follow our
+exisiting brand guidelines:
+
+> All photography should feel cinematic, allowing each photo
+> to tell its own story. Each image should have a single focus,
+> using people as the primary subject as much as possible.
+
+> Equipment such as ships and other craft may also be used as the
+> primary subject.
+
+> Some colors don't pair well with our brand colors. Avoid images
+> with large areas of clashing color.
+
+##### Composition
+
+When considering the composition of a prospective hero image,
+avoid images with focal areas in the top third or left third of
+the image. These areas should be reserved for the page header
+and featured content headings, respectively.
+
 <hr>
 
 ### Narrative Imagery
