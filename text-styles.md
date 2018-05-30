@@ -201,10 +201,10 @@ line-height: 1.3em/20px;
     <div class="text-style__source__type">SCSS</div> 
 <pre>
 ```
-font-family: $font-serif;
+font-family: $font-sans;
 font-weight: $font-bold;
 font-size: $h6-font-size;
-line-height: $heading-line-height;
+line-height: $heading6-line-height;
 text-transform: uppercase;
 ```
 </pre>
