@@ -230,17 +230,17 @@ a strong:hover {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem;
+    font-size: 17px;
   }
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 1.1rem;
+    font-size: 17px;
   }
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1rem;
+    font-size: 17px;
   }
 
   a {
