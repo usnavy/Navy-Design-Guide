@@ -1,10 +1,10 @@
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://usnavy.github.io/Navy-Design-Guide/js/makeTable.js"></script>
+<script src="https://usnavy.github.io/Navy-Design-Guide/js/viewport_data.js"></script>
+
 ## Display Dimensions
 
 ### Display Sizes
-
-    <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="https://usnavy.github.io/Navy-Design-Guide/js/makeTable.js"></script>
-    <script src="https://usnavy.github.io/Navy-Design-Guide/js/viewport_data.js"></script>
 
 <div id="highlighted">Nothing Highlighted</div>
   <div id="selected">Nothing Selected</div>
