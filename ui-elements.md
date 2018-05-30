@@ -18,7 +18,7 @@ For example:
 
 All hover states are underlined to provide clear indication that it links to specific content.  As well, all links must be descript.  Instead of "Click Here" it needs to provide linguistic clarity for users, such as "Learn more about our Navy". 
 
-For Example:  
+For example:  
 
 [Learn more about our Navy](https://usnavy.github.io/Navy-Design-Guide/ui-elements.html)
 
@@ -37,7 +37,7 @@ For Example:
 
 Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user.  
 
-For Example:
+For example:
 
 <div class="input-example">			
 <span>First Name</span>	
@@ -50,7 +50,7 @@ For Example:
 
 Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user. 
 
-For Example:
+For example:
 
 <div class="dropdown-box-example">	
 <span>Options</span>			
@@ -69,7 +69,7 @@ For Example:
 
 All hover states are underlined to provide consistency and to prevent uncertainty.  Call-to-actions emphasize and encourage the user to engage in ready and relevant information that has significance as well as additional value.  All call-to-actions are indicated with a chevron to gesture or promote cultural importance.
 
-For Example:
+For example:
 
 <a href="#" class="link-example">
 	<strong>A Design for Maintaining Maritime Superiority</strong><img src="img/Right-Chevron.png" alt="Call to Action" class="chevron">
