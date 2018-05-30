@@ -56,7 +56,6 @@ layout: default
 </ul>
 
 ### Contrast & Accessibility
-
 [WCAG 2.0 guideline 1.4.3](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) requires
 a contrast ratio of at least **4.5:1** for text, with a few important exceptions:
 
@@ -147,6 +146,19 @@ other visual content.”
 </ul>
 
 <hr>
+
+<ul class="palette">
+  <li class="swatch swatch--navy-red">
+    <div class="swatch__name">Red</div>
+    <img src="img/Red - PLAIN.jpg" alt="Red" class="swatch-box-large"><br>
+    HEX:#B30003  <br>
+    CMYK: 20, 100, 100, 13  <br>
+    RGB:  179, 0, 3  <br>
+  </li>
+
+### Usage
+Red should be used to provide specialized indication to alert, or any specialized attention that needs to be known.
+
 
 ### To Contribute<br>
 <button id="contribute-guidance">
