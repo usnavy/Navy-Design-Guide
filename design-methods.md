@@ -2,6 +2,10 @@
 
 ### Hierarchical
 
+#### Information
+
+Information is categorized, well-thought, distinct, and accurate.
+
 #### Color 
 
 Color indicates which elements are interactive, how they relate to other elements, and their level of prominence. Important elements should stand out the most.  
@@ -12,18 +16,9 @@ It needs be used consistently, so that certain colors always mean the same thing
 
 For example, alerts are colored red.
 
-#### Information
-
-Information is categorized, well-thought, distinct, and accurate.
-
 <hr>
 
 ### Legibility
-
-#### Color
-
-Text and important elements, like icons, should meet legibility standards when appearing on colored backgrounds, across all screen and device types. 
-Color should also be applied throughout a UI consistently and be compatible with the brand it represents.
 
 #### Readability
 
@@ -33,13 +28,14 @@ All content should be visible while the surface morphs, without clipping content
 
 Use color in subtle ways, whether that means conveying sophistication, emphasizing content or context, or suiting content in some other way. When using color with subtlety, ensure that interactive areas and state changes remain identifiable and easily seen.
 
+#### Color
+
+Text and important elements, like icons, should meet legibility standards when appearing on colored backgrounds, across all screen and device types. 
+Color should also be applied throughout a UI consistently and be compatible with the brand it represents.
+
 <hr>
 
 ### Expressive
-
-#### Color
-
-Color should create distinction between elements, with sufficient contrast between them.
 
 #### The Navy Brand
 
@@ -48,6 +44,10 @@ Reinforce the brand by showing brand colors so that it reinforce your brand’s 
 #### Imagery
 
 Images should be selected for their ability to express your message and reflect your brand’s style. Whether you use user-generated photography, professional photography, or different styles of illustration, they should all lend an authentic and qualitative look and feel that reflects the Navy. Images should be related to one another by sharing a common function, style, and intention.
+
+#### Color
+
+Color should create distinction between elements, with sufficient contrast between them.
 
 <hr>
 
