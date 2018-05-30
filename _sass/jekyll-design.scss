@@ -405,6 +405,8 @@ a strong:hover {
 
     th {
       font-weight: bold;
+      text-align: left;
+      color: 
     }
 
     tr:hover {
@@ -415,7 +417,7 @@ a strong:hover {
     th,
     td {
       padding: 0.5rem 1rem;
-      border: 1px solid $table-border-color;
+      border-bottom: 1px solid $table-border-color;
     }
   }
 
