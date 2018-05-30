@@ -234,7 +234,7 @@ text-transform: uppercase;
 font-family: $font-sans;
 font-weight: $font-normal;
 font-size: $lead-font-size;
-line-height: $base-line-height;
+line-height: $lead-line-height;
 ```
 </pre>
   </div>
