@@ -28,10 +28,23 @@
   </li>
 </ul>
 
-### Silhouette
+### Silhouette (Shape Language)
 The silhouette or shape of the iconography needs to be clear, readable, and recongizable.  It is important that the visual design of the iconicity is accurate and well defined.  Iconicity is the relationship of resemblance or similarity between the "form" and its "meaning".  An iconic sign is a form that resembles its meaning.  The opposite of iconicity is arbitrariness.
 
 Use white to provide appropriate negative space, and to enhance visual articulation when appropriate, also necessary.
+
+#### Interactive Shapes
+To attach meaning to a specific shape, shape can be expressed in tandem with a user-initiated action or state change. For example, introduce the shape with an other indicator, to reinforce a shape’s meaning.
+
+#### Non-Interactive Shapes
+If a shape isn’t interactive, avoid using shapes with sizes large enough to appear interactive. For example, a small triangular shape on a card shouldn’t be large enough to be mistaken for a tap target if it’s not one.
+
+<hr>
+
+### Shape overuse
+Overuse of a shape for branding purposes can make it less meaningful because that shape becomes common and less noticeable.
+
+<hr>
 
 ### Labeling
 To prevent possible ambiguity that almost all icons face, a text label must be present alongside an icon to clarify its meaning in that particular context. 
