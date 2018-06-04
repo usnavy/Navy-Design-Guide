@@ -1,5 +1,12 @@
 ## Image Scheme
 
+### General Practice
+
+#### Imagery
+All images must be top-aligned in accordance to the image scheme type within its specific container or content type element.
+
+<hr>
+
 ### Hero Imagery
 
 #### Usage
