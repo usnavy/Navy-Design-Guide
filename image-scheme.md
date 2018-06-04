@@ -3,7 +3,7 @@
 ### General Practice
 
 #### Imagery
-All images must be top-aligned in accordance to the image scheme type within its specific container or content type element.
+All images must be top-aligned or center-aligned in accordance to the image scheme type and visual composition of the imagery. Within its specific container or content type element it must be harmonous and clear.
 
 <hr>
 
