@@ -20,6 +20,10 @@ Color harmony is the combining of colors in a fashion that is harmonious to the 
 
 ![Cool Colors Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/hero-image-4.JPG "Cool Colors Example 1")
 
+#### Earthy Colors
+
+![Earthy Colors Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/earthy-colors-1.jpg "Earthy Colors Example 1")
+
 #### Monochromatic
 
 ![Monochromatic Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/hero-image-3.jpg "Monochromatic Example 1")
