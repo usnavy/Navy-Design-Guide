@@ -22,7 +22,7 @@ Color harmony is the combining of colors in a fashion that is harmonious to the 
 
 #### Earthy Colors
 
-![Earthy Colors Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/earthy-colors-1.jpg "Earthy Colors Example 1")
+![Earthy Colors Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/earthy-colors-1.JPG "Earthy Colors Example 1")
 
 #### Monochromatic
 
