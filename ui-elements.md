@@ -1,4 +1,4 @@
-## User Interface
+## User Interface (UI)
 
 ### Buttons
 
