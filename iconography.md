@@ -47,7 +47,7 @@ Overuse of a shape for branding purposes can make it less meaningful because tha
 <hr>
 
 ### Labeling
-To prevent possible ambiguity that almost all icons face, a text label must be present alongside an icon to clarify its meaning in that particular context. 
+To prevent possible ambiguity that almost all icons face, a text label must be present alongside an icon to clarify its meaning in that particular context when appropriate.  If uncertain, it is best to provide the necessary label for linguistic clarity. 
 
 <hr>
 
