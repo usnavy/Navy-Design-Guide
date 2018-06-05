@@ -1,7 +1,7 @@
 ## Spatial Concepts
 
 ### Predictable
-UIs should use intuitive and predictable layouts, with consistent UI regions and spatial organization.
+User Interfaces (UIs) should use intuitive and predictable layouts, with consistent User Interface (UI) regions and spatial organization.
 
 Spatial relationships are important, and consistency is comfortable.
 
