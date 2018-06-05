@@ -10,9 +10,7 @@ Natural light sources ensure images have an authentic, unembellished look. The c
 
 ![Light Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-3.JPG "Light Example 3")
 
-  <hr>
-
-### Color Space and Contrast
+#### Color Space and Contrast
 
 Color saturation is not excessive or too bright.  We make use of contrast that is clear. Color and contrast can also be used as stylistic devices.
 
@@ -21,18 +19,6 @@ Color saturation is not excessive or too bright.  We make use of contrast that i
 ![Color Space and Contrast Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/color-space-and-contrast-2.JPG  "Color Space and Contrast Example 2")
 
 ![Color Space and Contrast Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/color-space-and-contrast-3.JPG   "Color Space and Contrast Example 3")
-
-  <hr>
-
-### Definition and Blur
-
-The interplay of definition and blur is put to selective use to create a focus and a natural look.  In this way, the attention is drawn to a specific idea or thought.  Supporting elements can be out of focus if it supports the motif.
-
-![Definition and Blur Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/definition-and-blur-1.JPG   "Definition and Blur Example 1")
-
-![Definition and Blur Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/definition-and-blur-2.JPG  "Definition and Blur Example 2")
-
-![Definition and Blur Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/definition-and-blur-3.JPG  "Definition and Blur Example 3")
 
   <hr>
 
@@ -45,6 +31,26 @@ Particular image details, sections, and unusual perspectives can give images a d
 ![Perspective and Details Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/perspective-and-details-2.JPG  "Perspective and Details Example 2")
 
 ![Perspective and Details Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/perspective-and-details-3.JPG   "Perspective and Details Example 3")
+
+#### Deep Focus
+
+Deep focus is a style or technique to provide imagery with great depth, and for enhanced visual clarity.  Deep focus provides detail balance in partner with deep space and nuances, while still being used as stylistic devices to tell stories or support ideas.
+
+![Deep Focus Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/deep-focus-1.JPG "Deep Focus Example 1")
+
+![Deep Focus Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/deep-focus-2.JPG  "Deep Focus Example 2")
+
+![Deep Focus Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/deep-focus-3.JPG   "Deep Focus Example 3")
+
+#### Definition and Blur
+
+The interplay of definition and blur is put to selective use to create a focus and a natural look.  In this way, the attention is drawn to a specific idea or thought.  Supporting elements can be out of focus if it supports the motif.
+
+![Definition and Blur Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/definition-and-blur-1.JPG   "Definition and Blur Example 1")
+
+![Definition and Blur Example 2](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/definition-and-blur-2.JPG  "Definition and Blur Example 2")
+
+![Definition and Blur Example 3](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/definition-and-blur-3.JPG  "Definition and Blur Example 3")
 
   <hr>
 
