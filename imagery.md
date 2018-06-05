@@ -2,7 +2,7 @@
 
 ### Light
 
-Natural light sources ensure images have an authentic, unembellished look. The composition and narrative is integrated in the lighting situation and is not artificially highlighted.  Light and shade creates accents in the atmospheric perspective while it can still be used as stylistic devices to tell stories or support ideas.
+Natural light sources ensure images have an authentic, unembellished look. The composition and narrative is integrated in the lighting situation and is not artificially highlighted.  Light and shade creates accents in the atmospheric perspective while it can still be used as stylistic devices to tell stories or to support information.
 
 ![Light Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/lighting-1.JPG "Light Example 1")
 
@@ -34,7 +34,7 @@ Particular image details, sections, and unusual perspectives can give images a d
 
 #### Deep Focus
 
-Deep focus provides imagery with great depth, and for enhanced visual clarity.  Deep focus provides detail balance in partner with deep spaces and nuances, while still being used as stylistic devices to tell stories or support ideas.
+Deep focus provides imagery with great depth, and for enhanced visual clarity.  Deep focus provides detail balance in partner with deep spaces and nuances, while still being used as stylistic devices to tell stories or to support information.
 
 ![Deep Focus Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/deep-focus-1.JPG "Deep Focus Example 1")
 
