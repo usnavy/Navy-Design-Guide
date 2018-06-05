@@ -60,7 +60,7 @@ They are within stories, and promote the Navy story interposed within the narrat
 ### Informational Imagery
 
 #### Usage
-Informational imagery assists users in understanding content, without being the focal point in a UI. It represents entities or content, either literally or conceptually.
+Informational imagery assists users in understanding content, without being the focal point in a User Interface (UI). It represents entities or content, either literally or conceptually.
 
 #### Placement
 They are within information driven content, and promote the informatics.
