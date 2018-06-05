@@ -26,6 +26,12 @@ Color harmony is the combining of colors in a fashion that is harmonious to the 
 
 <hr>
 
+#### Warm Colors
+
+![Warm Colors Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/warm-colors-1.JPG "Warm Colors Example 1")
+
+<hr>
+
 #### Cool Colors
 
 ![Cool Colors Example 1](https://usnavy.github.io/Navy-Design-Guide/img/hero-images/hero-image-4.JPG "Cool Colors Example 1")
