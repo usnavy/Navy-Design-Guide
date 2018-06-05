@@ -34,7 +34,7 @@ Particular image details, sections, and unusual perspectives can give images a d
 
 #### Deep Focus
 
-Deep focus is a style or technique to provide imagery with great depth, and for enhanced visual clarity.  Deep focus provides detail balance in partner with deep space and nuances, while still being used as stylistic devices to tell stories or support ideas.
+Deep focus provides imagery with great depth, and for enhanced visual clarity.  Deep focus provides detail balance in partner with deep spaces and nuances, while still being used as stylistic devices to tell stories or support ideas.
 
 ![Deep Focus Example 1](https://usnavy.github.io/Navy-Design-Guide/img/imagery-examples/deep-focus-1.JPG "Deep Focus Example 1")
 
