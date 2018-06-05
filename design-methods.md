@@ -14,8 +14,6 @@ When using color it should be applied purposefully as it can convey meaning in m
 
 It needs be used consistently, so that certain colors always mean the same thing, even if the context changes. Attention should also be given to colors with local or cultural significance. 
 
-For example, alerts are colored red.
-
 <hr>
 
 ### Legibility
@@ -31,7 +29,7 @@ Use color in subtle ways, whether that means conveying sophistication, emphasizi
 #### Color
 
 Text and important elements, like icons, should meet legibility standards when appearing on colored backgrounds, across all screen and device types. 
-Color should also be applied throughout a UI consistently and be compatible with the brand it represents.
+Color should also be applied throughout a User Interface (UI) consistently and be compatible with the brand it represents.
 
 <hr>
 
