@@ -20,6 +20,25 @@
 
 <hr>
 
+#### Laptop
+
+![Laptop Example](https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1.jpg "Laptop Example")
+
+
+| Width      | Height  |
+| ---------- |---------|
+| 1920 px    | 1200 px |
+| 1600 px    | 1200 px |
+| 1680 px    | 1050 px |
+| 1400 px    | 1050 px |
+| 1280 px    | 1024 px |
+| 1440 px    | 900 px  |
+| 1280 px    | 800 px  |
+| 1024 px    | 768 px  |
+| 800 px     | 600 px  |
+
+<hr>
+
 #### Tablet
 Remember:  All tablet sizes and styles have two orientations, Portrait and Landscape.  
 
