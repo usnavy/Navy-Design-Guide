@@ -4,6 +4,12 @@
 
 #### Desktop
 
+<div class="display-dimensions">
+	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1.jpg" alt="desktop">
+	<div class="display-interaction">
+	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1-OL.jpg" alt="desktop-overlay">
+	</div>
+
 | Width      | Height  |
 | ---------- |---------|
 | 1920 px    | 1080 px |
@@ -15,7 +21,19 @@
 | 1280 px    | 800 px  |
 | 1024 px    | 768 px  |
 
+<hr>
+
 #### Tablet
+Remember:  All tablet sizes and styles have two orientations, Portrait and Landscape.  
+
+Width by Height, or Height by Width.
+
+<div class="display-dimensions">
+	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-2.jpg" alt="tablet">
+	<div class="display-interaction">
+	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-2-OL.jpg" alt="tablet-overlay">
+	</div>
+
 
 | Devices                         | Width       | Height     |
 | ------------------------------- |-------------|------------|
@@ -24,9 +42,18 @@
 | Apple iPad Air 2                | 2048 px     | 1536 px    |
 | Apple iPad Mini                 | 768 px      | 1024 px    |
 | Microsoft Surface Pro 4         | 2736 px     | 1824 px    |
+| Amazon Fire                     | 1024 px     | 600 px     |
 
 #### Mobile
+Remember:  All mobile sizes and styles have two orientations, Portrait and Landscape.  
 
+Width by Height, or Height by Width.
+
+<div class="display-dimensions">
+	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-3.jpg" alt="tablet">
+	<div class="display-interaction">
+	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-3-OL.jpg" alt="tablet-overlay">
+	</div>
 
 | Devices                                 | Width      | Height     |
 | --------------------------------------- |------------|------------|
