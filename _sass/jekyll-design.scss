@@ -786,6 +786,37 @@ select {
     margin-right: 20px;
 }
 
+.date-padding {
+		padding-right: 20px;
+	}
+	
+	.date-filter-options {
+		padding-top: 30px;
+	}
+	
+	.date-filter-options > p {
+		display: inline-block;
+		padding-right: 20px;
+	}
+	
+	.date-filter-options > span {
+		color: #003b4f;
+		text-align: left;
+		font-size: 17px;
+		font-weight: 400;
+	}
+	
+	.month-options {
+	    display: inline-block;
+    width: 80px;
+	margin-right: 20px;
+}
+	.year-options {
+	display: inline-block;
+    width: 110px;
+	margin-right: 20px;
+}
+
 @media print {
     .page-header {
     text-align: center;
