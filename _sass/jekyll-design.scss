@@ -817,6 +817,22 @@ select {
 	margin-right: 20px;
 }
 
+#start-month {
+		width: 80px;
+	}
+	
+	#start-year {
+		width: 110px;
+	}
+	
+	#end-month {
+		width: 80px;
+	}
+	
+	#end-year {
+		width: 110px;
+	}
+
 @media print {
     .page-header {
     text-align: center;
