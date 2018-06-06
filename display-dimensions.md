@@ -36,6 +36,8 @@ Width by Height, or Height by Width.
 | Microsoft Surface Pro 4         | 2736 px     | 1824 px    |
 | Amazon Fire                     | 1024 px     | 600 px     |
 
+<hr>
+
 #### Mobile
 Remember:  All mobile sizes and styles have two orientations, Portrait and Landscape.  
 
@@ -58,6 +60,8 @@ Remember:  All mobile sizes and styles have two orientations, Portrait and Lands
 | Google Pixel                            | 1920 px    | 1080 px    |
 | LG V10, G3 and G4                       | 2560 px    | 1440 px    |
 | HTC One and One M9                      | 1920 px    | 1080 px    |
+
+<hr>
 
 ### Minimum Display Dimensions
 
