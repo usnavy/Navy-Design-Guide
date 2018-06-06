@@ -65,6 +65,37 @@ For example:
 
 <hr>
 
+
+### Date Boxes
+
+Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user. 
+
+For example:
+
+<div class="date-filter-options">
+<div class="month-options">			
+<span>Month</span>		
+  <input id="start-month" type="text" name="startMonth" placeholder="MM">
+	</div>
+<div class="year-options">	
+<span>Year</span>	
+  <input id="start-year" type="text" name="startyear" placeholder="YYYY">
+</div>		
+	
+	<p>to</p>
+	
+<div class="month-options">			
+<span>Month</span>		
+  <input id="end-month" type="text" name="startMonth" placeholder="MM">
+</div>
+<div class="year-options">
+<span>Year</span>	
+  <input id="end-year" type="text" name="startyear" placeholder="YYYY">
+</div>
+</div>
+
+<hr>
+
 ### Call-to-Actions (CTA)s
 
 All hover states are underlined to provide consistency and to prevent uncertainty.  Call-to-actions emphasize and encourage the user to engage in ready and relevant information that has significance as well as additional value.  All call-to-actions are indicated with a chevron to gesture or promote cultural importance.
