@@ -832,6 +832,29 @@ select {
 		width: 110px;
 	}
 
+	.display-dimensions {
+		float: left;
+	}
+	
+	.display-dimensions > img {
+		float: left;
+		z-index: -1;
+	}
+	
+	.display-interaction {
+		float: left;
+		margin-top:-58.3rem;
+		z-index: 1;
+		opacity: 0;
+	}
+	
+	.display-interaction:hover {
+		float: left;
+		margin-top:-58.3rem;
+		z-index: 1;
+		opacity: 1;
+	}
+
 @media print {
     .page-header {
     text-align: center;
