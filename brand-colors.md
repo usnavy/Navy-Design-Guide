@@ -12,6 +12,7 @@ layout: default
     HEX:#08262C  <br>
     CMYK: 89, 66, 60, 67  <br>
     RGB:  8, 38, 44  <br>
+    HSL: 190, 69, 10 <br>
   </li>
   <hr>
   <li class="swatch swatch--navy-blue">
@@ -20,6 +21,7 @@ layout: default
     HEX:#003B4F  <br>
     CMYK: 98, 69, 48, 40  <br>
     RGB: 0,59,79  <br>
+    HSL: 195, 100, 15 <br>
   </li>
   <hr>
   <li class="swatch swatch--teal-blue">
@@ -28,6 +30,7 @@ layout: default
     HEX:#088199  <br>
     CMYK: 85, 36, 32, 3  <br>
     RGB: 8, 129, 153  <br>
+    HSL: 190, 90, 32 <br>
   </li>
   <hr>
   <li class="swatch swatch--gray">
@@ -36,6 +39,7 @@ layout: default
     HEX:#C6CCD0  <br>
     CMYK: 22, 14, 13, 0  <br>
     RGB: 198, 204, 208  <br>
+    HSL: 204, 10, 80 <br>
   </li>
   <hr>
   <li class="swatch swatch--yellow">
@@ -44,6 +48,7 @@ layout: default
     HEX:#E8B00F  <br>
     CMYK: 10, 31, 100, 0  <br>
     RGB: 232, 176, 15  <br>
+    HSL: 45, 88, 48 <br>
   </li>
   <hr>
   <li class="swatch swatch--navy-white">
@@ -52,6 +57,7 @@ layout: default
     HEX:#FFFFFF  <br>
     CMYK: 0, 0, 0, 0  <br>
     RGB: 255, 255, 255  <br>
+    HSL: 0, 0, 100 <br>
   </li>
 </ul>
 
@@ -154,6 +160,7 @@ other visual content.”
     HEX:#B30003  <br>
     CMYK: 20, 100, 100, 13  <br>
     RGB:  179, 0, 3  <br>
+    HSL: 359, 100, 35 <br>
   </li>
 </ul>
 
