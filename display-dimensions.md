@@ -8,7 +8,8 @@
 	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1.jpg" alt="desktop">
 	<div class="display-interaction">
 	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1-OL.jpg" alt="desktop-overlay">
-	</div>
+</div>
+</div>
 
 | Width      | Height  |
 | ---------- |---------|
@@ -32,8 +33,8 @@ Width by Height, or Height by Width.
 	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-2.jpg" alt="tablet">
 	<div class="display-interaction">
 	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-2-OL.jpg" alt="tablet-overlay">
-	</div>
-
+</div>
+</div>
 
 | Devices                         | Width       | Height     |
 | ------------------------------- |-------------|------------|
@@ -53,7 +54,8 @@ Width by Height, or Height by Width.
 	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-3.jpg" alt="tablet">
 	<div class="display-interaction">
 	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-3-OL.jpg" alt="tablet-overlay">
-	</div>
+</div>
+</div>
 
 | Devices                                 | Width      | Height     |
 | --------------------------------------- |------------|------------|
