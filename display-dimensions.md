@@ -4,12 +4,8 @@
 
 #### Desktop
 
-<div class="display-dimensions">
-	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1.jpg" alt="desktop">
-	<div class="display-interaction">
-	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1-OL.jpg" alt="desktop-overlay">
-</div>
-</div>
+![Desktop Example](https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-1.jpg "Desktop Example")
+
 
 | Width      | Height  |
 | ---------- |---------|
@@ -29,12 +25,7 @@ Remember:  All tablet sizes and styles have two orientations, Portrait and Lands
 
 Width by Height, or Height by Width.
 
-<div class="display-dimensions">
-	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-2.jpg" alt="tablet">
-	<div class="display-interaction">
-	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-2-OL.jpg" alt="tablet-overlay">
-</div>
-</div>
+![Tablet Example](https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-2.jpg "Tablet Example")
 
 | Devices                         | Width       | Height     |
 | ------------------------------- |-------------|------------|
@@ -48,30 +39,25 @@ Width by Height, or Height by Width.
 #### Mobile
 Remember:  All mobile sizes and styles have two orientations, Portrait and Landscape.  
 
-Width by Height, or Height by Width.
+ Height by Width, or Width by Height.
 
-<div class="display-dimensions">
-	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-3.jpg" alt="tablet">
-	<div class="display-interaction">
-	<img src="https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-3-OL.jpg" alt="tablet-overlay">
-</div>
-</div>
+![Mobile Example](https://usnavy.github.io/Navy-Design-Guide/img/presentation-design/devices-3.jpg "Mobile Example")
 
-| Devices                                 | Width      | Height     |
+| Devices                                 | Height     | Width      |
 | --------------------------------------- |------------|------------|
-| Apple iPhone 6, 6s, and 7               | 750 px     | 1334 px    |
-| Apple iPhone 6+ and 7+                  | 1080 px    | 1920 px    |
-| Apple iPhone 5 (5c, 5s)                 | 640 px     | 1136 px    |
-| Apple iPhone 6, 6s, and 7               | 750 px     | 1334 px    |
-| Apple iPhone 4 (4, 4S)                  | 640 px     | 960 px     |
-| Samsung Galaxy S6 and S6 Edge+          | 1440 px    | 2560 px    |
-| Samsung Galaxy S8+                      | 2960 px    | 1440 px    |
-| Samsung Galaxy S5                       | 1080 px    | 1920 px    |
-| Samsung Galaxy J7                       | 720 px     | 1280 px    |
-| Samsung A5                              | 720 px     | 1280 px    |
-| Google Pixel                            | 1080 px    | 1920 px    |
-| LG V10, G3 and G4                       | 1440 px    | 2560 px    |
-| HTC One and One M9                      | 1080 px    | 1920 px    |
+| Apple iPhone 6, 6s, and 7               | 1334 px    | 750 px     |
+| Apple iPhone 6+ and 7+                  | 1920 px    | 1080 px    |
+| Apple iPhone 5 (5c, 5s)                 | 1136 px    | 640 px     |
+| Apple iPhone 6, 6s, and 7               | 1334 px    | 750 px     |
+| Apple iPhone 4 (4, 4S)                  | 960 px     | 640 px     |
+| Samsung Galaxy S6 and S6 Edge+          | 2560 px    | 1440 px    |
+| Samsung Galaxy S8+                      | 1440 px    | 2960 px    |
+| Samsung Galaxy S5                       | 1920 px    | 1080 px    |
+| Samsung Galaxy J7                       | 1280 px    | 720 px     |
+| Samsung A5                              | 1280 px    | 720 px     |
+| Google Pixel                            | 1920 px    | 1080 px    |
+| LG V10, G3 and G4                       | 2560 px    | 1440 px    |
+| HTC One and One M9                      | 1920 px    | 1080 px    |
 
 ### Minimum Display Dimensions
 
