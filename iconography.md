@@ -9,6 +9,7 @@
     HEX:#003B4F  <br>
     CMYK: 98, 69, 48, 40  <br>
     RGB: 0, 59, 79  <br>
+    HSL: 195, 100, 15 <br>
   </li>
   <hr>
   <li class="swatch swatch--teal-blue">
@@ -17,6 +18,7 @@
     HEX:#088199  <br>
     CMYK: 85, 36, 32, 3  <br>
     RGB: 8, 129, 153  <br>
+    HSL: 190, 90, 32 <br>
   </li>
   <hr>
   <li class="swatch swatch--navy-white">
@@ -25,6 +27,7 @@
     HEX:#FFFFFF  <br>
     CMYK: 0, 0, 0, 0  <br>
     RGB: 255, 255, 255  <br>
+    HSL: 0, 0, 100 <br>
   </li>
 </ul>
 
