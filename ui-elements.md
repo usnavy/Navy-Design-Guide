@@ -28,6 +28,7 @@ All hover states are underlined to provide clear indication that it links to spe
 For example:  
 
 <br>
+<br>
 
 [Learn more about our Navy](https://usnavy.github.io/Navy-Design-Guide/ui-elements.html)
 
