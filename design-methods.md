@@ -29,6 +29,7 @@ Use color in subtle ways, whether that means conveying sophistication, emphasizi
 #### Color
 
 Text and important elements, like icons, should meet legibility standards when appearing on colored backgrounds, across all screen and device types. 
+
 Color should also be applied throughout a User Interface (UI) consistently and be compatible with the brand it represents.
 
 <hr>
@@ -41,7 +42,7 @@ Reinforce the brand by showing brand colors so that it reinforce your brand’s 
 
 #### Imagery
 
-Images should be selected for their ability to express your message and reflect your brand’s style. Whether you use user-generated photography, professional photography, or different styles of illustration, they should all lend an authentic and qualitative look and feel that reflects the Navy. Images should be related to one another by sharing a common function, style, and intention.
+Images should be selected for their ability to express your message and reflect your brand’s style. Whether you use user-generated photography, professional photography, or different styles of illustration, they should all lend an authentic qualitative look and  reflects the Navy. Images should be related to one another by sharing a common function, style, and intention.
 
 #### Color
 
