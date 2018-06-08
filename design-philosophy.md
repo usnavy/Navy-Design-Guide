@@ -8,13 +8,13 @@ Understand our users and end users better than they understand themselves.
 
 ### Content is King
 
-Place an emphasis on quality of content. This can be done by creating a value on quality content, stripping back unnecessary and  focusing on the key experience, and minimising distractions. Far too often the quantity available is far more than the average user can consume. In these situations, consider whether such an overwhelming array of choices is actually useful.
+Place an emphasis on quality of content. This can be done by creating a value on quality content, stripping away the unnecessary, focusing on the key experience, and minimising distractions. Far too often the quantity available is far more than the average user can consume. In these situations, consider whether such an overwhelming array of choices is actually useful.
 
 <hr>
 
 ### Accessible Design is Good Design
 
-Design should be usable on all devices by all of the people in all situations. Design is simple, touch friendly and clear and aims for AA accessibility.
+Design should be usable on all devices by all of the people in all situations. Design is simple, touch friendly, clear and aims for AA accessibility.
 
 <hr>
 
@@ -34,7 +34,7 @@ Design solves an important human problem.
 
 ### Good Design builds Long-Term Relationships
 
-We value the familiarity and trust placed in us. We acknowledge the Navy heritage of iconic design and history with subtle references.  We believe in active caring, and we recognize the need to speak to everyone and the individual. 
+We value the familiarity and trust placed in us. We acknowledge the Navy heritage of iconic design and history with subtle references.  We believe in active caring, we recognize the need to speak to everyone and the individual. 
 
 <hr>
 
