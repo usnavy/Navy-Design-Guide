@@ -6,9 +6,9 @@
 
 Transitions are coordinated sequences of motion that maintains user focus as the interface adapts.
 
-For Example:
-
 <div class="container-hide">
+
+For Example:
 
 <a class="hvr-underline-from-left">Motion Example 1</a>
 
