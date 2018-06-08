@@ -19,6 +19,8 @@ For example:
 
 </div>
 
+<br>
+
 <hr>
 
 ### Links
