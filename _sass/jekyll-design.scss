@@ -904,11 +904,11 @@ select {
 .hvr-rectangle-in:hover, .hvr-rectangle-in:focus, .hvr-rectangle-in:active {
   color: #ffffff;
   background: #088199;
+  border-radius: 0 20px 20px;
 }
 .hvr-rectangle-in:hover:before, .hvr-rectangle-in:focus:before, .hvr-rectangle-in:active:before {
   -webkit-transform: scale(0);
   transform: scale(0);
-  border-radius: 0 20px 20px;
 }
 
 @media print {
