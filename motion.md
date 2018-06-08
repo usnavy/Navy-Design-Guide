@@ -6,12 +6,6 @@
 
 Transitions are coordinated sequences of motion that maintains user focus as the interface adapts.
 
-#### Sequences
-
-Sequences refers to the order in which different parts of things appear, start moving, and stop moving.
-
-A good sequence makes it easy to understand what has changed about a screen, if any elements were added or removed, and what’s important to know about the next interaction.
-
 For Example:
 
 <a class="hvr-underline-from-left">Motion Example 1</a>
@@ -19,6 +13,12 @@ For Example:
 <button class="hvr-rectangle-in"><strong>Motion Example 2</strong></button>
 
 <button class="hvr-shrink"><strong>Motion Example 3</strong></button>
+
+#### Sequences
+
+Sequences refers to the order in which different parts of things appear, start moving, and stop moving.
+
+A good sequence makes it easy to understand what has changed about a screen, if any elements were added or removed, and what’s important to know about the next interaction.
 
 <hr>
 
