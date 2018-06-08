@@ -10,7 +10,7 @@ For example:
 	    
 <button class="button-example-2">Button Example 2</button>
 
-<button class="button-example-3">Button Example 3</button>
+<button class="button-example-3"><strong>Button Example 3</strong></button>
 
 <hr>
 
