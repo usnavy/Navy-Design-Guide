@@ -842,6 +842,7 @@ select {
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
   position: relative;
   overflow: hidden;
+  text-decoration: none;
 }
 .hvr-underline-from-left:before {
   content: "";
@@ -852,6 +853,7 @@ select {
   bottom: 0;
   background: #003b4f;
   height: 4px;
+  text-decoration: none;
   -webkit-transition-property: right;
   transition-property: right;
   -webkit-transition-duration: 0.3s;
@@ -861,6 +863,7 @@ select {
 }
 .hvr-underline-from-left:hover:before, .hvr-underline-from-left:focus:before, .hvr-underline-from-left:active:before {
   right: 0;
+  text-decoration: none;
 }
 
 
