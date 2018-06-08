@@ -15,7 +15,7 @@ A good sequence makes it easy to understand what has changed about a screen, if 
 For Example: <br>
 <a class="hvr-underline-from-left">Motion Example 1 </a>
 
-<button class="hvr-underline-from-left">Motion Example 2</button>
+<button class="hvr-rectangle-in">Motion Example 2</button>
 
 <hr>
 
