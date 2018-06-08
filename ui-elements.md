@@ -6,7 +6,7 @@ Buttons are clear, and considers readability for comprehension, as well as ease-
 
 <div class="container-hide">
 
-For example:
+For example: <br>
 
 <button class="button-example">Button Example 1</button>
 	    
@@ -30,7 +30,7 @@ In addition, it is useful and beneficial to provide supporting context or subtex
 
 <div class="container-hide">
 
-For example:
+For example: <br>
 
 <a href="#" class="link-example">
 	<strong>Subscriptions</strong><br>
@@ -47,7 +47,7 @@ Providing supporting context or visual aids can improve user adaptation.  All in
 
 <div class="container-hide">
 
-For example:
+For example: <br>
 
 <div class="input-example">			
 <span>First Name</span>	
@@ -64,7 +64,7 @@ Providing supporting context or visual aids can improve user adaptation.  All in
 
 <div class="container-hide">
 
-For example:
+For example: <br>
 
 <div class="dropdown-box-example">	
 <span>Options</span>			
@@ -88,7 +88,7 @@ Providing supporting context or visual aids can improve user adaptation.  All in
 
 <div class="container-hide">
 
-For example:
+For example: <br>
 
 <div class="date-filter-options">
 <div class="month-options">			
@@ -122,7 +122,7 @@ All hover states are underlined to provide consistency and to prevent uncertaint
 
 <div class="container-hide">
 
-For example:
+For example: <br>
 
 <a href="#" class="link-example">
 	<strong>A Design for Maintaining Maritime Superiority</strong><img src="img/Right-Chevron.png" alt="Call to Action" class="chevron">
