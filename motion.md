@@ -18,7 +18,7 @@ For Example:
 
 <button class="hvr-rectangle-in"><strong>Motion Example 2</strong></button>
 
-<button class="shrink"><strong>Motion Example 3</strong></button>
+<button class="hvr-shrink"><strong>Motion Example 3</strong></button>
 
 <hr>
 
