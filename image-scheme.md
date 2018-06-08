@@ -76,6 +76,9 @@ exisiting brand guidelines:
 > Some colors don't pair well with our brand colors. Avoid images
 > with large areas of clashing color.
 
+##### Composition
+When considering the composition of a prospective narrative image, avoid images with focal areas that prevent the natural progression of reading the narrative.  If the image prevents visual fluidity of the story, it prevents quality experiences.
+
 <hr>
 
 ### Informational Imagery
@@ -106,6 +109,9 @@ exisiting brand guidelines:
 > Some colors don't pair well with our brand colors. Avoid images
 > with large areas of clashing color.
 
+##### Composition
+When considering the composition of an informational image, avoid images that can cause uncertainty, confusion, misinformation or disinformation.  Clear informational representation is necessary to provide accuracy and comprehension. Cohesion is necessary.
+
 <hr>
 
 ### Assorted Imagery
@@ -117,7 +123,7 @@ Assorted Images are small images that represent the narrative, information, type
 They are used when providing previews, teasers, lists, or groups of visual imagery.
 
 ##### Choosing an assorted image
-Assorted images should be topic dependent, subject oriented and type positioned, engaging the user and setting the organizational tone for the page, but they shouldn’t overpower the content elements they support. Pay attention to both the appearance of the image and its composition.
+Assorted images should be topic dependent, subject oriented and type positioned, engaging the user and setting the organizational tone for the page, but they shouldn’t overpower the content elements they support. Pay attention to both the appearance of the image and its composition.  
 
 ##### Appearance
 
@@ -132,6 +138,9 @@ exisiting brand guidelines:
 
 > Some colors don't pair well with our brand colors. Avoid images
 > with large areas of clashing color.
+
+##### Composition
+When considering the composition of an assorted image, avoid images that are not consistent with the topic, type, or subject. It needs to align with the motif, and its source of content.
 
 <hr>
 
