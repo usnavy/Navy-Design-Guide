@@ -10,13 +10,13 @@ Transitions are coordinated sequences of motion that maintains user focus as the
 
 For Example:
 
-<a class="hvr-underline-from-left">Motion Example 1</a>
+<a class="hvr-underline-from-left">Motion Example 1</a> <br>
 
-<button class="hvr-rectangle-in"><strong>Motion Example 2</strong></button>
+<button class="hvr-rectangle-in"><strong>Motion Example 2</strong></button> <br>
 
-<button class="hvr-shrink"><strong>Motion Example 3</strong></button>
+<button class="hvr-shrink"><strong>Motion Example 3</strong></button> <br>
 
-<button class="hvr-bubble-right"><strong>Motion Example 4</strong></button>
+<button class="hvr-bubble-right"><strong>Motion Example 4</strong></button> <br>
 
 </div>
 
