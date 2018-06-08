@@ -12,7 +12,10 @@ Sequences refers to the order in which different parts of things appear, start m
 
 A good sequence makes it easy to understand what has changed about a screen, if any elements were added or removed, and what’s important to know about the next interaction.
 
-<a class="hvr-underline-from-left">Motion Example</a>
+For Example:
+<a class="hvr-underline-from-left">Motion Example 1 </a>
+
+<button class="hvr-underline-from-left">Motion Example 2</button>
 
 <hr>
 
