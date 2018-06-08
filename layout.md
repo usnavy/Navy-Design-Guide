@@ -117,8 +117,8 @@ widths up to **12 columns**.
       <div class="nxt-col-2 navy-blue"> Span 2</div>
       <div class="nxt-col-3 teal-blue"> Span 3</div>
       <div class="nxt-col-2 navy-blue"> Span 2</div>
-      <div class="nxt-col-3 navy-blue"> Span 3</div>
-      <div class="nxt-col-2 teal-blue"> Span 2</div>
+      <div class="nxt-col-3 teal-blue"> Span 3</div>
+      <div class="nxt-col-2 navy-blue"> Span 2</div>
     </div>  
   <br>
   <br>
