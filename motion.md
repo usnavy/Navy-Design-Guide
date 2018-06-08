@@ -6,19 +6,15 @@
 
 Transitions are coordinated sequences of motion that maintains user focus as the interface adapts.
 
-<div class="container-hide">
-
 For Example:
 
-<a class="hvr-underline-from-left">Motion Example 1</a> <br>
+<a class="hvr-underline-from-left">Motion Example 1</a> 
 
-<button class="hvr-rectangle-in"><strong>Motion Example 2</strong></button> <br>
+<button class="hvr-rectangle-in"><strong>Motion Example 2</strong></button> 
 
-<button class="hvr-shrink"><strong>Motion Example 3</strong></button> <br>
+<button class="hvr-shrink"><strong>Motion Example 3</strong></button> 
 
-<button class="hvr-bubble-right"><strong>Motion Example 4</strong></button> <br>
-
-</div>
+<button class="hvr-bubble-right"><strong>Motion Example 4</strong></button> 
 
 #### Sequences
 
