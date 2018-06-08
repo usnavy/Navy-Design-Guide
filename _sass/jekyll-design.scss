@@ -952,13 +952,14 @@ select {
   -webkit-transition-property: transform;
   transition-property: transform;
   top: calc(50% - 10px);
-  right: 0;
+  right: -12px;
   border-width: 10px 0 10px 10px;
   border-color: transparent transparent transparent #003b4f;
+  background: #003b4f;
 }
 .hvr-bubble-right:hover:before, .hvr-bubble-right:focus:before, .hvr-bubble-right:active:before {
-  -webkit-transform: translateX(-10px);
-  transform: translateX(-10px);
+  -webkit-transform: translateX(20px);
+  transform: translateX(20px);
 }
 
 @media print {
