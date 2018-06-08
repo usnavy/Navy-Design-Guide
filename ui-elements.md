@@ -31,8 +31,6 @@ For example:
 	Subscribe to all things Navy
 	</a>
 
-</div>
-
 <hr>
 
 ### Input Boxes
