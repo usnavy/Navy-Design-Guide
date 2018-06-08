@@ -11,11 +11,11 @@ For example:
 <br>
 <br>
 
-<button class="button-example">Button Example 1</button>
+<button class="button-example">Button Example 1</button> <br>
 	    
-<button class="button-example-2"><strong>Button Example 2</strong></button>
+<button class="button-example-2"><strong>Button Example 2</strong></button> <br>
 
-<button class="button-example-3"><strong>Button Example 3</strong></button>
+<button class="button-example-3"><strong>Button Example 3</strong></button> <br>
 
 </div>
 
