@@ -940,6 +940,10 @@ select {
   transform: perspective(1px) translateZ(0);
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
   position: relative;
+  background: #003b4f;
+  color: #ffffff;
+  padding: 5px;
+  border: 2px solid #003b4f;
 }
 .hvr-bubble-right:before {
   pointer-events: none;
