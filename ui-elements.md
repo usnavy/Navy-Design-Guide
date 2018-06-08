@@ -4,6 +4,8 @@
 
 Buttons are clear, and considers readability for comprehension, as well as ease-of-use.  Use the selected brand colors and accessibility parameters when creating the desired color scheme or user interface patterns.
 
+<div class="container-hide">
+
 For example:
 
 <button class="button-example">Button Example 1</button>
@@ -11,6 +13,8 @@ For example:
 <button class="button-example-2"><strong>Button Example 2</strong></button>
 
 <button class="button-example-3"><strong>Button Example 3</strong></button>
+
+</div>
 
 <hr>
 
@@ -24,6 +28,8 @@ For example:
 
 In addition, it is useful and beneficial to provide supporting context or subtext when applicable or necessary. 
 
+<div class="container-hide">
+
 For example:
 
 <a href="#" class="link-example">
@@ -31,11 +37,15 @@ For example:
 	Subscribe to all things Navy
 	</a>
 
+</div>
+
 <hr>
 
 ### Input Boxes
 
 Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user.  
+
+<div class="container-hide">
 
 For example:
 
@@ -44,11 +54,15 @@ For example:
 <input type="text" name="keyword" placeholder="-First Name-" class="input-box">
 </div>
 
+</div>
+
 <hr>
 
 ### Dropdown Boxes
 
 Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user. 
+
+<div class="container-hide">
 
 For example:
 
@@ -63,12 +77,16 @@ For example:
 </select>
 </div>	
 
+</div>
+
 <hr>
 
 
 ### Date Boxes
 
 Providing supporting context or visual aids can improve user adaptation.  All input boxes should have a placeholder within the text field and should be clearly communicated as what to put within the text field.  It prevents uncertainty, and helps assist the user. 
+
+<div class="container-hide">
 
 For example:
 
@@ -94,11 +112,15 @@ For example:
 </div>
 </div>
 
+</div>
+
 <hr>
 
 ### Call-to-Actions (CTA)s
 
 All hover states are underlined to provide consistency and to prevent uncertainty.  Call-to-actions emphasize and encourage the user to engage in ready and relevant information that has significance as well as additional value.  All call-to-actions are indicated with a chevron to gesture or promote cultural importance.
+
+<div class="container-hide">
 
 For example:
 
@@ -106,7 +128,7 @@ For example:
 	<strong>A Design for Maintaining Maritime Superiority</strong><img src="img/Right-Chevron.png" alt="Call to Action" class="chevron">
 	</a>
 
-
+</div>
 
 <br>
 <br>
