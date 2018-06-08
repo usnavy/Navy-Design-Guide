@@ -49,6 +49,12 @@ and featured content headings, respectively.
 
 ### Narrative Imagery
 
+#### Usage
+Narrative images help draw attention, provide context about the story, and helps distill complex narratives into comphrehension.
+
+#### Placement
+They are within stories, and promote the Navy story interposed within the narration.
+
 ##### Appearance
 
 When considering the appearance of a narrative image, follow our
@@ -67,15 +73,15 @@ exisiting brand guidelines:
 > Some colors don't pair well with our brand colors. Avoid images
 > with large areas of clashing color.
 
-#### Usage
-Narrative images help draw attention, provide context about the story, and helps distill complex narratives into comphrehension.
-
-#### Placement
-They are within stories, and promote the Navy story interposed within the narration.
-
 <hr>
 
 ### Informational Imagery
+
+#### Usage
+Informational imagery assists users in understanding content, without being the focal point in a User Interface (UI). It represents entities or content, either literally or conceptually.
+
+#### Placement
+They are within information driven content, and promote the informatics.
 
 ##### Appearance
 
@@ -94,15 +100,15 @@ exisiting brand guidelines:
 > Some colors don't pair well with our brand colors. Avoid images
 > with large areas of clashing color.
 
-#### Usage
-Informational imagery assists users in understanding content, without being the focal point in a User Interface (UI). It represents entities or content, either literally or conceptually.
-
-#### Placement
-They are within information driven content, and promote the informatics.
-
 <hr>
 
 ### Assorted Imagery
+
+#### Usage
+Thumbnails are small images that represent the narrative or information in tight spaces. They typically act as tap targets that lead to primary content, appearing within components.
+
+#### Placement
+They are used when providing previews, teasers, lists, or groups of visual imagery.
 
 ##### Appearance
 
@@ -117,12 +123,6 @@ exisiting brand guidelines:
 
 > Some colors don't pair well with our brand colors. Avoid images
 > with large areas of clashing color.
-
-#### Usage
-Thumbnails are small images that represent the narrative or information in tight spaces. They typically act as tap targets that lead to primary content, appearing within components.
-
-#### Placement
-They are used when providing previews, teasers, lists, or groups of visual imagery.
 
 <hr>
 
