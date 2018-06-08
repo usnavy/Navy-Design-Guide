@@ -49,6 +49,24 @@ and featured content headings, respectively.
 
 ### Narrative Imagery
 
+##### Appearance
+
+When considering the appearance of a narrative image, follow our
+exisiting brand guidelines:
+
+> All photography should feel story focused, and topic oriented,
+> to tell its own story in alignment with the overall narration. 
+
+> Each image should meet the pacing of the narration if multiple images are used.
+
+> Using people as the primary subject can relate to the user the best.
+
+> Equipment such as ships and other craft may also be used as the
+> primary subject.
+
+> Some colors don't pair well with our brand colors. Avoid images
+> with large areas of clashing color.
+
 #### Usage
 Narrative images help draw attention, provide context about the story, and helps distill complex narratives into comphrehension.
 
@@ -59,6 +77,23 @@ They are within stories, and promote the Navy story interposed within the narrat
 
 ### Informational Imagery
 
+##### Appearance
+
+When considering the appearance of an informational image, follow our
+exisiting brand guidelines:
+
+> All photography should feel informative, instructional, and topic aligned,
+> to inform constructively or clearly. 
+
+> Each image should meet the pacing of the information if multiple images are used.
+> Using people as the primary subject can relate to the user effectively.
+
+> Equipment such as ships and other craft may also be used as the
+> primary subject.
+
+> Some colors don't pair well with our brand colors. Avoid images
+> with large areas of clashing color.
+
 #### Usage
 Informational imagery assists users in understanding content, without being the focal point in a User Interface (UI). It represents entities or content, either literally or conceptually.
 
@@ -67,7 +102,21 @@ They are within information driven content, and promote the informatics.
 
 <hr>
 
-### Image Thumbnails 
+### Assorted Imagery
+
+##### Appearance
+
+When considering the appearance of an assorted image, follow our
+exisiting brand guidelines:
+
+> All photography should be topic exclusive, suited, and matched.
+> Using people as the primary subject can relate to the user effectively.
+
+> Equipment such as ships and other craft may also be used as the
+> primary subject.
+
+> Some colors don't pair well with our brand colors. Avoid images
+> with large areas of clashing color.
 
 #### Usage
 Thumbnails are small images that represent the narrative or information in tight spaces. They typically act as tap targets that lead to primary content, appearing within components.
