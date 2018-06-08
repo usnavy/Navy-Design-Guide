@@ -6,11 +6,11 @@ Buttons are clear, and considers readability for comprehension, as well as ease-
 
 For example:
 
-<button class="button-example">Imagery on Demand</button>
+<button class="button-example">Button Example 1</button>
 	    
-<button class="button-example-2">Navy 2050</button>
+<button class="button-example-2">Button Example 2</button>
 
-<button class="button-example-3">Navy Underway</button>
+<button class="button-example-3">Button Example 3</button>
 
 <hr>
 
