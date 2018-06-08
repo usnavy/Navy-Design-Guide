@@ -922,6 +922,10 @@ select {
   transition-duration: 0.3s;
   -webkit-transition-property: transform;
   transition-property: transform;
+  background: #ffffff;
+  color: #088199;
+  border: 3px solid #088199;
+  padding: 5px;
 }
 .hvr-shrink:hover, .hvr-shrink:focus, .hvr-shrink:active {
   -webkit-transform: scale(0.9);
