@@ -2,13 +2,13 @@
 
 ### Clean and Clear
 
-Clarity helps establish clear performance of a task or consumption of information. We focus on the essentials and guide the user through particular highlights and by means of a clear-cut hierarchy. We provide clear information to user needs and show where a piece of information is or how up-to-date it is.
+Clarity helps establish clear performance of a task or consumption of information. We focus on the essentials and guide the user through particular highlights by means of a clear-cut hierarchy. We provide clear information to user needs and show where a piece of information is or how up-to-date it is.
 
 <hr>
 
 ### Organized
 
-Users can choose individually from a range of different interests, positions and objectives. To create a positive experience, it is important to understand and incorporate the needs and aims of the user in the design. 
+Users can choose individually from a range of different interests, positions and objectives. To create a positive experience, it is important to understand and to incorporate the needs of the user in the design. It is important to provide users benefits.
 
 <hr>
 
@@ -26,7 +26,7 @@ We use a clear visual language to users on all channels and offer recurring solu
 
 <hr>
 
-### Detail
+### Detailed
 
 Details are not an option: they are a fundamental component of our visual appearance. We apply details such as iconography and imagery selectively to create a quality user experience.
 
