@@ -55,6 +55,9 @@ Narrative images help draw attention, provide context about the story, and helps
 #### Placement
 They are within stories, and promote the Navy story interposed within the narration.
 
+##### Choosing a narrative image
+Narrative images should tell the story, engaging the user and setting the emotional tone for the page, but they shouldn’t overpower the content elements they support. Pay attention to both the appearance of the image and its composition.
+
 ##### Appearance
 
 When considering the appearance of a narrative image, follow our
@@ -83,6 +86,9 @@ Informational imagery assists users in understanding content, without being the 
 #### Placement
 They are within information driven content, and promote the informatics.
 
+##### Choosing an informational image
+Informational images should inform or instruct, engaging the user and setting the articulated tone for the page, but they shouldn’t overpower the content elements they support. Pay attention to both the appearance of the image and its composition.
+
 ##### Appearance
 
 When considering the appearance of an informational image, follow our
@@ -105,10 +111,13 @@ exisiting brand guidelines:
 ### Assorted Imagery
 
 #### Usage
-Thumbnails are small images that represent the narrative or information in tight spaces. They typically act as tap targets that lead to primary content, appearing within components.
+Assorted Images are small images that represent the narrative, information, type, or topic in tight spaces. They typically act as tap targets that lead to primary content, appearing within components.
 
 #### Placement
 They are used when providing previews, teasers, lists, or groups of visual imagery.
+
+##### Choosing an assorted image
+Assorted images should be topic dependent, subject oriented and type positioned, engaging the user and setting the organizational tone for the page, but they shouldn’t overpower the content elements they support. Pay attention to both the appearance of the image and its composition.
 
 ##### Appearance
 
