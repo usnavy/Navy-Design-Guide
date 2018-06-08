@@ -14,6 +14,8 @@ For Example:
 
 <button class="hvr-shrink"><strong>Motion Example 3</strong></button>
 
+<button class="hvr-bubble-right"><strong>Motion Example 4</strong></button>
+
 #### Sequences
 
 Sequences refers to the order in which different parts of things appear, start moving, and stop moving.
