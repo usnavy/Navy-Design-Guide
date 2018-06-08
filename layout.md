@@ -188,8 +188,7 @@ widths up to **12 columns**.
   <br>
   <br>
 </div> 
-  <br>
-  <br>
+  
   <hr>
 
   <pre>
