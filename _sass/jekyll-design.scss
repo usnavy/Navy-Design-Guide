@@ -957,8 +957,8 @@ select {
   border-color: transparent transparent transparent #003b4f;
 }
 .hvr-bubble-right:hover:before, .hvr-bubble-right:focus:before, .hvr-bubble-right:active:before {
-  -webkit-transform: translateX(10px);
-  transform: translateX(10px);
+  -webkit-transform: translateX(-10px);
+  transform: translateX(-10px);
 }
 
 @media print {
