@@ -787,7 +787,7 @@ select {
 }
 
 .date-padding {
-		padding-right: 20px;
+	padding-right: 20px;
 	}
 	
 	.date-filter-options {
@@ -900,6 +900,7 @@ select {
 }
 .hvr-rectangle-in:hover, .hvr-rectangle-in:focus, .hvr-rectangle-in:active {
   color: #ffffff;
+  background: #088199;
 }
 .hvr-rectangle-in:hover:before, .hvr-rectangle-in:focus:before, .hvr-rectangle-in:active:before {
   -webkit-transform: scale(0);
