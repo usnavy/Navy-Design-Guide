@@ -49,12 +49,11 @@ Width by Height, or Height by Width.
 
 | Devices                         | Width       | Height     |
 | ------------------------------- |-------------|------------|
-| Apple iPad Pro                  | 2732 px     | 2048 px    |
-| Apple iPad Mini                 | 768 px      | 1024 px    |
-| Apple iPad Air 2                | 2048 px     | 1536 px    |
+| Apple iPad Pro                  | 1366 px     | 1024 px    |
+| Apple iPad                      | 1024        | 768 px     |
 | Apple iPad Mini                 | 768 px      | 1024 px    |
 | Microsoft Surface Pro 4         | 2736 px     | 1824 px    |
-| Amazon Fire                     | 1024 px     | 600 px     |
+| Amazon Kindle Fire              | 1280 px     | 800 px     |
 
 <hr>
 
@@ -67,19 +66,17 @@ Remember:  All mobile sizes and styles have two orientations, Portrait and Lands
 
 | Devices                                 | Height     | Width      |
 | --------------------------------------- |------------|------------|
-| Apple iPhone 6, 6s, and 7               | 1334 px    | 750 px     |
-| Apple iPhone 6+ and 7+                  | 1920 px    | 1080 px    |
-| Apple iPhone 5 (5c, 5s)                 | 1136 px    | 640 px     |
-| Apple iPhone 6, 6s, and 7               | 1334 px    | 750 px     |
-| Apple iPhone 4 (4, 4S)                  | 960 px     | 640 px     |
-| Samsung Galaxy S6 and S6 Edge+          | 2560 px    | 1440 px    |
-| Samsung Galaxy S8+                      | 1440 px    | 2960 px    |
-| Samsung Galaxy S5                       | 1920 px    | 1080 px    |
-| Samsung Galaxy J7                       | 1280 px    | 720 px     |
-| Samsung A5                              | 1280 px    | 720 px     |
-| Google Pixel                            | 1920 px    | 1080 px    |
-| LG V10, G3 and G4                       | 2560 px    | 1440 px    |
-| HTC One and One M9                      | 1920 px    | 1080 px    |
+| Apple iPhone X                          | 812 px     | 375 px     |
+| Apple iPhone 6/7/8 Plus                 | 736 px     | 414 px     |
+| Apple iPhone 6/7/8                      | 667 px     | 375 px     |
+| Apple iPhone 5/SE                       | 568 px     | 320 px     |
+| Apple iPhone 4                          | 480 px     | 320 px     |
+| Google Pixel 2 XL                       | 823 px     | 411 px     |
+| Google Pixel 2                          | 731 px     | 411 px     |
+| Samsung Galaxy S7                       | 640 px     | 360 px     |
+| Samsung Galaxy S6                       | 732 px     | 414 px     |
+| Samsung Galaxy S5                       | 640 px     | 360 px     |
+| Samsung Galaxy J7                       | 640 px     | 360 px     |
 
 <hr>
 
