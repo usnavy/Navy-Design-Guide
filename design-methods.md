@@ -3,8 +3,8 @@
 ### Hierarchical
 
 #### Information
+There are five ways to organize information: location, alphabet, time, category and hierarchy or LATCH.
 
-Information is categorized, well-thought, distinct, and accurate.
 #### Location
 Use this when organizing information by geographic or spatial location. The most common graphical products that is represented by this category are maps. Maps are a means to organize by location (think about metro or park maps), but also consider other forms like the location of parts in a repair manual.
 #### Alphabet
