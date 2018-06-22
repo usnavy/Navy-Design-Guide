@@ -5,6 +5,16 @@
 #### Information
 
 Information is categorized, well-thought, distinct, and accurate.
+#### Location
+Use this when organizing information by geographic or spatial location. The most common graphical products that is represented by this category are maps. Maps are a means to organize by location (think about metro or park maps), but also consider other forms like the location of parts in a repair manual.
+#### Alphabet
+Alphabetic systems are simple to grasp and familiar in everyday life. Use this when organizing large quantities of information, such as specialized glossaries or the online resources. This method of organization is less effective for short lists of unrelated things but is powerful for long lists - alphabetizing information is also effective when an audience might not understand any another classification system.
+#### Time
+Use this when a timeline or history is apparent will be an apparent sort method. This is typically done when elements are presented in a sequential step-by-step manner. The most apparent example is a history of specific events - a timeline. Other options include sort order by date or providing the user with a date range to facilitate the user’s selection.
+#### Category
+Organization by the similarity of characteristics or relatedness of the items. Use the category approach when the information is similar in importance and the categories are intuitive or easy to understand. This is a good way to organize information about music, or types of content.
+#### Hierarchy
+The means of organizing information by orders of magnitude (smallest to largest or best to worst). hierarchy. Best used when there’s a common measure with which to make comparisons. 
 
 #### Color 
 
