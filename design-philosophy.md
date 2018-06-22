@@ -6,8 +6,8 @@ Understand our users and end users better than they understand themselves.
 
 Human-centered design, also known as HCD, is a creative approach to problem solving that places people at the center of design considerations rather than making people conform to a design. 
 Human-centered design is rooted in both primary and secondary research. 
-•	Primary research is any type of research you conduct yourself. Primary research is the gathering, compiling, organization and analysis of interviews, focus groups, surveys, questionnaires and observations. 
-•	Secondary research is the collection and analysis of research that has already been compiled, gathered, organized and published by others. It includes reports and studies by governments, think-tanks, universities, agencies, associations, businesses or other researchers.
+..* Primary research is any type of research you conduct yourself. Primary research is the gathering, compiling, organization and analysis of interviews, focus groups, surveys, questionnaires and observations. 
+..* Secondary research is the collection and analysis of research that has already been compiled, gathered, organized and published by others. It includes reports and studies by governments, think-tanks, universities, agencies, associations, businesses or other researchers.
 
 <hr>
 
