@@ -1,8 +1,13 @@
 ## Design Philosophy
 
-### Design with Empathy
+### Human-Centered Design
 
 Understand our users and end users better than they understand themselves.
+
+Human-centered design, also known as HCD, is a creative approach to problem solving that places people at the center of design considerations rather than making people conform to a design. 
+Human-centered design is rooted in both primary and secondary research. 
+•	Primary research is any type of research you conduct yourself. Primary research is the gathering, compiling, organization and analysis of interviews, focus groups, surveys, questionnaires and observations. 
+•	Secondary research is the collection and analysis of research that has already been compiled, gathered, organized and published by others. It includes reports and studies by governments, think-tanks, universities, agencies, associations, businesses or other researchers.
 
 <hr>
 
@@ -18,7 +23,7 @@ Design should be usable on all devices by all of the people in all situations. D
 
 <hr>
 
-### Data informs Design
+### Data Informs Design
 
 “One accurate measurement is worth more than a thousand expert opinions.” 
 – Rear Admiral and Computer Scientist, Grace Hopper 
@@ -26,13 +31,13 @@ Design should be usable on all devices by all of the people in all situations. D
 
 <hr>
 
-### Good Design works for Everyone, Daily
+### Good Design Works for Everyone, Daily
 
 Design solves an important human problem.
 
 <hr>
 
-### Good Design builds Long-Term Relationships
+### Good Design Builds Long-Term Relationships
 
 We value the familiarity and trust placed in us. We acknowledge the Navy heritage of iconic design and history with subtle references.  We believe in active caring, we recognize the need to speak to everyone and the individual. 
 
